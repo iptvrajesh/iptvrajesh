@@ -28,7 +28,7 @@ http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 http://manastv.xyz/m3u8.php?c=Reporter_TV&q=800&e=junk.m3u8
 https://live.reporterlive.com:1443/reportertvlive/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/2017/11/news18-kerala-tv-new.png" group-title="വാർത്ത",ന്യൂസ് 18 കേരളം 
-http://jo123.biz/jweb/m3u8.php?c=News_18_Kerala&q=1200&e=junk.m3u8
+https://news18keralavoot-lh.akamaihd.net/i/n18kerala_1@526583/index_5_av-p.m3u8
 http://manastv.xyz/m3u8.php?c=News_18_Kerala&q=800&e=junk.m3u8
 https://cdn.asianetmobiletvplus.com/channels/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_hls/newseighteen_qbvbepuyijhdjgjrosvflfemqkudnfdv_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hXsVrIh.jpg" group-title="വാർത്ത",കൈരളി ന്യൂസ്  
@@ -261,7 +261,7 @@ http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/HD.SMU.jpg/revision/latest/scale-to-width-down/250?cb=20180318045647" group-title="Music",സൺ മ്യൂസിക്  HD
 https://mhdtvapp.xyz/yupp/yupp.php?c=sun-music-hd&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Tamil",ATHAVAN TV 
-https://indo51.gcdn.co/TAMIL-ATHAVANTV/index.m3u8
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",VAANAVIL 
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM91_Yp7ZAwBDp1ydwXQ_Gz6oY7scxRRLMlA&usqp=CAU" group-title="Music",JAYA MAX
@@ -292,6 +292,8 @@ http://manastv.xyz/m3u8.php?c=Zee_Tamil&q=800&e=junk.m3u8
 https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg/revision/latest/scale-to-width-down/200?cb=20180222170738" group-title="Tamil",COLORS TAMIL HD
 http://manastv.xyz/m3u8.php?c=Colors_Tamil_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies",3 TAMIL TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",NDTV LANKA HD
 http://198.144.149.82:8080/NDTV_LANKA/index.m3u8?token=IBC
 #EXTINF:-1 tvg-logo="" group-title="Movies",ZEE THIRAI
@@ -831,6 +833,8 @@ http://212.83.182.155:8080/live/K3UArdwYD8/gxudq6LQKf/62541.m3u8
 http://212.83.182.155:8080/live/K3UArdwYD8/gxudq6LQKf/62542.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",CMT MUSIC
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/B4U_MUSIC_2015.png/revision/latest/scale-to-width-down/180?cb=20150308151811" group-title="Music",B4U MUSIC
 http://xtrm.rtload.be:8999//live/jaykhantest/JVJNDFLJGVNFDSLK/207.ts
 #EXTINF:-1 tvg-logo="" group-title="Music",B4U PLUS
