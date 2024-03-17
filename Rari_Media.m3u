@@ -1001,7 +1001,7 @@ https://teachublive.link/mac/create.php?id=155816
 #https://livectv2.phando.com/8035/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://teachublive.link/TATA1/play.php?id=229&key
+#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=229&key
 #EXTINF:-1 tvg-id="ts229" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",SURYA MOVIES
 #https://teachublive.link/mac/create.php?id=155815
 https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd
