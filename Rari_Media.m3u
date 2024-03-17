@@ -929,7 +929,8 @@ https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=292&key
 #EXTINF:-1 tvg-id="ts292" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",ASIANET HD
-https://teachublive.link/mac4/create.php?id=155814
+#https://teachublive.link/mac4/create.php?id=155814
+https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",ASIANET HD (TEACHUB)
@@ -1001,10 +1002,9 @@ https://teachublive.link/mac/create.php?id=155816
 #https://livectv2.phando.com/8035/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=229&key
+#KODIPROP:inputstream.adaptive.license_key=https://teachublive.link/TATA1/play.php?id=229
 #EXTINF:-1 tvg-id="ts229" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",SURYA MOVIES
-#https://teachublive.link/mac/create.php?id=155815
-https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd
+https://teachublive.link/mac/create.php?id=155815
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2286,7 +2286,6 @@ https://teachublive.link/CRICHD/sports.php?v=willowextra
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX 505
 https://webudit.webhd.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-
 
 
 
