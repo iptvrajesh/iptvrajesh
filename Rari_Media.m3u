@@ -1526,7 +1526,8 @@ https://livea.streamready.in/stargold2/smil:common.smil/manifest.mpd
 https://livea.streamready.in/symandxplorhd/smil:common.smil/manifest.mpd
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="Kids",KOCHU TV 
-https://teachublive.link/JIO/app/live.php?id=556&e=.m3u8
+https://mhdtv.co.in/jio/stream.m3u8?id=556
+#https://teachublive.link/JIO/app/live.php?id=556&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Tamil",ADITHYA TV 
 https://teachublive.link/JIO/app/live.php?id=709&e=.m3u8
