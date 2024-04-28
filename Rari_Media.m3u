@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
-#Last Update: 26/02/2024 📅
+#Last Update: 28/04/2024 📅
 #Rari Media by Rajesh 
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" tvg-logo="https://iili.io/1Nz0AP.png",ASTRO CRICKET
@@ -1167,7 +1167,7 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_554/output/manifes
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"oXnZ/HxmNSUzXy8I0MdB/A","kid":"bbW5QBIEWgmpvUfSltZNqQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts457" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11772-j9kwsqns-v1/imageContent-11772-j9kwsqns-m1.png",SHALOM TV
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_714/output/manifest.mpd
-https://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
+#https://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCZKpTXW-WDBMa66qj27CyuQ.m3u8
 #https://livectv3.phando.com/8016/chunklist0.m3u8
 https://xo.toxicify-pro.workers.dev/bpk-tv/Shalom_MOB/Fallback/index.m3u8
