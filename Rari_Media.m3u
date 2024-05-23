@@ -11,7 +11,7 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #Last Update: 23/05/2024 📅
-#Rari Media by Rajesh 
+#Rari Media by Rajesh
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" tvg-logo="https://iili.io/1Nz0AP.png",ASTRO CRICKET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
