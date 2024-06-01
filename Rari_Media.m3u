@@ -2400,9 +2400,10 @@ https://webudit.webhd.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay
 https://bpcdn.dialog.lk/bpk-tv/Ch091/output/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4ed34369670e86a3261d12cb100a6a7:f7bb43913e19270d2b7cc9415ce5ac29
+#KODIPROP:inputstream.adaptive.license_key=01b1bafc996378ec0a7cb804aedca646:e1669c99c646fbbe4d4ade8dfe3a3963
 #EXTINF:-1 tvg-id="ts632" tvg-logo="https://i.ibb.co/QfYnMCx/IMG-20240109-191620-478-photoaidcom-cropped-webp.png" group-title="Movies",Test 2
-https://bpcdn.dialog.lk/bpk-tv/Ch006/output/index.mpd
+https://bpcdn.dialog.lk/bpk-tv/Ch126/output/index.mpd
+
 
 
 
