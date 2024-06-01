@@ -2394,4 +2394,9 @@ https://teachublive.link/CRICHD/sports.php?v=willowextra
 #EXTINF:-1 tvg-logo="" group-title="Sports",FOX 505
 https://webudit.webhd.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/DenverKey.php?id=1769
+#EXTINF:-1 tvg-id="ts632" tvg-logo="https://i.ibb.co/QfYnMCx/IMG-20240109-191620-478-photoaidcom-cropped-webp.png" group-title="Movies",STAR GOLD Romance Test
+https://bpcdn.dialog.lk/bpk-tv/Ch091/output/index.mpd
+
 
