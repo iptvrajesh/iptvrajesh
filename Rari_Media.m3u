@@ -942,6 +942,7 @@ https://xo.toxicify-pro.workers.dev/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
 https://tp.puspas.com.np/live/tataplay/surya-tv/manifest.mpd
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=292&key
 #EXTINF:-1 tvg-id="ts292" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",ASIANET HD
@@ -1477,7 +1478,8 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/i
 https://hls.rtasport.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T SPORTS HD
-https://webudit.webhd.ru/lb/premium270/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
+#https://webudit.webhd.ru/lb/premium270/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #https://nayeem-ayna1.000webhostapp.com/aynaxd.php?id=27&e=.m3u8|User-Agent=nayeemxyz-69
 #https://live.tsports.com/mobile_hls/tsports_live/auto.m3u8
 #https://live.tsports.com/live/tsports_live_1080/index.m3u8
@@ -1800,7 +1802,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5073/default_primary.m
 #EXTINF:-1 tvg-id="BoxOfficeThangathirai" ch-number="241" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Tamil",ABO THANGATHIRAI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2109/default_primary.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
