@@ -317,35 +317,35 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
 #https://tp.puspas.com.np/live/tataplay/sony-sports-ten-1-hd/manifest.mpd
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd
-#https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8 
-https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8 
+#https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6sbR0FrpKzKN+sw8Dk9PAA","kid":"HMNh4XCEWTaup7lcbvtHjg"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts462" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png",SONY SPORTS TEN 2 HD
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd
-#https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8 
-https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
+#https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"5MnBmKp0gsBy/sMw3dg+5w","kid":"RCi+eqz7VXSSx/pVLD7L8Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts464" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png",SONY SPORTS TEN 3 HD
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd
-#https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8 
-https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8 
+#https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",SONY SPORTS TEN 4 HD
-#https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
+https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
+#https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sfD9r3C9AHYRxz5s6ooKWA","kid":"xx3WP0EaUJmESnP76FDJ/Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts35" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png",SONY SPORTS TEN 5 HD
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
-#https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mq5kOxUZnSNTdOW5Cx409w","kid":"GS3V8HedWYOjqhgnap+3GQ"}],"type":"temporary"}
@@ -2102,7 +2102,7 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 #EXTINF:-1 group-title="Sports" tvg-id="SSC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/300px-SSC_TV_logo.svg.png",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e76ae17d861546be9c238e6582509c2c:de1a91e2306bf8442236a80477f526e1
-https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/index.mpd
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-id="SSC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/300px-SSC_TV_logo.svg.png",SSC 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2423,7 +2423,7 @@ https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd
 https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",PTV SPORTS HD
-https://teachublive.link/mac/create.php?id=281089
+https://rips.in/stream/ch1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" group-title="Sports",A SPORTS HD
 https://teachublive.link/mac/create.php?id=165565
@@ -2452,6 +2452,12 @@ https://bpcdn.dialog.lk/bpk-tv/Ch126/output/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",CRICKET GOLD
 https://cc-bpss9asqfihqh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/1eb879b9-64ac-4ea4-ab55-854952d725b2/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Sky_Open.svg/revision/latest?cb=20230817061940" group-title="Sports",SKY OPEN
+https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SonyLIV_2020.jpg/revision/latest?cb=20200527141528" group-title="Sports",SONY LIV ENGLISH
+https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
 
 
 
