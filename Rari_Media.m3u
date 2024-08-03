@@ -361,7 +361,6 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=980&key
 #EXTINF:-1 tvg-id="ts980" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",SPORTS 18 1
-http://14.102.123.50:5001/live/2851.m3u8
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
