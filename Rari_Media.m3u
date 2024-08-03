@@ -363,6 +363,9 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
 #EXTINF:-1 tvg-id="ts980" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",SPORTS 18 1
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd
 
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"P96BVYcO33668wlsRIIaSQ","kid":"RV1TPWnzXDWqCFPmISvC5w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts693" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",EUROSPORT
@@ -1208,10 +1211,10 @@ https://segment.yuppcdn.net/140622/janamtv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tvLlS93FdSfBTb9hII7xtw","kid":"rrcTHz2aU/KjPO2oRzbXFA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts799" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",TWENTY FOUR
 #https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
+http://14.102.123.50:5001/live/1250.m3u8
+#https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
 #https://livectv3.phando.com/8014/chunklist0.m3u8
-
 
 #EXTINF:-1 tvg-id="ts799" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",TWENTY FOUR YOUTUBE
 https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
@@ -1477,6 +1480,12 @@ https://rbhkto39.azureedge.net/live/soccer1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",SPORTS 18 KHEL 
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SPORTS 18 2
+http://14.102.123.50:5001/live/2852.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SPORTS 18 3
+http://14.102.123.50:5001/live/2853.m3u8
 
 #EXTINF:1 tvg-logo="" group-title="Sports",JIO SPORTS LIVE 1
 https://prod-sports-eng-gm.jiocinema.com/hls/live/2100310/uhd_akamai_ctv_avc_eng_olympic_feed1_270724/master.m3u8
@@ -2543,9 +2552,3 @@ https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SonyLIV_2020.jpg/revision/latest?cb=20200527141528" group-title="Sports",SONY LIV ENGLISH
 https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",Test 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bac6f292701f4730ac3a2b46692b6d70:857e07779e8c4bf9b3a20256ee834667
-https://jc-ak-dashstreaming.jiocinema.com/content/entry/wvdata/29/20/c89c61705f8d11e9b55d89892412393d_voot_web_premium_1636638965346.mpd
-
