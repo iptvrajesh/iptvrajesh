@@ -1701,14 +1701,14 @@ http://14.102.123.50:5001/live/895.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Sun_Music_HD_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=895&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA HD
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA TV HD
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Surya_HD_MOB/Fallback/index.m3u8
 #https://teachublive.link/mac/create.php?id=155817
 #https://teachublive.link/JIO/app/live.php?id=900&e=.m3u8
 http://217.20.112.199/surya/index.m3u8
 #https://hostycarehost.link/test/linear-live.php?id=5894&vtoken=&e=.m3u8
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA HD (SUNNXT)
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA TV HD (SUNNXT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 #https://livestream6.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
@@ -2544,5 +2544,8 @@ https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SonyLIV_2020.jpg/revision/latest?cb=20200527141528" group-title="Sports",SONY LIV ENGLISH
 https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Test",Test 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bac6f292701f4730ac3a2b46692b6d70:857e07779e8c4bf9b3a20256ee834667
+https://jc-ak-dashstreaming.jiocinema.com/content/entry/wvdata/29/20/c89c61705f8d11e9b55d89892412393d_voot_web_premium_1636638965346.mpd
 
