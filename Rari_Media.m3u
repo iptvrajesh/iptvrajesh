@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
-#Last Update: 04/08/2024 📅
+#Last Update: 07/08/2024 📅
 #Rari Media by Rajesh 
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" tvg-logo="https://iili.io/1Nz0AP.png",ASTRO CRICKET
@@ -597,13 +597,13 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifes
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=238&key
 #EXTINF:-1 tvg-id="ts238" group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",CARTOON NETWORK
 #https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
-https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
+https://jmp2.uk/SamsungTVPlus/INBD13000205L.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=239&key
 #EXTINF:-1 tvg-id="ts239" group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",POGO
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd
-https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+https://jmp2.uk/SamsungTVPlus/INBD1300021X3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "S5jXPXYCzxTcKzlpobNHKg", "kid": "T7BKi4UbW5CxS1QAZA7FMw"}], "type": "temporary"}
@@ -1208,8 +1208,8 @@ https://segment.yuppcdn.net/140622/janamtv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tvLlS93FdSfBTb9hII7xtw","kid":"rrcTHz2aU/KjPO2oRzbXFA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts799" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",TWENTY FOUR
 #https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd
-http://14.102.123.50:5001/live/1250.m3u8
-#https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
+#http://14.102.123.50:5001/live/1250.m3u8
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
 #https://livectv3.phando.com/8014/chunklist0.m3u8
 
@@ -2544,3 +2544,9 @@ https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SonyLIV_2020.jpg/revision/latest?cb=20200527141528" group-title="Sports",SONY LIV ENGLISH
 https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900026FJ_20220427T054717SQUARE.png_20220427054718.png" group-title="Kids",TOON GOGGLES
+https://jmp2.uk/SamsungTVPlus/INBA4900026FJ.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20240522T015915SQUARE.png" group-title="Movies",HOLLYWOOD DESI
+https://jmp2.uk/SamsungTVPlus/INBC43000071R.m3u8
