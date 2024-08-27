@@ -1090,6 +1090,7 @@ http://45.249.171.155:8090/anandmedia/asianetmovies_576/index.m3u8
 #EXTINF:-1 tvg-id="ts553" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png",WE TV
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
+#http://45.249.171.155:8090/anandmedia/kairaliwe_576/index.m3u8
 #https://livectv2.phando.com/8085/chunklist0.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1199,7 +1200,8 @@ http://14.102.123.50:5001/live/650.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"a6R0vpS6/uKv2Ny51KnvFQ","kid":"ESxZFOPOXmuxo9O3X3lapQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts270" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11179-j9i3nhs8-v2/imageContent-11179-j9i3nhs8-m3.png",JANAM TV
 #https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd
-https://segment.yuppcdn.net/140622/janamtv/playlist.m3u8
+#https://segment.yuppcdn.net/140622/janamtv/playlist.m3u8
+http://45.249.171.155:8090/anandmedia/janamtv_576/index.m3u8
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live_720p/chunks.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCjElJyiXmQXnWmceQ1JyKrA.m3u8
@@ -1303,13 +1305,14 @@ https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/media-one/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://45.249.171.155:8090/anandmedia/mediaone_576/index.m3u8
 #https://tp.puspas.com.np/live/tataplay/media-one/manifest.mpd
 #https://lineartv.neestream.net/neestream_01/mediaone/tracks-v1a1/mono.m3u8?token=693400
 #https://yuppftalive.akamaized.net/120723/smil:mediaone2.smil/playlist.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
 #https://livectv3.phando.com/8018/playlist.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Media_One_TV_MOB/Fallback/index.m3u8
-http://14.102.123.50:5001/live/910.m3u8
+#http://14.102.123.50:5001/live/910.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="Malayalam",MEDIA ONE YOUTUBE
 https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
