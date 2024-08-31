@@ -821,10 +821,10 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifes
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
 https://livestream.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
 
+#EXTINF:-1 tvg-id="ts474" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png",SUN LIFE (SUNNXT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=474&key
-#EXTINF:-1 tvg-id="ts474" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png",SUN LIFE
-https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_756/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=496&key
