@@ -2565,6 +2565,9 @@ https://ssailive.vgcdn.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772a
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/starvision_512X512_balck.png" group-title="Movies",STAR VISION
 https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/6b6b453c-164c-43e6-948b-02090d91ce44/1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",LALIGA
+https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 1
 http://116.202.46.40:9023/SURYA_MALAYALAM/index.m3u8
 
