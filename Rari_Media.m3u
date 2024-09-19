@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
-#Last Update: 31/08/2024 📅
+#Last Update: 19/09/2024 📅
 #Rari Media by Rajesh 
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" tvg-logo="https://iili.io/1Nz0AP.png",ASTRO CRICKET
@@ -352,11 +352,12 @@ https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Mq5kOxUZnSNTdOW5Cx409w","kid":"GS3V8HedWYOjqhgnap+3GQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts1033" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",SPORTS 18 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d86185f50f5952589c280167ee8e45c5:6bff81346539e4bcc9abdb351f1c855e
+https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
+#https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=980&key
@@ -819,7 +820,7 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifes
 #EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",SUN TV HD (SUNNXT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
-https://livestream.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
 
 #EXTINF:-1 tvg-id="ts474" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png",SUN LIFE (SUNNXT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1540,7 +1541,7 @@ https://prod-sports-eng-gm.jiocinema.com/hls/live/2112599/uhd_akamai_ctv_avc_eng
 https://prod-sports-eng-gm.jiocinema.com/hls/live/2112599/uhd_akamai_ctv_avc_eng_olympic_feed17_270724/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA HD
-https://hls.rtasport.live/hls/stream.m3u8
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T SPORTS HD
 http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
@@ -2492,7 +2493,7 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20230809T005143SQUARE.png_20230809005144.png" group-title="Others" ,CLARITY 4K
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Others" ,SPORTS18 4K
+#EXTINF:-1 tvg-logo="" group-title="Sports" ,SPORTS18 4K
 #https://prod-sports-hin-fa.jiocinema.com/hls/live/2100304/uhd_akamai_ctv_avc_eng_indvsaus_t2001/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Others" ,DISCOVERY MALAYALAM HD
@@ -2514,6 +2515,11 @@ https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
 https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",CRICBUZZ 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
+https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" group-title="Sports",A SPORTS HD
 https://ddy6.mizhls.ru:443/ddy6/premium269/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
