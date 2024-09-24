@@ -17,7 +17,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 #EXTINF:-1 tvg-id="ts191" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",DD NATIONAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2648,6 +2648,14 @@ http://donelfantastic.github.io/live/skysportsNz8.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 9
 http://donelfantastic.github.io/live/skysportsNz9.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Movies", INDIAN & BOLLYWOOD MOVIES
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991756
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", CRICKET 360
+https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", FL SPORT
+https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 1
