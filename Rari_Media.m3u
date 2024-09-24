@@ -10,12 +10,12 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
-#Last Update: 19/09/2024 📅
+#Last Update: 24/09/2024 📅
 #Rari Media by Rajesh 
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" tvg-logo="https://iili.io/1Nz0AP.png",ASTRO CRICKET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=https://denver1769.in/TP/key.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
@@ -368,14 +368,20 @@ https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/inde
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"P96BVYcO33668wlsRIIaSQ","kid":"RV1TPWnzXDWqCFPmISvC5w"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts693" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",EUROSPORT
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/77e0cb38-3601-4c47-b91f-e404e3f02a98/3.m3u8
+#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/77e0cb38-3601-4c47-b91f-e404e3f02a98/3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"t9VqY6YP3RE8ePIdIp1FIw","kid":"zK88EgfiVlCFq7Xs2yOL2Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts812" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",EUROSPORT HD
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd
-https://i.mjh.nz/SamsungTVPlus/INBC1500009OF.m3u8
+#https://i.mjh.nz/SamsungTVPlus/INBC1500009OF.m3u8
 #https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/cfeace4c-d8b0-461a-8a48-e21a72d3598f/3.m3u8
+
+#EXTINF:-1 tvg-id="820.astro" tvg-logo="https://iili.io/JmozxBR.png" group-title="Sports",EUROSPORT ASIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=815&key
@@ -2204,7 +2210,7 @@ https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-id="SSC 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/300px-SSC_TV_logo.svg.png",SSC 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
+#KODIPROP:inputstream.adaptive.license_key=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
 https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-id="SSC 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/300px-SSC_TV_logo.svg.png",SSC 5
@@ -2219,13 +2225,13 @@ https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/inde
 
 #EXTINF:-1 group-title="Sports" tvg-id="SSC EXTRA 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe_iYkyXyYSewEjFab5Wd8HnLFr3eDfWYxvMNvNkYdciyaIDA4ukL81K1eV6rxOEBe4dk&usqp=CAU",SSC EXTRA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc98baf530ac49aea60a7bf50929aa91:f8c40722bb6a0cf822588661740a08bb
-#https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e29c/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=4d89249bd4ca4ebc9e70443265f9507d:cf074ffd2646c9c2f8513b47fa57bc30
+https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-id="SSC EXTRA 3" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-extra-3-sa.png",SSC EXTRA 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b05d5f11a0b422d86354c34782ed2bc:82aef319b4cfc71fd48cdd495ee79786
-#https://ssc-extra3-on-prem-cw-ak.akamaized.net/out/v1/9d373d000ab64078b131f9d4c18e3502/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=98cfd6fd4812497fb24dc75f7545f2ee:d3006ee69e77b25939728ebf30d3180a
+https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f3238142348789ed5a99b9a1bd8e010:438fb62e97278526686d921126343d32
@@ -2504,7 +2510,7 @@ https://nowmetv.net/delta/discovery/api/Discovery_Malayalam_HD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png",TEN CRICKET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-https://sltlivetestgcp.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="ts235" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",STAR SPORTS 2 HD (DIALOG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2515,6 +2521,7 @@ https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
 https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
+#http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",CRICBUZZ 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2522,14 +2529,13 @@ https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" group-title="Sports",A SPORTS HD
-https://ddy6.mizhls.ru:443/ddy6/premium269/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Geo_Super.png/revision/latest?cb=20111001230449" group-title="Sports",GEO SUPER
-https://teachublive.link/mac/create.php?id=165629
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",TEN SPORTS PK
-https://teachublive.link/CRICHD/sports.php?v=tenspk
-#https://webudit.webhd.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",EVENT TV
 https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
@@ -2579,6 +2585,70 @@ https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/ind
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",LALIGA 3
 https://dz6knuujo9z7i.cloudfront.net/out/v1/a54d9b3234aa4b61a2d1f475bfad6a58/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", SN ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9dd2ed9609f49309ddf07892d25b081:c1254109aaff73701fbea97dc1899b8e
+https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", SN WORLD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44f6a1e5467d4df7a9da2d1b96ee62ca:157d3d7156dd1b288d661d453dbfc682
+https://live-streaming-rsm.azureedge.net/snwlh/snwlh_cenc.isml/.mpd
+
+#EXTINF:-1 tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", SN 360
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=52aaea92c06c44eda0a2011cc2968273:583663736892d93018de53fe4ddde899
+https://live-streaming-rsm.akamaized.net/sn360h/sn360h_cenc.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", SN EAST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9aa86d20170e4f80aad6288cabdeec0d:d007173f78a682cdfa794b2f766d38e3
+https://live-streaming-rsm.azureedge.net/snehd/snehd_cenc.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", SN ONTARIO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa2a1c0225344d785ef5592679d814a:33221730df0e2b845efc8521eb2c6460
+https://live-streaming-rsm.azureedge.net/snohd/snohd_cenc.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", SN PACIFIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa2a1c0225344d785ef5592679d814a:33221730df0e2b845efc8521eb2c6460
+https://live-streaming-rsm.azureedge.net/snphd/snphd_cenc.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", SN WEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=173f2bed33254dbb86829df92bd3ae23:25dc0891a38127cf6c4aa5327b7ee5ac
+https://live-streaming-rsm.azureedge.net/snwhd/snwhd_cenc.isml/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 1
+http://donelfantastic.github.io/live/skysportsNz1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 2
+http://donelfantastic.github.io/live/skysportsNz2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 3
+http://donelfantastic.github.io/live/skysportsNz3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 4
+http://donelfantastic.github.io/live/skysportsNz4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 5
+http://donelfantastic.github.io/live/skysportsNz5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 6
+http://donelfantastic.github.io/live/skysportsNz6.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 7
+http://donelfantastic.github.io/live/skysportsNz7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 8
+http://donelfantastic.github.io/live/skysportsNz8.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports", SKY SPORTS NZ 9
+http://donelfantastic.github.io/live/skysportsNz9.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 1
 http://116.202.46.40:9023/SURYA_MALAYALAM/index.m3u8
