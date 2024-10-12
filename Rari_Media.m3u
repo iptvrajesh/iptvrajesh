@@ -1066,7 +1066,8 @@ http://45.249.171.155:8090/anandmedia/kairalitv_576/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/mazhavil-manorama-hd/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://45.249.171.155:8090/anandmedia/mazhavilmanorama_576/index.m3u8
+https://cdn1.pishow.tv/live/200/200_0.m3u8
+#http://45.249.171.155:8090/anandmedia/mazhavilmanorama_576/index.m3u8
 #https://tp.puspas.com.np/live/tataplay/mazhavil-manorama-hd/manifest.mpd
 #https://teachublive.link/mac/create.php?id=155816
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd
@@ -1176,8 +1177,8 @@ https://ythls.armelin.one/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O5i3pIFQ+39pAJCq5Olofg","kid":"5B4gC8BJV7uHOyMwlAMIOQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts66" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12309-ja9ac8n4-v1/imageContent-12309-ja9ac8n4-m1.png",NEWS18 KERALAM
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/manifest.mpd
-#https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/playlist.m3u8
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/playlist.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/playlist.m3u8
+#https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/playlist.m3u8
 #http://45.249.171.155:8090/anandmedia/news18kerala_576/index.m3u8
 
 #EXTINF:-1 tvg-id="ts370" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11495-j9jtg2ns-v2/imageContent-11495-j9jtg2ns-m2.png",JAIHIND TV
@@ -1313,6 +1314,9 @@ https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VDYne27.png" group-title="Malayalam",CCTV PRADESHIKAM
 https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvweblive/f6bb4b507a6282007b1065bcc91398dd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDYne27.png" group-title="Malayalam",CCTV MOVIES
+https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://nettv4u.com/uploads/23-07-2020/kerala-vision.png" group-title="Malayalam",KERALA VISION NEWS
 https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
