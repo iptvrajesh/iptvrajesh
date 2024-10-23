@@ -17,7 +17,8 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+https://mhdtvplay.com/crichd/stream.m3u8?id=482bc495407808d7a4b20a11d2eecb10
+#http://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-id="ts191" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",DD NATIONAL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1494,6 +1495,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/i
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",FANCODE CRICKET LIVE
+
 https://dai.google.com/linear/hls/event/o-t4oYyjRAaBMdMFhikcyw/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",SOCCER LIVE
@@ -2671,6 +2673,8 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f3
 #EXTINF:-1 tvg-logo="" group-title="Sports", FL SPORT
 https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports", STARZPLAY CRICLIFE
+https://mhdtvplay.com/crichd/stream.m3u8?id=2d574747f262337fca14969d409e49ea
 
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 1
 http://116.202.46.40:9023/SURYA_MALAYALAM/index.m3u8
