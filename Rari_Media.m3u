@@ -2673,11 +2673,14 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f3
 #EXTINF:-1 tvg-logo="" group-title="Sports", FL SPORT
 https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", STARZPLAY CRICLIFE
+#EXTINF:-1 tvg-logo="" group-title="Sports", CRICLIFE
 https://mhdtvplay.com/crichd/stream.m3u8?id=2d574747f262337fca14969d409e49ea
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",STYX SPORTS
+https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt4332103373172931.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 1
-http://116.202.46.40:9023/SURYA_MALAYALAM/index.m3u8
+https://colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?cid=93&chunks=2d3e1b7b596d557ad86053e99043eacc5c4929a04972f0dee1571aef1fa63090915b2d86760dd9c8d5638f8d0a860c6a57e004a00c4d0e528a43c06439a30e30737102d6e9b512e5f678d17997eda353&vtoken=
 
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 2
 http://116.202.46.40:9023/SURYA_MOVIES_MALAYALAM/index.m3u8
