@@ -17,7 +17,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mhdtvplay.com/crichd/stream.m3u8?id=482bc495407808d7a4b20a11d2eecb10
+https://fr.globalplay.live/Sports-17/tracks-v1a1/mono.m3u8
 #http://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-id="ts191" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",DD NATIONAL
@@ -302,7 +302,7 @@ http://14.102.123.50:5001/live/204.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=78&key
 #EXTINF:-1 tvg-id="ts78" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1 HD
-https://ddy6.mizhls.ru/ddy6/premium268/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1230,7 +1230,8 @@ http://45.249.171.155:8090/anandmedia/janamtv_576/index.m3u8
 #EXTINF:-1 tvg-id="ts799" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",TWENTY FOUR
 #https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd
 #http://14.102.123.50:5001/live/1250.m3u8
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
+#https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
+https://livestream24news.sunnxt.com/24news/index.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
 #https://livectv3.phando.com/8014/chunklist0.m3u8
 
@@ -1300,9 +1301,9 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="Malayalam",REPORTER TV
-#https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
-http://45.249.171.155:8090/anandmedia/reporter_576/index.m3u8
+#http://45.249.171.155:8090/anandmedia/reporter_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="Malayalam",REPORTER TV YOUTUBE
 https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
@@ -2260,7 +2261,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
-https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
+https://fr.globalplay.live/Sports-1/tracks-v1a1/mono.m3u8
+#https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="Sports",SKYSPORTS PREMIER LEAGUE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2351,7 +2353,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 #EXTINF:-1 group-title="Sports" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png",WILLOW HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
-https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
+https://fr.globalplay.live/Sports-19/tracks-v1a1/mono.m3u8
+#https://cip4-2048b75120.linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Asp1.png",ASTRO SUPERSPORT PLUS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2536,8 +2539,7 @@ https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",PTV SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
-https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
-#http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+https://nowsports.co.in/cric/stream.m3u8?id=8fb9c2126d15ea60526c3fd9448c0bb8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",CRICBUZZ 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2678,6 +2680,9 @@ https://mhdtvplay.com/crichd/stream.m3u8?id=2d574747f262337fca14969d409e49ea
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",STYX SPORTS
 https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt4332103373172931.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",ASTRO FOOTBALL
+https://fr.globalplay.live/Sports-18/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 1
 https://colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?cid=93&chunks=2d3e1b7b596d557ad86053e99043eacc5c4929a04972f0dee1571aef1fa63090915b2d86760dd9c8d5638f8d0a860c6a57e004a00c4d0e528a43c06439a30e30737102d6e9b512e5f678d17997eda353&vtoken=
