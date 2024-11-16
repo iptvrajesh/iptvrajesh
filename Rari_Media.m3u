@@ -10,14 +10,19 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
-#Last Update: 07/11/2024 📅
+#Last Update: 24/09/2024 📅
 #Rari Media by Rajesh 
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" tvg-logo="https://iili.io/1Nz0AP.png",ASTRO CRICKET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://psliveapp.site/ps_mpd_api/channel(astrocricket)/ps_manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://fr.globalplay.live/Sports-17/tracks-v1a1/mono.m3u8
+#https://fr.globalplay.live/Sports-17/tracks-v1a1/mono.m3u8
 #http://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #EXTINF:-1 tvg-id="ts191" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",DD NATIONAL
@@ -892,10 +897,11 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/manifes
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png",KTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=380&key
-#EXTINF:-1 tvg-id="ts380" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png",KTV HD
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+#https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=201&key
@@ -1728,9 +1734,9 @@ http://14.102.123.50:5001/live/847.m3u8
 https://livectv2.phando.com/8071/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Music_HD.png" group-title="Tamil",SUN MUSIC HD 
-#http://14.102.123.50:5001/live/895.m3u8
-#https://xo.toxicify-pro.workers.dev/bpk-tv/Sun_Music_HD_MOB/Fallback/index.m3u8
-https://jio.jiotv.link/api/3.php?live=true&in=ts_live_895.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA TV HD
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Surya_HD_MOB/Fallback/index.m3u8
@@ -2539,7 +2545,8 @@ https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",PTV SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
-https://nowsports.co.in/cric/stream.m3u8?id=8fb9c2126d15ea60526c3fd9448c0bb8
+https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
+#http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",CRICBUZZ 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2684,6 +2691,15 @@ https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt433210337317293
 #EXTINF:-1 tvg-logo="" group-title="Sports",ASTRO FOOTBALL
 https://fr.globalplay.live/Sports-18/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",NVTV
+https://ipcloud.live/nvtv/livetvstream/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",N VISION
+https://ipcloud.live/nvision/skymusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",SOLH SPORTS
+https://solhtvhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 1
 https://colorsportscreen.com/fuck-your-mother-ass/stream.m3u8?cid=93&chunks=2d3e1b7b596d557ad86053e99043eacc5c4929a04972f0dee1571aef1fa63090915b2d86760dd9c8d5638f8d0a860c6a57e004a00c4d0e528a43c06439a30e30737102d6e9b512e5f678d17997eda353&vtoken=
 
@@ -2707,3 +2723,5 @@ http://116.202.46.40:9023/ASIANET_PLUS_MALAYALAM/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 8
 http://116.202.46.40:9023/ASIANET_NEWS_MALAYALAM/index.m3u8
+
+
