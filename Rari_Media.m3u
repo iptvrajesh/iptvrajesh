@@ -85,7 +85,8 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1813/output/manife
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=633&key
-#EXTINF:-1 tvg-id="ts633" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49002-k5cch1cg-v2/imageContent-49002-k5cch1cg-m5.png",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-id="ts633" group-title="Entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49002-k5cch1cg-v2/imageContent-49002-k5cch1cg-m5.png",INVESTIGATION DISCOVERY HINDI
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/Investigationdiscovery2.m3u8
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -302,7 +303,7 @@ http://14.102.123.50:5001/live/204.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=78&key
 #EXTINF:-1 tvg-id="ts78" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1 HD
-https://nowsports.co.in/cric/stream.m3u8?id=2d1d9e504afdd24a2936ad59fd7934d6
+http://119.156.26.155:8000/play/a069/index.m3u8
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -405,8 +406,9 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_932/output/manifes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XukHF9w0cDv91iOrKXtDLg","kid":"bqzEIWvdV6iDGiysON5mmw"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts179" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-483-j5jx9x48-v1/imageContent-483-j5jx9x48-m1.png",NDTV INDIA
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/manifest.mpd
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ndtvindia_nim_https/240122/ndtvindia/playlist.m3u8
+#https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ndtvindia_nim_https/240122/ndtvindia/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SQdTu3N8susfwaz/82m2mA","kid":"/Cuk+v9dVfubiFi/3WslNw"}],"type":"temporary"}
@@ -454,8 +456,9 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gIRl0bWKLgLXuwy0RdDLBA","kid":"mjDhHHSQWXG5i8aXoXvW1Q"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts208" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_107/output/manifest.mpd
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ndtvenglish_nim_https/110322/ndtvenglish/playlist.m3u8
+#https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ndtvenglish_nim_https/110322/ndtvenglish/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "rxJXJrG4SabhQO1dsaLOhA", "kid": "Tl+0QA98W5eL9pqBQZYtmw"}], "type": "temporary"}
@@ -485,7 +488,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nwug3LwKv1ffEgspnzl16w","kid":"OzK04NtNX7y70zSPFJhQKQ"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts72" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png",REPUBLIC TV
 #https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_394/output/manifest.mpd
-https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_4.m3u8
+https://vg-republictvlive.akamaized.net/out/v1/vglive-sk-366023/243a5fabe7fe4c8fadf2cb7bcc0a5baf/main.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=304&key
@@ -511,8 +514,8 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_M
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/jgRJhYxiYbvpdwyZliDtQ", "kid": "0BD1Sk/EXOyI+wkLv86hJg"}], "type": "temporary"}
-#EXTINF:-1 tvg-id="ts88" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png",ET NOW
-https://livetv.sli.ke/etnow/master_1.m3u8
+#EXTINF:-1 tvg-id="ts88" group-title="Business" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6904-j6vreaps-v1/imageContent-6904-j6vreaps-m1.png",ET NOW
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_163/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -632,6 +635,7 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 #https://i.mjh.nz/SamsungTVPlus/INBC15000054I.m3u8
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
 https://neeplay.com/delta/discovery/api/Discovery_Kids.m3u8
+#https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "VVR8IZd8YoV+senKaQjfPA", "kid": "lmzk7iF0X0u4Efz2Hnau/Q"}], "type": "temporary"}
@@ -722,7 +726,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "9AKA4USt65f+f6TKAMOp0A", "kid": "hl/bpZphW5uL0nruXJoKFQ"}], "type": "temporary"}
 #EXTINF:-1 tvg-id="ts113" group-title="Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png",DISCOVERY SCIENCE
-https://i.mjh.nz/SamsungTVPlus/INBC1500011RN.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/Discoveryscience2.m3u8
 #https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_153/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -770,7 +774,7 @@ ttps://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_111/output/manifest
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0/Il8j/4UzmRnHiFvuHeQg", "kid": "6pCGLDgiVgG8SFxrWMeXCg"}], "type": "temporary"}
 #EXTINF:-1 tvg-id="ts228" group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png",DISCOVERY TURBO
-https://i.mjh.nz/SamsungTVPlus/INBC1500012AD.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/Discoveryturbo2.m3u8
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -782,6 +786,7 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_788/output/manifes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
+#https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=227&key
@@ -1165,12 +1170,12 @@ https://ythls.armelin.one/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/kairali-news/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#https://tp.puspas.com.np/live/tataplay/kairali-news/manifest.mpd
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_323/output/manifest.mpd
-http://45.249.171.155:8090/anandmedia/kairalipeople_576/index.m3u8
+#http://45.249.171.155:8090/anandmedia/kairalipeople_576/index.m3u8
 #https://tvj.rediptv.live/serverall/stream.php?id=725&e=.m3u8
 #https://sports247.eu.org/api/app/live.php?id=725&e=.m3u8
 #https://livectv2.phando.com/8084/chunklist0.m3u8
+https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8
 #https://yupplivefragcp5.yuppcdn.net/030523/smil:peopletv.smil/playlist.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Kairali_People_TV_MOB/Fallback/index.m3u8
@@ -1358,10 +1363,11 @@ https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/media-one/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://45.249.171.155:8090/anandmedia/mediaone_576/index.m3u8
+#http://45.249.171.155:8090/anandmedia/mediaone_576/index.m3u8
 #https://tp.puspas.com.np/live/tataplay/media-one/manifest.mpd
 #https://lineartv.neestream.net/neestream_01/mediaone/tracks-v1a1/mono.m3u8?token=693400
 #https://yuppftalive.akamaized.net/120723/smil:mediaone2.smil/playlist.m3u8
+https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
 #https://livectv3.phando.com/8018/playlist.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Media_One_TV_MOB/Fallback/index.m3u8
@@ -1414,10 +1420,10 @@ https://ythls.armelin.one/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Powervision.jpeg/revision/latest?cb=20191228100427" group-title="Malayalam",POWERVISION
-#https://ythls.armelin.one/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
+https://ythls.armelin.one/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
 #https://livectv3.phando.com/8021/playlist.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
-http://45.249.171.155:8090/anandmedia/powervision_576/index.m3u8
+#http://45.249.171.155:8090/anandmedia/powervision_576/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95UU0qw.png" group-title="Malayalam",HARVEST ARABIA
 https://live.wmncdn.net/harvesttvkuwait/bbb19eae240ec100af921d511efc86a0.sdp/playlist.m3u8
@@ -1520,7 +1526,7 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ts235" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",STAR SPORTS 2 HD (BACKUP)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",JC SPORTS HD
+#EXTINF:-1 tvg-logo="" group-title="Sports",JIO SPORTS HD
 https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",JC SPORTS 24X7
@@ -1542,8 +1548,8 @@ http://14.102.123.50:5001/live/2852.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",SPORTS 18 3
 http://14.102.123.50:5001/live/2853.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="Sports",JIO SPORTS UHD IND vs NZ LIVE
-https://prod-sports-eng-cf.jiocinema.com/hls/live/2100305/uhd_akamai_ctv_avc_eng_indvsnz_191024/master.m3u8
+#EXTINF:1 tvg-logo="" group-title="Sports",JIO SPORTS HD SA vs SL LIVE
+https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_eng_cricket_m7_281124/tv_master.m3u8
 
 #EXTINF:1 tvg-logo="" group-title="Sports",JIO SPORTS LIVE 2
 #https://prod-sports-eng-gm.jiocinema.com/hls/live/2100311/uhd_akamai_ctv_avc_eng_olympic_feed2_270724/master.m3u8
@@ -1688,7 +1694,8 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EbRyKIPt8Tlk4YjLU9v2sagVyrUXwhH0Wgcxg_39jK8r-U09jbbHkhJZqJUcsdnnrN0" group-title="Sports",ATN TV
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",POLIMER TV
 https://livectv3.phando.com/8002/playlist.m3u8
@@ -2865,6 +2872,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2610/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",CCV
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Tamil",MEDIACORP
+https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/aa713e6e-5286-47c2-ab6c-c0206fccd827/0.m3u8
 
 
 
