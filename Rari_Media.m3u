@@ -879,7 +879,7 @@ https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index
 
 #EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://sund-images.sunnxt.com/194389/150x150_SunNeoHD_194389_00f513c6-9032-400b-98c8-664e11a68e23.jpg",SUN NEO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+#KODIPROP:inputstream.adaptive.license_key=759cc157a993e8a76ff4d675e34b5400:09ffaaff477d490abb4516b7e0711d35
 https://livestream.sunnxt.com/2082ee4606184c17943d48478136f244/SunNeoHD_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
