@@ -880,12 +880,12 @@ https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index
 #EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://sund-images.sunnxt.com/194389/150x150_SunNeoHD_194389_00f513c6-9032-400b-98c8-664e11a68e23.jpg",SUN NEO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
-https://livestream2.sunnxt.com/2082ee4606184c17943d48478136f244/SunNeoHD_IN_index.mpd
+https://livestream15.sunnxt.com/2082ee4606184c17943d48478136f244/SunNeoHD_IN_index.mpd
 
 #EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://sund-images.sunnxt.com/194397/1000x1500_SuryaTVHD_194397_9886c46a-6dd6-41a4-8b11-20fcaedebee3.jpg",SURYA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
-https://livestream2.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd
+https://livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=496&key
