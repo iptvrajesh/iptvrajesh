@@ -3013,3 +3013,21 @@ http://116.202.46.40:9023/ASIANET_PLUS_MALAYALAM/index.m3u8
 http://116.202.46.40:9023/ASIANET_NEWS_MALAYALAM/index.m3u8
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="194348" tvg-name="Kochu TV" tvg-logo="https://sund-images.sunnxt.com/194348/1000x1500_KochuTV_194348_bdf27dac-746e-4ffc-86cd-b6907c44eb89.jpg" group-title="Entertainment", Kochu TV
+https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd|KID=91b5f2d0-205c-4527-b7aa-3e41f35e1e7f&LICENSE1=91b5f2d0205c4527b7aa3e41f35e1e7f&LICENSE2=66ddb1a017753f966e20442ab2f91f18
+
+#EXTINF:-1 tvg-id="193251" tvg-name="Surya Comedy" tvg-logo="https://sund-images.sunnxt.com/193251/1000x1500_SuryaComedy_193251_701972af-62d9-4d14-b11b-d8e0a5a7e82f.jpg" group-title="Comedy", Surya Comedy
+https://livestream.sunnxt.com/074cc4c933d645eda0260950f3ce4f7b/SuryaComedy_IN_index.mpd|KID=56e1f5b5-b72e-4e45-a98b-6f287c265ab9&LICENSE1=56e1f5b5b72e4e45a98b6f287c265ab9&LICENSE2=6dee8663e63cc8f8dda8478b8b2f3b71
+
+#EXTINF:-1 tvg-id="194338" tvg-name="Surya Music" tvg-logo="https://sund-images.sunnxt.com/194338/1000x1500_SuryaMusic_194338_2642caf5-f24d-4545-9209-77846ef1807a.jpg" group-title="Music", Surya Music
+https://livestream.sunnxt.com/e18abccfb07049ee83a79c8a38fe159a/SuryaMusic_IN_index.mpd|KID=7354fb33-3b0c-4159-bc6c-433c4db13d0f&LICENSE1=7354fb333b0c4159bc6c433c4db13d0f&LICENSE2=fbf8b4a11febf7d2eed2283006979176
+
+#EXTINF:-1 tvg-id="194385" tvg-name="Surya Movies" tvg-logo="https://sund-images.sunnxt.com/194385/1000x1500_SuryaMovies_194385_cf3f33ca-2abe-44f5-b006-0bc31bbedf51.jpg" group-title="Movies", Surya Movies
+https://livestream.sunnxt.com/e3b12a222dd341d8b64e2d2ec3432d31/SuryaMovies_IN_index.mpd|KID=11563b00-a46b-43f2-a0f8-0ecf42a4fb77&LICENSE1=11563b00a46b43f2a0f80ecf42a4fb77&LICENSE2=9bad28ad6f23dbb917c63ee680f66a1f
+
+#EXTINF:-1 tvg-id="194397" tvg-name="Surya TV HD" tvg-logo="https://sund-images.sunnxt.com/194397/1000x1500_SuryaTVHD_194397_9886c46a-6dd6-41a4-8b11-20fcaedebee3.jpg" group-title="HD Channels", Surya TV HD
+https://livestream.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd|KID=25a1d2a4-c3f8-48b1-aed9-11ad691fe232&LICENSE1=25a1d2a4c3f848b1aed911ad691fe232&LICENSE2=3c8b2cf8611c343e6a231b6a9c7c8b58
+
+
