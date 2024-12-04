@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
-#Last Update: 21/11/2024 📅
+#Last Update: 04/12/2024 📅
 #Rari Media by Rajesh 
 
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="Sports" tvg-logo="https://iili.io/1Nz0AP.png",ASTRO CRICKET
@@ -880,13 +880,17 @@ https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index
 #EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://sund-images.sunnxt.com/194389/150x150_SunNeoHD_194389_00f513c6-9032-400b-98c8-664e11a68e23.jpg",SUN NEO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
-https://livestream8.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
-#https://sunnxt.malayalamtvhd.workers.dev/livestream8/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
+https://livestream.sunnxt.com/248c92b73514435686fd72ba325d4008/SunNeoHDB_IN_index.mpd
 
-#EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://sund-images.sunnxt.com/194397/1000x1500_SuryaTVHD_194397_9886c46a-6dd6-41a4-8b11-20fcaedebee3.jpg",SURYA TV HD
+#EXTINF:-1 tvg-id="ts521" group-title="Tamil" tvg-logo="https://sund-images.sunnxt.com/194389/150x150_SunNeoHD_194389_00f513c6-9032-400b-98c8-664e11a68e23.jpg",SUN NEO HD AUSTRALIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
-https://livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
+https://livestream.sunnxt.com/41b03d5d969e40fe9c8a221c67af6ab8/SunNeoHDB_AU_index.mpd
+
+#EXTINF:-1 tvg-id="ts521" group-title="Kids" tvg-logo="https://sund-images.sunnxt.com/194390/200x200_ChuttiTV_194390_a0be6a2e-efc0-4514-98d2-c8cae640dbcc.png",CHUTTI TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
+https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=496&key
@@ -1005,14 +1009,6 @@ http://45.249.171.155:8090/anandmedia/jeevan_576/index.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
 #https://livectv3.phando.com/8017/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ts230" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png",SURYA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/surya-tv/key.json
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://14.102.123.50:5001/live/900.m3u8
-#https://tp.puspas.com.np/live/tataplay/surya-tv/manifest.mpd
-#https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=292&key
 #EXTINF:-1 tvg-id="ts292" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",ASIANET HD
@@ -1023,24 +1019,6 @@ http://217.20.112.199/asianet/index.m3u8
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
 #https://cinesoft.b-cdn.net/anandmedia/asianethd_576/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/asianet-hd/key.json
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="ts292" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png" group-title="Malayalam",ASIANET HD
-#https://tp.puspas.com.np/live/tataplay/asianet-hd/manifest.mpd
-#https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",ASIANET HD (TEACHUB)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=afa116dde11a5b0882404230854616be:1ee012ad7ea70ac0160e4ef0ba569374
-#https://hostycarehost.link/test/linear-live.php?id=6160&vtoken=&e=.m3u8
-#https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11246-j9iw5g74-v3/imageContent-11246-j9iw5g74-m3.png",ASIANET HD (TOXIC)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://koka-koka.vercel.app/key?requestor=Robin_hood_ninjaTV&id=292
-#https://chutiya-maharaj-ab-karlo-chori-ye-toxic-iptv-playlist-hei.vercel.app/292.mpd
-
 #EXTINF:-1 tvg-id="ts294" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png",ASIANET PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/asianet-plus-2/key.json
@@ -1049,10 +1027,15 @@ http://45.249.171.155:8090/anandmedia/asianetplus_576/index.m3u8
 #https://tp.puspas.com.np/live/tataplay/asianet-plus-2/manifest.mpd
 #https://cinesoft.b-cdn.net/anandmedia/asianetplus_576/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ts294" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png",ASIANET PLUS (TOXIC)
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=953&key
-#https://chutiya-maharaj-ab-karlo-chori-ye-toxic-iptv-playlist-hei.vercel.app/953.mpd
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+https://livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd
+
+#EXTINF:-1 tvg-id="ts230" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png",SURYA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56e1f5b5b72e4e45a98b6f287c265ab9:6dee8663e63cc8f8dda8478b8b2f3b71
+https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
 
 #EXTINF:-1 tvg-id="ts694" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35312-jqy146c8-v3/imageContent-35312-jqy146c8-m8.png",ZEE KERALAM HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1123,12 +1106,13 @@ https://cdn1.pishow.tv/live/200/200_0.m3u8
 
 #EXTINF:-1 tvg-id="ts229" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",SURYA MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/surya-movies/key.json
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-#https://tp.puspas.com.np/live/tataplay/surya-movies/manifest.mpd
-#https://hostycarehost.link/test/linear-live.php?id=5689&vtoken=&e=.m3u8
-#https://teachublive.link/mac/create.php?id=155815
-#https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
+https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",SURYA MOVIES (JIO TV)
+#http://14.102.123.50:5001/live/1754.m3u8
+#https://xo.toxicify-pro.workers.dev/bpk-tv/Surya_Movies_MOB/Fallback/index.m3u8
+#https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1754.m3u8
 
 #EXTINF:-1 tvg-id="ts293" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png",ASIANET MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1140,16 +1124,6 @@ http://45.249.171.155:8090/anandmedia/asianetmovies_576/index.m3u8
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd
 #https://cinesoft.b-cdn.net/anandmedia/asianetmovies_576/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png",ASIANET MOVIES (TEACHUB)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d088817b519d58c491ea2bfa5833882e:8af2ec525415bde6986aafaffae818bf
-#https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png",ASIANET MOVIES (TOXIC)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://koka-koka.vercel.app/key?requestor=Robin_hood_ninjaTV&id=293
-#https://chutiya-maharaj-ab-karlo-chori-ye-toxic-iptv-playlist-hei.vercel.app/293.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"n/cdns3KAlrgWQ1AJ8s4hw","kid":"yoiJrZAuUmyoi40sYwW96A"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts553" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12065-j9o9phqg-v1/imageContent-12065-j9o9phqg-m1.png",WE TV
@@ -1157,6 +1131,16 @@ http://45.249.171.155:8090/anandmedia/asianetmovies_576/index.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #http://45.249.171.155:8090/anandmedia/kairaliwe_576/index.m3u8
 #https://livectv2.phando.com/8085/chunklist0.m3u8
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Malayalam",SURYA MUSIC 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Malayalam",SURYA COMEDY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TdJWpm88e2FV56LxiqwsIw","kid":"Ng3aqwt8VDKYuoD/jC70Ew"}],"type":"temporary"}
@@ -1298,10 +1282,10 @@ http://14.102.123.50:5001/live/739.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wTUncd/fiLSKczQdM0y9ug","kid":"mE6QDO2FX5yIH0qzZ7TBDA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts377" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png",KAPPA TV
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_593/output/manifest.mpd
-#https://idvd.multitvsolution.com/idvo/kappatv.m3u8
+https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 #https://yuppftalive.akamaized.net/080823/kappatv/chunks.m3u8
 #https://livectv3.phando.com/8012/chunklist0.m3u8
-http://45.249.171.155:8090/anandmedia/kappatv_576/index.m3u8
+#http://45.249.171.155:8090/anandmedia/kappatv_576/index.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Kappa_TV_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-id="ts269" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11176-j9i3lv54-v2/imageContent-11176-j9i3lv54-m2.png",GOODNESS
@@ -1740,19 +1724,14 @@ https://livea.streamready.in/stargold2/smil:common.smil/manifest.mpd
 https://livea.streamready.in/symandxplorhd/smil:common.smil/manifest.mpd
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="Kids",KOCHU TV 
-#http://14.102.123.50:5001/live/556.m3u8
-#https://xo.toxicify-pro.workers.dev/bpk-tv/Kochu_TV_MOB/Fallback/index.m3u8
-https://jio.jiotv.link/api/3.php?live=true&in=ts_live_556.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7354fb333b0c4159bc6c433c4db13d0f:fbf8b4a11febf7d2eed2283006979176
+https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Tamil",ADITHYA TV 
 http://14.102.123.50:5001/live/709.m3u8
 https://xo.toxicify-pro.workers.dev/bpk-tv/Adithya_TV_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=709&e=.m3u8
-
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Malayalam",SURYA MUSIC 
-#http://14.102.123.50:5001/live/747.m3u8
-#https://xo.toxicify-pro.workers.dev/bpk-tv/Surya_Music_MOB/Fallback/index.m3u8
-https://jio.jiotv.link/api/3.php?live=true&in=ts_live_747.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Tamil",MK TUNES
 http://14.102.123.50:5001/live/845.m3u8
@@ -1773,26 +1752,6 @@ https://livectv2.phando.com/8071/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
 https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
-
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA TV HD
-#https://xo.toxicify-pro.workers.dev/bpk-tv/Surya_HD_MOB/Fallback/index.m3u8
-https://jio.jiotv.link/api/3.php?live=true&in=ts_live_900.m3u8
-#http://217.20.112.199/surya/index.m3u8
-
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA TV HD (SUNNXT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
-#https://livestream6.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",SURYA MOVIES (JIO TV)
-#http://14.102.123.50:5001/live/1754.m3u8
-#https://xo.toxicify-pro.workers.dev/bpk-tv/Surya_Movies_MOB/Fallback/index.m3u8
-https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1754.m3u8
-
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Malayalam",SURYA COMEDY
-http://14.102.123.50:5001/live/1662.m3u8
-#https://xo.toxicify-pro.workers.dev/bpk-tv/Surya_Comedy_MOB/Fallback/index.m3u8
-#https://teachublive.link/JIO/app/live.php?id=1662&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten1_HD_Malayalam.png" group-title="Sports",SONY TEN 1 HD MALAYALAM
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_2960.m3u8
@@ -2909,7 +2868,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/rdZ16x7/Picsart-23-07-16-01-35-39-866.png",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", CRICKET 360
 https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f349533/playlist.m3u8
 
@@ -2989,7 +2947,6 @@ https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/aa713e6e-5286-47c2-ab6c-c0206fccd827/0.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 1
 
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 2
@@ -3012,26 +2969,4 @@ http://116.202.46.40:9023/ASIANET_PLUS_MALAYALAM/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Test",TEST 8
 http://116.202.46.40:9023/ASIANET_NEWS_MALAYALAM/index.m3u8
-
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="194348" tvg-name="Kochu TV" tvg-logo="https://sund-images.sunnxt.com/194348/1000x1500_KochuTV_194348_bdf27dac-746e-4ffc-86cd-b6907c44eb89.jpg" group-title="Entertainment", Kochu TV
-https://livestream15.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd|KID=91b5f2d0-205c-4527-b7aa-3e41f35e1e7f&LICENSE1=91b5f2d0205c4527b7aa3e41f35e1e7f&LICENSE2=66ddb1a017753f966e20442ab2f91f18
-
-#EXTINF:-1 tvg-id="193251" tvg-name="Surya Comedy" tvg-logo="https://sund-images.sunnxt.com/193251/1000x1500_SuryaComedy_193251_701972af-62d9-4d14-b11b-d8e0a5a7e82f.jpg" group-title="Comedy", Surya Comedy
-https://livestream15.sunnxt.com/074cc4c933d645eda0260950f3ce4f7b/SuryaComedy_IN_index.mpd|KID=56e1f5b5-b72e-4e45-a98b-6f287c265ab9&LICENSE1=56e1f5b5b72e4e45a98b6f287c265ab9&LICENSE2=6dee8663e63cc8f8dda8478b8b2f3b71
-
-#EXTINF:-1 tvg-id="194338" tvg-name="Surya Music" tvg-logo="https://sund-images.sunnxt.com/194338/1000x1500_SuryaMusic_194338_2642caf5-f24d-4545-9209-77846ef1807a.jpg" group-title="Music", Surya Music
-https://livestream15.sunnxt.com/e18abccfb07049ee83a79c8a38fe159a/SuryaMusic_IN_index.mpd|KID=7354fb33-3b0c-4159-bc6c-433c4db13d0f&LICENSE1=7354fb333b0c4159bc6c433c4db13d0f&LICENSE2=fbf8b4a11febf7d2eed2283006979176
-
-#EXTINF:-1 tvg-id="194385" tvg-name="Surya Movies" tvg-logo="https://sund-images.sunnxt.com/194385/1000x1500_SuryaMovies_194385_cf3f33ca-2abe-44f5-b006-0bc31bbedf51.jpg" group-title="Movies", Surya Movies
-https://livestream15.sunnxt.com/e3b12a222dd341d8b64e2d2ec3432d31/SuryaMovies_IN_index.mpd|KID=11563b00-a46b-43f2-a0f8-0ecf42a4fb77&LICENSE1=11563b00a46b43f2a0f80ecf42a4fb77&LICENSE2=9bad28ad6f23dbb917c63ee680f66a1f
-
-#EXTINF:-1 tvg-id="194397" tvg-name="Surya TV HD" tvg-logo="https://sund-images.sunnxt.com/194397/1000x1500_SuryaTVHD_194397_9886c46a-6dd6-41a4-8b11-20fcaedebee3.jpg" group-title="HD Channels", Surya TV HD
-https://livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd|KID=25a1d2a4-c3f8-48b1-aed9-11ad691fe232&LICENSE1=25a1d2a4c3f848b1aed911ad691fe232&LICENSE2=3c8b2cf8611c343e6a231b6a9c7c8b58
-
-https://livestream.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd?drmScheme=clearkey&drmLicense=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
-
-
 
