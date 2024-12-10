@@ -1033,7 +1033,7 @@ http://45.249.171.155:8090/anandmedia/asianetplus_576/index.m3u8
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
-https://livestream6.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd
+https://livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd
 
 #EXTINF:-1 tvg-id="ts230" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png",SURYA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
