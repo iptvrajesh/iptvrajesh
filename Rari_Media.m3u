@@ -1034,9 +1034,6 @@ http://45.249.171.155:8090/anandmedia/asianetplus_576/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
-#https://livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_IN_index.mpd
-
-
 
 #EXTINF:-1 tvg-id="ts230" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1005-j5nfiy9c-v1/imageContent-1005-j5nfiy9c-m1.png",SURYA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1735,9 +1732,9 @@ https://livea.streamready.in/symandxplorhd/smil:common.smil/manifest.mpd
 https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Tamil",ADITHYA TV 
-http://14.102.123.50:5001/live/709.m3u8
-https://xo.toxicify-pro.workers.dev/bpk-tv/Adithya_TV_MOB/Fallback/index.m3u8
-#https://teachublive.link/JIO/app/live.php?id=709&e=.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Tamil",MK TUNES
 https://cdn1.pishow.tv/live/196/master.m3u8
