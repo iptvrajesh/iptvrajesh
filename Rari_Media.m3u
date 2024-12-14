@@ -2123,7 +2123,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default_primary.m
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",ASTRO SUPERSPORT UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eupDzZPCSqmDTstJhPf9Wg", "kid":"IvvvHBzXJek5fsFkVfCCEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=22fbef1c1cd725e9397ec16455f08210:7aea43cd93c24aa9834ecb4984f7fd5a
 https://staging-linearjitp02-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",ASTRO SUPERSPORT 1 HD
@@ -2402,8 +2402,8 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
-https://fr.globalplay.live/Sports-1/tracks-v1a1/mono.m3u8
-#https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
+https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
+#https://fr.globalplay.live/Sports-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="Sports",SKYSPORTS PREMIER LEAGUE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2716,7 +2716,8 @@ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",CRICBUZZ 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
-https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
+https://live6.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
+#https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
 
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/25270783-6de5-4ddf-b207-b6376ae989bc_180x180_ASports.jpg" group-title="Sports",A SPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
@@ -2744,8 +2745,11 @@ http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269552.ts
 #https://bpcdn.dialog.lk/bpk-tv/Ch126/output/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",CRICKET GOLD
-https://jmp2.uk/SamsungTVPlus/IN1300001NN.m3u8
+https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 #https://cc-bpss9asqfihqh.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/1eb879b9-64ac-4ea4-ab55-854952d725b2/0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",TYC SPORTS
+https://vadp.pricesaskeloadsc.com/global/tyc_sports/index.m3u8?token=a33afbeff6608f3df35ac63906329908048bf669-0e-1734224057-1734188057
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/Sky_Open.svg/revision/latest?cb=20230817061940" group-title="Sports",SKY OPEN
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
@@ -2936,7 +2940,10 @@ https://tvsw2-hls.secdn.net/tvsw2-chorigin/play/prod-55ed6f9cb6d64b22a5eed2ea3f3
 https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", CRICLIFE
-https://mhdtvplay.com/crichd/stream.m3u8?id=2d574747f262337fca14969d409e49ea
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
+https://live5.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
+#https://mhdtvplay.com/crichd/stream.m3u8?id=2d574747f262337fca14969d409e49ea
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",STYX SPORTS
 https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt4332103373172931.m3u8
@@ -3011,10 +3018,10 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 
 
 
-#EXTINF:-1 group-title="Test" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png",CH5
+#EXTINF:-1 group-title="Test" tvg-logo="",TEST PTV SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b025a4b950df41158a87cfc8d6f2ac34:87db4361f7894655a4656e9c8b935a02
-#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
+https://live6.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",0001
 #KODIPROP:inputstream.adaptive.license_type=clearkey
