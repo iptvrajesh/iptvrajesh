@@ -381,7 +381,8 @@ https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-id="ts1033" group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",SPORTS 18 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d86185f50f5952589c280167ee8e45c5:6bff81346539e4bcc9abdb351f1c855e
-https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
+#https://jiolivestreaming.akamaized.net/bpk-tv/Sports18_1_HD_voot_MOB/output/index.mpd
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
 
@@ -551,7 +552,8 @@ https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sOj0Y5lpsw40vbu/idk7FQ","kid":"D026mLeLVE+ir0Ph3xC/0A"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts188" group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png",BBC NEWS
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_151/output/manifest.mpd
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -943,7 +945,8 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Pgt+MsTya90Em0ul+713og", "kid": "KF7J6Ga2WQO0gbHpHRHhZg"}], "type": "temporary"}
 #EXTINF:-1 tvg-id="ts99" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44904-jzu8ri4o-v1/imageContent-44904-jzu8ri4o-m1.png",D TAMIL
-https://i.mjh.nz/SamsungTVPlus/INBC15000102M.m3u8
+https://neeplay.com/delta/discovery/api/Discovery_Tamil.m3u8
+#https://i.mjh.nz/SamsungTVPlus/INBC15000102M.m3u8
 #https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_234/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1415,6 +1418,9 @@ http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="Malayalam",DD MALAYALAM
 https://ytlive.iptvhub.workers.dev/stream/DoordarshanMalayalam/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",KOZHIKODE VISION HD
+https://tnm3u.in.net/channel/malayalam.php?c=kozhikodevision
+
 http://14.102.123.50:9080/play/a0nl
 #http://14.102.123.50:5001/live/699.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/DD_Malayalam_MOB/Fallback/index.m3u8
@@ -1517,6 +1523,9 @@ http://137.59.86.218:1935/live/onetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Malayalam",PULARI TV HD  
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",DEVINE  
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cy3IrPg.jpg" group-title="Malayalam",MAGNAVISION TV
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/abr3/live3/chunks.m3u8
 
@@ -1558,7 +1567,10 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/i
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",FANCODE CRICKET LIVE
-https://dai.google.com/linear/hls/event/xd-c9-RcSRKaC6GrfRr3_Q/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
+#https://dai.fancode.com/primary/112348_english_hls_6202ta-di/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",SOCCER LIVE
 https://rbhkto39.azureedge.net/live/soccer1/chunks.m3u8
@@ -2405,7 +2417,8 @@ https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/c
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0005b3dba78ae0fe7a9288022d3b3736:d2827df80dd7e9243ba6b5bbda5dfa82
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5029.ts
+https://vals88.pricesaskeloadsc.com/global/premiersports1_irl/index.m3u8?token=31d87e08aa8850ba3716d45894beb955d62f35e9-2b-1734220120-1734184120
+#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/5029.ts
 #https://linear034-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png", group-title="Sports",PREMIER SPORTS 2
