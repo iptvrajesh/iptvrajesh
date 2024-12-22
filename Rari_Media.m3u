@@ -1049,8 +1049,9 @@ https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "nc5J9Wj9FdBuL+DztwFYtA", "kid": "zK4F9UHxXnmSfw2SLNjYSA"}], "type": "temporary"}
 #EXTINF:-1 tvg-id="ts372" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12323-jaa5pzxs-v1/imageContent-12323-jaa5pzxs-m1.png",JEEVAN TV
+http://192.168.1.6:8080/live.php?id=842&key=JITENDRAUNATTI&e=.m3u8
 #https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd
-http://45.249.171.155:8090/anandmedia/jeevan_576/index.m3u8
+#http://45.249.171.155:8090/anandmedia/jeevan_576/index.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
 #https://livectv3.phando.com/8017/playlist.m3u8
 
@@ -1086,7 +1087,8 @@ https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_inde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/zee-keralam-hd/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://45.249.171.155:8090/anandmedia/zeekeralamhd_576/index.m3u8
+http://192.168.1.6:8080/live.php?id=1641&key=JITENDRAUNATTI&e=.m3u8
+#http://45.249.171.155:8090/anandmedia/zeekeralamhd_576/index.m3u8
 #https://tp.puspas.com.np/live/tataplay/zee-keralam-hd/manifest.mpd
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
 #https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd
@@ -1128,7 +1130,8 @@ https://segment.yuppcdn.net/050522/mazhavilmanorama/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/kairali-tv/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://45.249.171.155:8090/anandmedia/kairalitv_576/index.m3u8
+http://192.168.1.6:8080/live.php?id=710&key=JITENDRAUNATTI&e=.m3u8
+#http://45.249.171.155:8090/anandmedia/kairalitv_576/index.m3u8
 #https://tp.puspas.com.np/live/tataplay/kairali-tv/manifest.mpd
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd
 #https://lineartv.neestream.net/neestream_01/kairalitv/tracks-v1a1/mono.m3u8?token=693400
@@ -1268,6 +1271,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/playlist.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/jaihind-tv/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://192.168.1.6:8080/live.php?id=465&key=JITENDRAUNATTI&e=.m3u8
 #https://tp.puspas.com.np/live/tataplay/jaihind-tv/manifest.mpd
 #https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd
 #https://tvj.rediptv.live/serverall/stream.php?id=465&e=.m3u8
@@ -1289,6 +1293,7 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/raj-news-malayalam/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://192.168.1.6:8080/live.php?id=650&key=JITENDRAUNATTI&e=.m3u8
 #https://tp.puspas.com.np/live/tataplay/raj-news-malayalam/manifest.mpd
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_689/output/manifest.mpd
 #https://tvj.rediptv.live/serverall/stream.php?id=650&e=.m3u8
@@ -1326,6 +1331,7 @@ https://ytlive.iptvhub.workers.dev/stream/24OnLive/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/raj-musix-malayalam/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://192.168.1.6:8080/live.php?id=739&key=JITENDRAUNATTI&e=.m3u8
 #https://tp.puspas.com.np/live/tataplay/raj-musix-malayalam/manifest.mpd
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_686/output/manifest.mpd
 #https://sports247.eu.org/api/app/live.php?id=739&e=.m3u8
@@ -1335,6 +1341,7 @@ http://14.102.123.50:5001/live/739.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wTUncd/fiLSKczQdM0y9ug","kid":"mE6QDO2FX5yIH0qzZ7TBDA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="ts377" group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png",KAPPA TV
+http://192.168.1.6:8080/live.php?id=786&key=JITENDRAUNATTI&e=.m3u8
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_593/output/manifest.mpd
 https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 #https://yuppftalive.akamaized.net/080823/kappatv/chunks.m3u8
@@ -1417,6 +1424,7 @@ https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/media-one/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+http://192.168.1.6:8080/live.php?id=910&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/mediaone_576/index.m3u8
 #https://tp.puspas.com.np/live/tataplay/media-one/manifest.mpd
 #https://lineartv.neestream.net/neestream_01/mediaone/tracks-v1a1/mono.m3u8?token=693400
@@ -1450,9 +1458,6 @@ http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
 http://192.168.1.6:8080/live.php?id=699&key=JITENDRAUNATTI&e=.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/DoordarshanMalayalam/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Malayalam",KOZHIKODE VISION HD
-https://tnm3u.in.net/channel/malayalam.php?c=kozhikodevision
-
 http://14.102.123.50:9080/play/a0nl
 #http://14.102.123.50:5001/live/699.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/DD_Malayalam_MOB/Fallback/index.m3u8
@@ -1460,6 +1465,9 @@ http://14.102.123.50:9080/play/a0nl
 #https://sports247.eu.org/api/app/live.php?id=699&e=.m3u8
 #https://livectv3.phando.com/8036/playlist.m3u8
 #https://livectv2.phando.com/8064/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",KOZHIKODE VISION HD
+https://tnm3u.in.net/channel/malayalam.php?c=kozhikodevision
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Asianet_Movies_HD.png/revision/latest?cb=20211017153130",ASIANET MOVIES HD
 https://teachublive.link/mac4/create.php?id=282607
@@ -1598,7 +1606,7 @@ https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/i
 #EXTINF:-1 tvg-logo="" group-title="Sports",JC SPORTS 24X7
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_Sports_24x7_IDC/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",FANCODE LIVE
+#EXTINF:-1 tvg-logo="" group-title="Sports",FANCODE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
 https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
@@ -1607,14 +1615,17 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2
 #EXTINF:-1 tvg-logo="" group-title="Sports",SOCCER LIVE
 https://rbhkto39.azureedge.net/live/soccer1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",SPORTS 18 KHEL 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",SPORTS 18 KHEL
+http://192.168.1.6:8080/live.php?id=1998&key=JITENDRAUNATTI&e=.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",SPORTS 18 2
+http://192.168.1.6:8080/live.php?id=2852&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/2852.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",SPORTS 18 3
+http://192.168.1.6:8080/live.php?id=2853&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/2853.m3u8
 
 #EXTINF:1 tvg-logo="" group-title="Sports",JIO SPORTS CRICKET HD LIVE
@@ -1842,7 +1853,7 @@ https://livectv2.phando.com/8071/playlist.m3u8
 https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten1_HD_Malayalam.png" group-title="Sports",SONY TEN 1 HD MALAYALAM
-http://localhost:8080/live.php?id=2960&key=JITENDRAUNATTI&e=.m3u8
+http://192.168.1.6:8080/live.php?id=2960&key=JITENDRAUNATTI&e=.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_2960.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports",JIO SPORTS HD 
@@ -1930,10 +1941,12 @@ http://localhost:8080/live.php?id=1272&key=JITENDRAUNATTI&e=.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1272&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies",&FLIX HD 
+http://192.168.1.6:8080/live.php?id=1322&key=JITENDRAUNATTI&e=.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
 https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1322.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="Movies",AND PRIVE HD 
+http://192.168.1.6:8080/live.php?id=1349&key=JITENDRAUNATTI&e=.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/201.ts
 #https://xo.toxicify-pro.workers.dev/bpk-tv/And_Prive_HD_MOB/Fallback/index.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1349.m3u8
@@ -1948,6 +1961,7 @@ http://14.102.123.50:5001/live/2037.m3u8
 #https://teachublive.link/JIO/app/live.php?id=2037&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png" group-title="Music",DIL SE
+http://192.168.1.6:8080/live.php?id=2036&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/2036.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Dil_Se_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=2036&e=.m3u8
@@ -1987,27 +2001,30 @@ http://14.102.123.50:5001/live/1966.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Malayalam",MALANADU TV
 http://192.168.1.6:8080/live.php?id=1522&key=JITENDRAUNATTI&e=.m3u8
-http://14.102.123.50:5001/live/1552.m3u8
-https://xo.toxicify-pro.workers.dev/bpk-tv/Malanadu_TV_MOB/Fallback/index.m3u8
-https://teachublive.link/JIO/app/live.php?id=1552&e=.m3u8
+#http://14.102.123.50:5001/live/1552.m3u8
+#https://xo.toxicify-pro.workers.dev/bpk-tv/Malanadu_TV_MOB/Fallback/index.m3u8
+#https://teachublive.link/JIO/app/live.php?id=1552&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png" group-title="Malayalam",ADIPOLI
 http://192.168.1.6:8080/live.php?id=2039&key=JITENDRAUNATTI&e=.m3u8
-http://14.102.123.50:5001/live/2039.m3u8
-https://xo.toxicify-pro.workers.dev/bpk-tv/Adipolli_MOB/Fallback/index.m3u8
+#http://14.102.123.50:5001/live/2039.m3u8
+#https://xo.toxicify-pro.workers.dev/bpk-tv/Adipolli_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=2039&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Guruvayur_Devaswom.png" group-title="Malayalam",GURUVAYUR DEVASWOM
+http://192.168.1.6:8080/live.php?id=2205&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/2205.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Guruvayur_Devaswom_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=2205&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BVTV.png" group-title="Malayalam",BVTV
+http://192.168.1.6:8080/live.php?id=1690&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/1690.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/BVTV_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1690&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ken_Kerelam_TV.png" group-title="Malayalam",KEN TV KERALAM
+http://192.168.1.6:8080/live.php?id=1606&key=JITENDRAUNATTI&e=.m3u8
 https://xo.toxicify-pro.workers.dev/bpk-tv/Ken_Kerelam_TV_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://scontent.fcok10-4.fna.fbcdn.net/v/t39.30808-6/294494607_471168188342482_2398492147387897357_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vUSC8CCTrFUQ7kNvgGJSB0h&_nc_ht=scontent.fcok10-4.fna&oh=00_AfCjzoEo06zvAOlwXdgANUlFZ4DxVlCAEQ2Zf3J66ttOlg&oe=6633D9BC" group-title="Malayalam",FLOWERS TV USA
