@@ -1155,6 +1155,7 @@ https://cdn1.pishow.tv/live/200/200_0.m3u8
 https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",SURYA MOVIES (JIO TV)
+http://localhost:8080/live.php?id=1754&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1754.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Surya_Movies_MOB/Fallback/index.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1754.m3u8
@@ -1445,7 +1446,8 @@ http://103.153.92.157:11037/hls/kbh.m3u8
 http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="Malayalam",DD MALAYALAM
-https://ytlive.iptvhub.workers.dev/stream/DoordarshanMalayalam/index.m3u8
+http://localhost:8080/live.php?id=699&key=JITENDRAUNATTI&e=.m3u8
+#https://ytlive.iptvhub.workers.dev/stream/DoordarshanMalayalam/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam",KOZHIKODE VISION HD
 https://tnm3u.in.net/channel/malayalam.php?c=kozhikodevision
@@ -1839,6 +1841,7 @@ https://livectv2.phando.com/8071/playlist.m3u8
 https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten1_HD_Malayalam.png" group-title="Sports",SONY TEN 1 HD MALAYALAM
+http://localhost:8080/live.php?id=2960&key=JITENDRAUNATTI&e=.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_2960.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports",JIO SPORTS HD 
@@ -1861,18 +1864,22 @@ https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_in
 #https://teachublive.link/JIO/app/live.php?id=1156&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="Sports",JIO FOOTBALL MALAYALAM HD 
+http://localhost:8080/live.php?id=1236&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1236.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1236.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Sports",JIO FOOTBALL 1 HD
+http://localhost:8080/live.php?id=1165&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1165.m3u8
-#https://jio.jiotv.link/api/3.php?live=true&in=ts_live_2960.m3u8
+#https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1165.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="Sports",JIO FOOTBALL 2 HD
+http://localhost:8080/live.php?id=1167&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1167.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1167&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="Sports",JIO FOOTBALL 3 HD
+http://localhost:8080/live.php?id=1168&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1168.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1168&e=.m3u8
 
@@ -1897,22 +1904,27 @@ https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_in
 #https://teachublive.link/JIO/app/live.php?id=1824&e=.m3u8
 
 #EXTINF:1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="Sports",JIO CRICKET ENGLISH HD
+http://localhost:8080/live.php?id=1918&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1918.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1918.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="Sports",JIO CRICKET 1 HD
+http://localhost:8080/live.php?id=1160&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1160.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1160.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="Sports",JIO CRICKET 2 HD
+http://localhost:8080/live.php?id=1161&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1161.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1161.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="Sports",JIO CRICKET 3 HD
+http://localhost:8080/live.php?id=1166&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1166.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1166&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="Sports",JIO CRICKET 4 HD
+http://localhost:8080/live.php?id=1272&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1272.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1272&e=.m3u8
 
