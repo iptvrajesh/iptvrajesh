@@ -1102,7 +1102,8 @@ http://45.249.171.155:8090/anandmedia/zeekeralamhd_576/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/flowers/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-http://45.249.171.155:8090/anandmedia/flowerstv_576/index.m3u8
+http://192.168.1.6:8080/live.php?id=634&key=JITENDRAUNATTI&e=.m3u8
+#http://45.249.171.155:8090/anandmedia/flowerstv_576/index.m3u8
 #https://tp.puspas.com.np/live/tataplay/flowers/manifest.mpd
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/manifest.mpd
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
@@ -1155,7 +1156,7 @@ https://cdn1.pishow.tv/live/200/200_0.m3u8
 https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",SURYA MOVIES (JIO TV)
-http://localhost:8080/live.php?id=1754&key=JITENDRAUNATTI&e=.m3u8
+http://192.168.1.6:8080/live.php?id=1754&key=JITENDRAUNATTI&e=.m3u8
 #http://14.102.123.50:5001/live/1754.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Surya_Movies_MOB/Fallback/index.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1754.m3u8
@@ -1446,7 +1447,7 @@ http://103.153.92.157:11037/hls/kbh.m3u8
 http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="Malayalam",DD MALAYALAM
-http://localhost:8080/live.php?id=699&key=JITENDRAUNATTI&e=.m3u8
+http://192.168.1.6:8080/live.php?id=699&key=JITENDRAUNATTI&e=.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/DoordarshanMalayalam/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam",KOZHIKODE VISION HD
@@ -1967,26 +1968,31 @@ http://14.102.123.50:5001/live/1344.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1344&e=.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" group-title="Malayalam",KANNUR ONE
+http://192.168.1.6:8080/live.php?id=1514&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/1514.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Kannur_one_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1514&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Malayalam",JANAPRIYAM
+http://192.168.1.6:8080/live.php?id=1455&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/1455.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Janapriyam_News_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1455&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Live_TV_Kerala.png" group-title="Malayalam",LIVE TV KERALA
+http://192.168.1.6:8080/live.php?id=1966&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/1966.m3u8
 #https://xo.toxicify-pro.workers.dev/bpk-tv/Live_TV_Kerala_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1966&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Malayalam",MALANADU TV
+http://192.168.1.6:8080/live.php?id=1522&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/1552.m3u8
 https://xo.toxicify-pro.workers.dev/bpk-tv/Malanadu_TV_MOB/Fallback/index.m3u8
 https://teachublive.link/JIO/app/live.php?id=1552&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png" group-title="Malayalam",ADIPOLI
+http://192.168.1.6:8080/live.php?id=2039&key=JITENDRAUNATTI&e=.m3u8
 http://14.102.123.50:5001/live/2039.m3u8
 https://xo.toxicify-pro.workers.dev/bpk-tv/Adipolli_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=2039&e=.m3u8
