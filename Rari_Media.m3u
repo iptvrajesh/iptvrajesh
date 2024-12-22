@@ -617,7 +617,8 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=114&key
 #EXTINF:-1 tvg-id="ts114" group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",DISNEY
-https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
+https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7OhuB-Xwo2B5piMsY_YIi0rZgpsj4t4bzS8Cb-ReLwU9QkoiPBBrPi4Hvy-Caqbut-n3MSMd1f1Kw50liCphkg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
+#https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://rftv.wtf/tp/rjiptv.php?contentID=138&key
@@ -1162,7 +1163,7 @@ https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.puspas.com.np/license/key/asianet-movies/key.json
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://segmentsecmpkgire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/d723dfb6-081a-424b-a331-5587501ba877/3.m3u8?hdntl=exp=1734530130~acl=%2f*~data=hdntl~hmac=1fb3ef5682e26d621c5e49674abc7a9490fbbaa06fbac888d24d06d6386b7bb8
+http://localhost:8080/live.php?id=459&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/asianetmovies_576/index.m3u8
 #https://tp.puspas.com.np/live/tataplay/asianet-movies/manifest.mpd
 #https://delta31tatasky.akamaized.net/out/i/29273.mpd
@@ -1669,7 +1670,8 @@ https://prod-sports-eng-cf.jiocinema.com/hls/live/2100306/hd_akamai_merged_avc_e
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T SPORTS HD
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/130714.ts
+https://cdn.kriratv.stream/T-Sport/index.m3u8
+#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/130714.ts
 #http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 #https://webudit.webhd.ru/lb/premium270/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #https://nayeem-ayna1.000webhostapp.com/aynaxd.php?id=27&e=.m3u8|User-Agent=nayeemxyz-69
@@ -2095,6 +2097,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YCgnqHDUmGLRoj8pEpV7TA", "kid":"w6OPE0BTF1mhype8XYDIEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/900/default_primary.mpd
+#https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 
 #EXTINF:-1 tvg-id="517.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BloombergTV_2022.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Business",BLOOMBERG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3077,6 +3080,9 @@ https://ytlive.iptvhub.workers.dev/stream/BoomerangUK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s160-c-k-c0x00ffffff-no-rj" group-title="Others",SANSAD TV
 https://ytlive.iptvhub.workers.dev/stream/SansadTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",ZOOMOO
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 
