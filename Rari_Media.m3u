@@ -923,8 +923,9 @@ https://drmlive.in/voot/web/2001.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FANCODE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
-https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
+#https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
 #https://dai.fancode.com/primary/112348_english_hls_6202ta-di/index.m3u8
+https://fancode.drmlive.in/primary/113545_english_hls_6056ta-di/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",SOCCER LIVE
 https://rbhkto39.azureedge.net/live/soccer1/chunks.m3u8
@@ -2608,8 +2609,8 @@ TEST - പരീക്ഷണം
 #EXTINF:-1 group-title="Test" tvg-logo="",Asianet News TEST 
 https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="",B4U Music TEST
-https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Music_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="",Zee Thirai TEST
+https://zee5.drmlive.in/cmaf/live/2105172/ZeeThiraiELE/master.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-logo="",B4U Movies TEST 
 https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/index.m3u8
