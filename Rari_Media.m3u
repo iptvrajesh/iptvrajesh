@@ -2605,22 +2605,11 @@ https://live.drmlive-02.workers.dev/yupptv/fta/god-tv.m3u8
 TEST - പരീക്ഷണം 
 =========================================================================================================================================
 
-#EXTINF:-1 group-title="Test" tvg-logo="",PRIME VIDEO TEST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c467960712b92d436df3293a1cd9b9c5:04794df98011b6577af406594d831ef7
-https://ablayc7aaaaaaaamcey5j7rgggelg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/umbtod1may/out/v1/7e545f05ff0c448dbebc68ff11e19a7a/cenc.mpd
+#EXTINF:-1 group-title="Test" tvg-logo="",Asianet News TEST 
+https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="",WILLOW TEST 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59ed8dc9d4a48857ef8e5865919496cc:0d3680bd8b349deda8b7fdd1da71b7f8
-https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="",B4U Music TEST
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Music_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="",WILLOW TEST 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59ed8dc9d4a48857ef8e5865919496cc:0d3680bd8b349deda8b7fdd1da71b7f8
-https://cors-proxy.cooks.fyi/https://dfwlive-v1-c1p3-sponsored.s.llnwi.net/Content/HLS.cps/Live/channel(WILLHD-3291.dfw.1080)/index.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",T SPORTS 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5119311f482144d58dacabc5bc1fa4ba:6187523f92b9475bb5b192f70cef1342
-#https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+#EXTINF:-1 group-title="Test" tvg-logo="",B4U Movies TEST 
+https://jiotvmblive.cdn.jio.com/bpk-tv/B4U_Movies_MOB/Fallback/index.m3u8
