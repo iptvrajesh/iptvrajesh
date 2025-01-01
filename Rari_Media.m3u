@@ -11,7 +11,7 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
-#Last Update: 01/01/2025 📅
+#Last Update: 26/12/2024 📅
 #Rari Media
 
 ====================================================================================================================================
@@ -1122,17 +1122,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-title="Sports",ASTRO SUPERSPORT UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",ASTRO SUPERSPORT 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TxVBP35HZ7UMSOGbf5ovzA", "kid":"90mrcfInmZv7CY9zNZqsEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41JpWADi6WU_jVc8PqEw8eqRLpEjMU6ZiQedYenLa2Vyo=1n0-/dash-wv/jitp-dashisowm/601/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="Sports",ASTRO SUPERSPORT 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3fpujVSbTVF3qcref5oLIw", "kid":"wdyS8HifESUDwNs73i8SEA" } ], "type":"temporary" }
-https://linears-playback.astro.com.my/vsg/41cdUbtCHhS4CST_0SQ5LEm7PxwOQPIVXVg8JVXk_DvFk=-oZD/dash-wv/jitp-dashisowm/2104/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png" group-title="Sports",ASTRO SUPERSPORT 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1143,11 +1143,6 @@ https://linears-playback.astro.com.my/vsg/41cdUbtCHhS4CST_0SQ5LEm7PxwOQPIVXVg8JV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kf6+hDwIx8xSPv2CcpLkDg", "kid":"efQChzCsypq4sA8mFY3bEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Astro_ASSP5.png" group-title="Sports",ASTRO SUPERSPORT 5 HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-#https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",ASTRO ARENA 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
