@@ -48,7 +48,7 @@ https://la.drmlive.au/tp/zee-129.m3u8
 #http://45.249.171.155:8090/anandmedia/zeekeralamhd_576/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9003-j7rlh2aw-v2/imageContent-9003-j7rlh2aw-m2.png",ZEE KERALAM
-https://drmlive.in/zee5/play.php?id=0-9-129&e=.m3u8
+#https://drmlive.in/zee5/play.php?id=0-9-129&e=.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png",FLOWERS TV
 http://192.168.1.6:8080/live.php?id=634&key=JITENDRAUNATTI&e=.m3u8
@@ -56,6 +56,9 @@ http://192.168.1.6:8080/live.php?id=634&key=JITENDRAUNATTI&e=.m3u8
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #https://teachublive.link/mac/create.php?id=282608
 #http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://scontent.fcok10-4.fna.fbcdn.net/v/t39.30808-6/294494607_471168188342482_2398492147387897357_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vUSC8CCTrFUQ7kNvgGJSB0h&_nc_ht=scontent.fcok10-4.fna&oh=00_AfCjzoEo06zvAOlwXdgANUlFZ4DxVlCAEQ2Zf3J66ttOlg&oe=6633D9BC" group-title="Malayalam",FLOWERS TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-762-j5m21xqw-v1/imageContent-762-j5m21xqw-m1.png",AMRITA TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
@@ -118,8 +121,8 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunk
 #http://45.249.171.155:8090/anandmedia/asianetnews_576/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12020-j9ntf12w-v1/imageContent-12020-j9ntf12w-m1.png",ASIANET NEWS YOUTUBE
-https://ytlive.iptvhub.workers.dev/stream/asianetnews/index.m3u8
-#https://ythls.armelin.one/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8
+#https://ytlive.iptvhub.workers.dev/stream/asianetnews/index.m3u8
+https://ythls.armelin.one/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-855-j5ma1eig-v2/imageContent-855-j5ma1eig-m2.png",KAIRALI NEWS
 https://live.drmlive-02.workers.dev/yupptv/fta/people-tv.m3u8
@@ -130,8 +133,8 @@ https://live.drmlive-02.workers.dev/yupptv/fta/people-tv.m3u8
 #https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-855-j5ma1eig-v2/imageContent-855-j5ma1eig-m2.png",KAIRALI NEWS YOUTUBE
-https://ytlive.iptvhub.workers.dev/stream/kairalinews/index.m3u8
-#https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
+#https://ytlive.iptvhub.workers.dev/stream/kairalinews/index.m3u8
+https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png",MANORAMA NEWS
 https://mmtvlive1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign1/index.m3u8
@@ -141,8 +144,8 @@ https://mmtvlive1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png",MANORAMA NEWS YOUTUBE
-https://ytlive.iptvhub.workers.dev/stream/manoramanews/index.m3u8
-#https://ythls.armelin.one/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8
+#https://ytlive.iptvhub.workers.dev/stream/manoramanews/index.m3u8
+https://ythls.armelin.one/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11572-j9jv7wi0-v1/imageContent-11572-j9jv7wi0-m1.png",MATHRUBHUMI NEWS
 https://segment.yuppcdn.net/110322/mathrubhuminews/playlist.m3u8
@@ -152,8 +155,8 @@ https://segment.yuppcdn.net/110322/mathrubhuminews/playlist.m3u8
 #https://livectv3.phando.com/8011/chunklist0.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11572-j9jv7wi0-v1/imageContent-11572-j9jv7wi0-m1.png",MATHRUBHUMI NEWS YOUTUBE
-https://ytlive.iptvhub.workers.dev/stream/TVMathrubhumi/index.m3u8
-#https://ythls.armelin.one/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
+#https://ytlive.iptvhub.workers.dev/stream/TVMathrubhumi/index.m3u8
+https://ythls.armelin.one/channel/UCwXrBBZnIh2ER4lal6WbAHw.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12309-ja9ac8n4-v1/imageContent-12309-ja9ac8n4-m1.png",NEWS18 KERALAM
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/playlist.m3u8
@@ -192,8 +195,8 @@ https://livestream24news.sunnxt.com/24news/index.m3u8
 #https://livectv3.phando.com/8014/chunklist0.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",TWENTY FOUR YOUTUBE
-https://ytlive.iptvhub.workers.dev/stream/24OnLive/index.m3u8
-#https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
+#https://ytlive.iptvhub.workers.dev/stream/24OnLive/index.m3u8
+https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11688-j9kiz1zs-v1/imageContent-11688-j9kiz1zs-m1.png",RAJ MUSIX MALAYALAM
 http://192.168.1.6:8080/live.php?id=739&key=JITENDRAUNATTI&e=.m3u8
@@ -214,7 +217,7 @@ https://live.drmlive-02.workers.dev/yupptv/fta/goodness-tv.m3u8
 #https://sports247.eu.org/api/app/live.php?id=1388&e=.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCEp6wI1bKW2BiZoPl2lRUow.m3u8 
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="",DIDYMOS LIVE TELECAST
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyGJaVuqioV1QCKckCmM0rW9gIf8UYkpNn9g&s",DIDYMOS LIVE TELECAST
 https://ytlive.iptvhub.workers.dev/stream/didymoslivewebcast
 /index.m3u8
 
@@ -230,7 +233,7 @@ https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35638-jruyxl0g-v4/imageContent-35638-jruyxl0g-m7.PNG",HARVEST TV 24x7
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/chunks.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="",ETV BALBHARAT
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54RnAga0enCnmRX9YkRd_W1vGFS0_Jl6YdA&s",ETV BALBHARAT
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="Malayalam",REPORTER TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
@@ -267,8 +270,8 @@ https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
 #http://14.102.123.50:5001/live/910.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="Malayalam",MEDIA ONE YOUTUBE
-https://ytlive.iptvhub.workers.dev/stream/MediaoneTVLive/index.m3u8
-#https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
+#https://ytlive.iptvhub.workers.dev/stream/MediaoneTVLive/index.m3u8
+https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="Malayalam",NEWS MALAYALAM 24x7
 https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
@@ -304,8 +307,8 @@ https://tnm3u.in.net/channel/malayalam.php?c=kozhikodevision
 #https://livectv3.phando.com/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/keralavision-black.png" group-title="Malayalam",KERALA VISION TV
-https://live.drmlive-02.workers.dev/yupptv/fta/keralavision.m3u8
-#http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/index.m3u8
+#https://live.drmlive-02.workers.dev/yupptv/fta/keralavision.m3u8
+http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Malayalam",KITE VICTERS
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv1/chunks.m3u8
@@ -314,8 +317,8 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv1/chunks
 https://xlbor3kkqvaj-hls-live.wmncdn.net/gregoriantv/86d7fdf25c11d39dd3ca51c992186354.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sgiocadelaide.blob.core.windows.net/gregoriantvcontainer/GregorianTVandNewsLogo.png" group-title="Malayalam",GREGORIAN TV YOUTUBE
-https://ytlive.iptvhub.workers.dev/stream/GregorianTVChannel/index.m3u8
-#https://ythls.armelin.one/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
+#https://ytlive.iptvhub.workers.dev/stream/GregorianTVChannel/index.m3u8
+https://ythls.armelin.one/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Powervision.jpeg/revision/latest?cb=20191228100427" group-title="Malayalam",POWERVISION
@@ -393,8 +396,8 @@ http://137.59.86.218:1935/live/onetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Malayalam",PULARI TV HD  
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Malayalam",DEVINE  
-#https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PCNGWo-VnyqMggVSKRtQUAsGH9PGfgq87gObDfM90DYZvldK2XEKi9mM55BI9yOnIVG-sihd1A=s900-c-k-c0x00ffffff-no-rj" group-title="Malayalam",DIVINE  
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cy3IrPg.jpg" group-title="Malayalam",MAGNAVISION TV
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/abr3/live3/chunks.m3u8
@@ -408,7 +411,7 @@ https://yuppftalive.akamaized.net/120723/smil:mazhavilmanoramainternational.smil
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dp6BvWJ.png" group-title="Malayalam",KAIRALI ARABIA 
 #https://yuppftalive.akamaized.net/250723/smil:kairaliarabia.smil/chunklist_b1928000.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Malayalam",KVTV
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/9a/e6/bd9ae661-b1f7-91eb-b73b-2b8ce6d09de2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1200x630wa.png" group-title="Malayalam",KVTV
 https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam",KNA TV
@@ -460,22 +463,25 @@ http://14.102.123.50:5001/live/1690.m3u8
 http://192.168.1.6:8080/live.php?id=1606&key=JITENDRAUNATTI&e=.m3u8
 https://xo.toxicify-pro.workers.dev/bpk-tv/Ken_Kerelam_TV_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fcok10-4.fna.fbcdn.net/v/t39.30808-6/294494607_471168188342482_2398492147387897357_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vUSC8CCTrFUQ7kNvgGJSB0h&_nc_ht=scontent.fcok10-4.fna&oh=00_AfCjzoEo06zvAOlwXdgANUlFZ4DxVlCAEQ2Zf3J66ttOlg&oe=6633D9BC" group-title="Malayalam",FLOWERS TV USA
-https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Malayalam" ,DISCOVERY MALAYALAM HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr5b80isjXuVEebieCZJCZz4uyhNQVEEmxdA&s" group-title="Malayalam" ,DISCOVERY MALAYALAM HD
 https://neeplay.tv/delta/discovery/api/Discovery_Malayalam_HD.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_15_0.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Malayalam",NVTV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/05hZ6B_-ghC8UcBQQ0tWh1AUKgL7UQnjTg0TAx2EACysc0NtYJvxQVhvnK4kfw5Qj-w" group-title="Malayalam",NVTV
 https://ipcloud.live/nvtv/livetvstream/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Malayalam",N VISION
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jXoQ5nZDvWxEoBfFxVQp-tw64LYNTNYjzwjBLGirpRgt4Ue_GVZtAL21wHXA00HOpDA" group-title="Malayalam",N VISION
 https://ipcloud.live/nvision/skymusic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Malayalam",CCV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU9LXzuimEWSuggIWmWmfUTaCmcreCjp9-Tw&s" group-title="Malayalam",CCV
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwdSHoB17Prjj6fQsMuUcur72-yiOFFEhIyg&s" group-title="Malayalam",KCN HD
+https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/933237_1d60ef008f2d4e668964a5d33aea6a2e~mv2.png/v1/crop/x_0,y_0,w_3490,h_2480/fill/w_380,h_270,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/933237_1d60ef008f2d4e668964a5d33aea6a2e~mv2.png" group-title="Malayalam",C MALAYALAM
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 
 ==============================================================================================================================================
 TAMIL - தமிழ்
@@ -1589,7 +1595,7 @@ https://vadp.pricesaskeloadsc.com/global/tyc_sports/index.m3u8?token=a33afbeff66
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/SonyLIV_2020.jpg/revision/latest?cb=20200527141528" group-title="Sports",SONY LIV ENGLISH
-https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",LALIGA 1
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
@@ -1958,7 +1964,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
+#EXTINF:-1 group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",ASTRO HITS MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
