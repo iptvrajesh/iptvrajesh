@@ -57,7 +57,7 @@ https://jio.drmlive.au/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
 #http://45.249.171.155:8090/anandmedia/flowerstv_576/index.m3u8
 #http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://scontent.fcok10-4.fna.fbcdn.net/v/t39.30808-6/294494607_471168188342482_2398492147387897357_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=vUSC8CCTrFUQ7kNvgGJSB0h&_nc_ht=scontent.fcok10-4.fna&oh=00_AfCjzoEo06zvAOlwXdgANUlFZ4DxVlCAEQ2Zf3J66ttOlg&oe=6633D9BC" group-title="Malayalam",FLOWERS TV USA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Flowers_USA.jpg/revision/latest?cb=20240315085340" group-title="Malayalam",FLOWERS TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-762-j5m21xqw-v1/imageContent-762-j5m21xqw-m1.png",AMRITA TV
@@ -1072,7 +1072,7 @@ https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",FIFA PULAS
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/Premier_Sports_2021.svg/revision/latest?cb=20210709144608",ASTRO PREMIERSPORTS HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://logowik.com/content/uploads/images/premier-sports8286.logowik.com.webp",ASTRO PREMIERSPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
@@ -1081,7 +1081,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/BeINSports1.svg/revision/latest?cb=20220419110315",ASTRO BEIN SPORTS 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/BeinSports-1.jpg",ASTRO BEIN SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
@@ -1090,7 +1090,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Bein_sports2_2017.svg/revision/latest?cb=20220419110806",ASTRO BEIN SPORTS 2 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/BeinSports-2.jpg",ASTRO BEIN SPORTS 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
@@ -1099,7 +1099,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Bein_Sports_3.svg/revision/latest?cb=20220419111150",ASTRO BEIN SPORTS 3 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/BeinSports-3.jpg",ASTRO BEIN SPORTS 3 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
@@ -2041,8 +2041,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.m
 https://jmp2.uk/SamsungTVPlus/INBC43000071R.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/512X512.png" group-title="Movies",BBO CLASSIC
+https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/b4c93e66-6c6a-4b2f-888b-a90dddbe32e8/0.m3u8
 https://live.drmlive-02.workers.dev/yupptv/premium/bboclassic.m3u8
-#https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movies",BBO HD YUPPFLIX PLAYLIST
 https://live.drmlive-02.workers.dev/yupptv/premium/bbo.m3u8
