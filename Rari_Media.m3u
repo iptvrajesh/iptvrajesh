@@ -11,7 +11,7 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
-#Last Update: 09/01/2025 📅
+#Last Update: 11/01/2025 📅
 #Rari Media
 
 ====================================================================================================================================
@@ -562,6 +562,9 @@ https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_in
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg/revision/latest?cb=20191225165506" group-title="Tamil",7S MUSIC
 #https://livectv3.phando.com/8050/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil",TUNES 6 MUSIC
+https://jio.drmlive.au/jio/bpk-tv/Tunes_6_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/a/HvKoOWI" group-title="Tamil",MN MUSIC
 https://mntv.livebox.co.in/musichls/live.m3u8
@@ -1549,8 +1552,8 @@ https://live6.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
 https://allinonereborn.com/tatatv.php?id=12167
+#https://live5.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
 #https://live6.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
-#https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd
 
 #EXTINF:-1 tvg-logo="https://a-sports.tv/wp-content/uploads/2021/10/A-Sports-Logo-final.png" group-title="Sports",A SPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
@@ -2562,6 +2565,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default_primary.m
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",FASHION TV
 https://jio.drmlive.au/jio/bpk-tv/Fashion_India_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",FASHION TV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-title="Lifestyle",ASTRO DMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"h944zz7Su81dibY+Vxv+IQ", "kid":"DiHaMEopKYzsof39HnHiEA" } ], "type":"temporary" }
@@ -2607,11 +2613,15 @@ https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_primary.mpd
+#https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Others",ASTRO LOVE NATURE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Others",LOUPE 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800005NI_20230809T005143SQUARE.png_20230809005144.png" group-title="Others" ,CLARITY 4K
 #https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
@@ -2652,3 +2662,6 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 #EXTINF:-1 group-title="Test" tvg-logo="",DD NATIONAL TEST
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/Ddnational2.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/playlist.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",TEST
+https://www.youtube.com/c/@24OnLive/live
