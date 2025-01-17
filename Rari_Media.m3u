@@ -527,8 +527,9 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/index.m3
 https://jio.drmlive.au/jio/bpk-tv/Raj_News_24x7_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=767&key=JITENDRAUNATTI&e=.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11369-j9jpvzjs-v1/imageContent-11369-j9jpvzjs-m1.png",DD PODHIGAI
-https://cdn1.pishow.tv/live/195/master.m3u8
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11369-j9jpvzjs-v1/imageContent-11369-j9jpvzjs-m1.png",DD TAMIL
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
+#https://cdn2.pishow.tv/live/26/master.m3u8
 
 #EXTINF:-1 tvg-id="ts199" group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png",JAYA MAX
 https://jio.drmlive.au/jio/bpk-tv/Jaya_Max_MOB/Fallback/index.m3u8
@@ -611,11 +612,18 @@ https://jio.drmlive.au/jio/bpk-tv/Polimer_News_MOB/Fallback/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/541_144.png" group-title="Tamil" ,ASTRO VELLITHIRAI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Astro_Thangathirai_%28Nov_2024%29.png/revision/latest?cb=20241121180222" group-title="Tamil",ASTRO THANGATHIRAI HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Astro-Box-Office-Movie-Thangathirai.png" group-title="Tamil",ASTRO THANGATHIRAI HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -846,16 +854,15 @@ SPORTS - കായികം
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Astro_Cricket_%28Oct_2024%29.png/revision/latest?cb=20241121183852",ASTRO CRICKET
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6RTRNbU0xT0RndE1qTXlPQzAwTVRRNExUZzFaRE10WkRaa01EQTNZalF3TnpCbCIsIndtb3BpZCI6MzIsImV4cCI6MTczNjMzMzEyMSwiaWF0IjoxNzM1NzI5MTIxfQ.Q8pjT9rVpsV2HyCqKNKWVrY67ILO9QvNuUcQlv1pYiQ"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUmpNREZpTlRVdE1XUTROUzAwWVRsaExXRTRZek10TWpVelptSTRZamcyWlRoayIsIndtb3BpZCI6MzIsImV4cCI6MTczNzUxNzc5MCwiaWF0IjoxNzM2OTEzNzkwfQ.8uBz31b2JfG8KwpZigcOG2ROyE_djrv3tgCGDwwOBlc"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xZPC7upidCKFuZ5Nh7HISg", "kid":"qOsPFSxuQpynpT85mq3yVw" } ], "type":"temporary" }
-https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd
-#https://d1sz44a1d86dgq.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/Cricket_Production/masterCH5.mpd
+https://d1sz44a1d86dgq.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/Cricket_Production/masterCH5.mpd
+#https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd
 #https://allinonereborn.com/tatatv.php?id=12141
 #https://airtel.drmlive.in/CH5/masterCH5.mpd
 #http://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-#https://criccoder.pages.dev/astro.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png",DD SPORTS 1.0
 https://jio.drmlive.au/jio/bpk-tv/DD_Sports_MOB/Fallback/index.m3u8
@@ -1164,7 +1171,7 @@ https://d1yws6emo43ny.cloudfront.net/CH3/masterCH3.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="Sports",ASTRO GRANDSTAND HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6RTRNbU0xT0RndE1qTXlPQzAwTVRRNExUZzFaRE10WkRaa01EQTNZalF3TnpCbCIsIndtb3BpZCI6MzIsImV4cCI6MTczNjMzMzEyMSwiaWF0IjoxNzM1NzI5MTIxfQ.Q8pjT9rVpsV2HyCqKNKWVrY67ILO9QvNuUcQlv1pYiQ"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUmpNREZpTlRVdE1XUTROUzAwWVRsaExXRTRZek10TWpVelptSTRZamcyWlRoayIsIndtb3BpZCI6MzIsImV4cCI6MTczNzUxNzc5MCwiaWF0IjoxNzM2OTEzNzkwfQ.8uBz31b2JfG8KwpZigcOG2ROyE_djrv3tgCGDwwOBlc"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O+3QvNEXVgFsmjzL559mZQ", "kid":"xeZBeMM+QYWjQG2EJSzXoA" } ], "type":"temporary" }
@@ -1207,7 +1214,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default_primary.m
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Astro_Premier_League_%28Oct_2024%29.png/revision/latest?cb=20241121183051" group-title="Sports",ASTRO PREMIER LEAGUE 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6RTRNbU0xT0RndE1qTXlPQzAwTVRRNExUZzFaRE10WkRaa01EQTNZalF3TnpCbCIsIndtb3BpZCI6MzIsImV4cCI6MTczNjMzMzEyMSwiaWF0IjoxNzM1NzI5MTIxfQ.Q8pjT9rVpsV2HyCqKNKWVrY67ILO9QvNuUcQlv1pYiQ"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUmpNREZpTlRVdE1XUTROUzAwWVRsaExXRTRZek10TWpVelptSTRZamcyWlRoayIsIndtb3BpZCI6MzIsImV4cCI6MTczNzUxNzc5MCwiaWF0IjoxNzM2OTEzNzkwfQ.8uBz31b2JfG8KwpZigcOG2ROyE_djrv3tgCGDwwOBlc"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
@@ -1216,7 +1223,7 @@ https://dzzr0p1jvj2ui.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Astro_Premier_League_2_%28Oct_2024%29.png/revision/latest?cb=20241121183257" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="Sports",ASTRO PREMIER LEAGUE 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6RTRNbU0xT0RndE1qTXlPQzAwTVRRNExUZzFaRE10WkRaa01EQTNZalF3TnpCbCIsIndtb3BpZCI6MzIsImV4cCI6MTczNjMzMzEyMSwiaWF0IjoxNzM1NzI5MTIxfQ.Q8pjT9rVpsV2HyCqKNKWVrY67ILO9QvNuUcQlv1pYiQ"}
+#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUmpNREZpTlRVdE1XUTROUzAwWVRsaExXRTRZek10TWpVelptSTRZamcyWlRoayIsIndtb3BpZCI6MzIsImV4cCI6MTczNzUxNzc5MCwiaWF0IjoxNzM2OTEzNzkwfQ.8uBz31b2JfG8KwpZigcOG2ROyE_djrv3tgCGDwwOBlc"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
@@ -2139,20 +2146,20 @@ https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 #https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png",MOVIES NOW
-#https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_235/output/manifest.mpd
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1017-j5ngpo2g-v1/imageContent-1017-j5ngpo2g-m1.png",MNX
-#https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",MNX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png",MOVIES NOW HD
-https://jio.drmlive.au/jio/bpk-tv/Movies_Now_HD_MOB/Fallback/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png",MN+ HD
-https://jio.drmlive.au/jio/MNPLUS/MNPLUS_800.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png",MNX HD
-https://jio.drmlive.au/jio/Movies_Now2_HD/Movies_Now2_HD_800.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png",ROMEDY NOW
 https://jio.drmlive.au/jio/Romedy_Now/Romedy_Now_600.m3u8
@@ -2165,11 +2172,6 @@ http://tv.cloudcdn.me/live.ts?channelId=198&uid=2496&deviceMac=00:1A:79:A8:9C:32
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Dpu3pd2.png",STAR MOVIES SELECT HD
 https://teachublive.link/mac/create.php?id=155729
 #https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f212033abf53d08e769c/images/512.webp" group-title="Movies",STAR MOVIES SELECT HD (AIRTEL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/Atv.php?id=11
-#https://livea.streamready.in/starmoviesselecthd/smil:common.smil/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR GOLD HD
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
@@ -2202,7 +2204,7 @@ https://live.drmlive-02.workers.dev/zee/and-prive-hd.m3u8
 #http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/201.ts
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1349.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://aqfadtv.astradamy.com/logos/BOOWhite.png",ASTRO BOO HD 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Astro_Boo_%28Nov_2024%29.png",ASTRO BOO HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8yZr7GB/JYefSGQPMPHIiA", "kid":"6k1RreAbvzlG4N6XMFG6EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
@@ -2212,7 +2214,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",ASTRO SHOWCASE MOVIES
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Astro_Showcase_%282024%29.png",ASTRO SHOWCASE MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
@@ -2270,6 +2272,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-title="Movies",HERSPHERE BY LIONSGATE
+https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-title="Movies",MOVIESPHERE BY LIONSGATE
+https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/OuterSphereByLionsgate.png" group-title="Movies",OUTERSPHERE BY LIONSGATE
+https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC43000071R_20240522T015915SQUARE.png" group-title="Movies",HOLLYWOOD DESI
 https://jmp2.uk/SamsungTVPlus/INBC43000071R.m3u8
@@ -2704,6 +2715,12 @@ https://live.drmlive-02.workers.dev/jc/544.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default_primary.mpd
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/485_144.png",ASTRO DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default_ott.mpd
+
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="Kids",KOCHU TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7354fb333b0c4159bc6c433c4db13d0f:fbf8b4a11febf7d2eed2283006979176
@@ -2939,3 +2956,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Ddnational2/default/playlist.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-logo="",TEST
 https://www.youtube.com/c/@24OnLive/live
+
+#EXTINF:-1 group-title="TEST" tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/480p/020670X0-portrait.jpg",The Cheshire Murders
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={{ "keys":[ {{ "kty":"oct", "k":"6412adfff72f7ae4db97941e1faee04c", "kid":"5bf295c419b55370b25be0dec1a7ae12" }} ], "type":"temporary" }}
+https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d8dcee6cbea8a6a4eef59fb_hbovodhd/dash0/MYS_index.mpd
