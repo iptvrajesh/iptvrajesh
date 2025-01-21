@@ -908,29 +908,34 @@ https://streamline.sturls.com/StarSportsSelect02/index.m3u8?token=d3289064cead00
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png",SONY SPORTS TEN 1 HD
-https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
+#https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
+https://la.drmlive.au/tp/sliv-ten1hd.m3u8
 #https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png",SONY SPORTS TEN 2 HD
-https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
+#https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
+https://la.drmlive.au/tp/sliv-ten2hd.m3u8
 #https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png",SONY SPORTS TEN 3 HD
-https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
+#https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
+https://la.drmlive.au/tp/sliv-ten3hd.m3u8
 #https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",SONY SPORTS TEN 4 HD
-https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
+#https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
+https://la.drmlive.au/tp/sliv-ten4hd.m3u8
 https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png",SONY SPORTS TEN 5 HD
-https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
+#https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
+https://la.drmlive.au/tp/sliv-ten5hd.m3u8
 #https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
@@ -1103,7 +1108,7 @@ https://jio.drmlive.au/jio/bpk-tv/Jio_Sports_MOB/Fallback/index.m3u8
 #https://teachublive.link/JIO/app/live.php?id=1272&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs.png" group-title="Sports",FIFA+
-#https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
+https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png" group-title="Sports",REAL MADRID TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
@@ -2080,7 +2085,7 @@ https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK2K6zphCP8I7Ru5AkkOEw5NennFaaVcZb6g&s" group-title="Movies",ZEE ANMOL CINEMA 2
 https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/a/L7N4h62" group-title="Movies",ZEE BOLLYWORLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uv5HHYE.jpeg" group-title="Movies",ZEE BOLLYWORLD
 https://stream.ads.ottera.tv/cl/250114cu36uv32cfkcu4acm9pg/1280x720_2300000_0_f.m3u8?i=475_6640
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20241024T054050SQUARE.png" group-title="Movies",SOUTH STATION
@@ -2201,12 +2206,12 @@ https://teachublive.link/mac/create.php?id=155729
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #https://livea.streamready.in/symandxplorhd/smil:common.smil/manifest.mpd
 
-#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/%26flix.svg" group-title="Movies",&FLIX HD 
+#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/%26flix_2018_3D.png" group-title="Movies",&FLIX HD 
 https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 #http://192.168.1.6:8080/live.php?id=1322&key=JITENDRAUNATTI&e=.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1322.m3u8
 
-#EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg" group-title="Movies",&PRIVE HD 
+#EXTINF:1 tvg-logo="https://i.imgur.com/qyyUlg3.png" group-title="Movies",&PRIVE HD 
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 #https://la.drmlive.au/tp/zee-9z5543514.m3u8
 #http://192.168.1.6:8080/live.php?id=1349&key=JITENDRAUNATTI&e=.m3u8
