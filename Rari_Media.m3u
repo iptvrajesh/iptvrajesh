@@ -2200,23 +2200,18 @@ https://teachublive.link/mac/create.php?id=155729
 #KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/Atv.php?id=37
 #https://livea.streamready.in/stargoldselecthd/smil:common.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Xplore_HD.svg" group-title="Movies",XPLORE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/Atv.php?id=4
-http://xlpore-samsungus.amagi.tv/playlist.m3u8
-#https://livea.streamready.in/symandxplorhd/smil:common.smil/manifest.mpd
-
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/%26flix_2018_3D.png" group-title="Movies",&FLIX HD 
 https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
 #http://192.168.1.6:8080/live.php?id=1322&key=JITENDRAUNATTI&e=.m3u8
 #https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1322.m3u8
 
-#EXTINF:1 tvg-logo="https://i.imgur.com/qyyUlg3.png" group-title="Movies",&PRIVE HD 
+#EXTINF:1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1623,h_914,c_scale,f_webp,q_auto:eco/resources/0-9-9z5543514/list/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.jpg" group-title="Movies",&PRIVE HD 
 https://live.drmlive-02.workers.dev/zee/9z5543514.m3u8
 #https://la.drmlive.au/tp/zee-9z5543514.m3u8
 #http://192.168.1.6:8080/live.php?id=1349&key=JITENDRAUNATTI&e=.m3u8
-#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/201.ts
-#https://jio.jiotv.link/api/3.php?live=true&in=ts_live_1349.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1799,h_1013,c_scale,f_webp,q_auto:eco/resources/0-9-209/list/1170x658withlogo358457080.jpg" group-title="Movies",&XPLOR HD
+https://live.drmlive-02.workers.dev/zee/209.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Astro_Boo_%28Nov_2024%29.png",ASTRO BOO HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2257,12 +2252,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 #https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Movies",ASTRO HITS NOW
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg" group-title="Movies",ASTRO HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Movies",ASTRO HITS 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg" group-title="Movies",ASTRO HITS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
@@ -2329,9 +2324,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/urban_action_512X512_balck.png" group-title="Movies",URBAN ACTION
 https://live.drmlive-02.workers.dev/yupptv/fta/urban-action.m3u8
-
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/XPOHD_Thumbnail-v1/XPOHD_Thumbnail.png" group-title="Movies",&XPLOR HD
-https://live.drmlive-02.workers.dev/zee/209.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991756/600x337.webp?type=channelTile" group-title="Movies",XUMO BOLLYWOOD CINEMA
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
@@ -2833,6 +2825,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH HD
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Xplore_HD.svg" group-title="Knowledge",XPLORE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/Atv.php?id=4
+http://xlpore-samsungus.amagi.tv/playlist.m3u8
+#https://livea.streamready.in/symandxplorhd/smil:common.smil/manifest.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8017-j7a4nf20-v1/imageContent-8017-j7a4nf20-m1.png",EPIC
 https://jio.drmlive.au/jio/bpk-tv/Epic_HD_MOB/Fallback/index.m3u8
