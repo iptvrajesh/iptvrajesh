@@ -11,7 +11,7 @@
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
-#Last Update: 23/01/2025 📅
+#Last Update: 20/01/2025 📅
 #Rari Media
 
 ====================================================================================================================================
@@ -305,7 +305,7 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv1/chunks
 
 #EXTINF:-1 tvg-logo="https://sgiocadelaide.blob.core.windows.net/gregoriantvcontainer/GregorianTVandNewsLogo.png" group-title="Malayalam",GREGORIAN TV YOUTUBE
 #https://ytlive.iptvhub.workers.dev/stream/GregorianTVChannel/index.m3u8
-https://ythls.armelin.one/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
+https://ythls-v3.onrender.com/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Powervision.jpeg/revision/latest?cb=20191228100427" group-title="Malayalam",POWERVISION
