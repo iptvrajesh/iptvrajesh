@@ -6,12 +6,11 @@
 #EXTM3U x-tvg-url="https://3o77.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz" 
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U x-tvg-url="https://www.tsepg.cf/epg.xml.gz"
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
-#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
-#Last Update: 20/01/2025 📅
+#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
+#Last Update: 25/01/2025 📅
 #Rari Media
 
 ====================================================================================================================================
@@ -19,7 +18,8 @@ MALAYALAM - മലയാളം
 ====================================================================================================================================
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12323-jaa5pzxs-v1/imageContent-12323-jaa5pzxs-m1.png",JEEVAN TV
-https://jio.drmlive.au/jio/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
+#https://jio.drmlive.au/jio/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
+https://amit-1.allinonereborn.in/jiotv/app/ts_live_842.m3u8
 #http://192.168.1.6:8080/live.php?id=842&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/jeevan_576/index.m3u8
 
@@ -53,7 +53,8 @@ https://live.drmlive-02.workers.dev/zee/129.m3u8
 #https://drmlive.in/zee5/play.php?id=0-9-129&e=.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png",FLOWERS TV
-https://jio.drmlive.au/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
+#https://jio.drmlive.au/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
+https://amit-1.allinonereborn.in/jiotv/app/ts_live_634.m3u8
 #http://192.168.1.6:8080/live.php?id=634&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/flowerstv_576/index.m3u8
 #http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
@@ -65,7 +66,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33-j5fc5fko-v1/imageContent-33-j5fc5fko-m1.png",KAIRALI TV
-https://jio.drmlive.au/jio/bpk-tv/Kairali_TV_MOB/Fallback/index.m3u8
+#https://jio.drmlive.au/jio/bpk-tv/Kairali_TV_MOB/Fallback/index.m3u8
+https://amit-1.allinonereborn.in/jiotv/app/ts_live_710.m3u8
 #http://192.168.1.6:8080/live.php?id=710&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/kairalitv_576/index.m3u8
 #https://sports247.eu.org/api/app/live.php?id=710&e=.m3u8
@@ -602,8 +604,14 @@ https://jio.drmlive.au/jio/Moon_Tv/Moon_Tv_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Tamil",VAANAVIL
 https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Tamil",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/tv/img/logo.png" group-title="Tamil",IBC COMEDY
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC_Radio_TV_black.png" group-title="Tamil",IBC RADIO
+https://live.drmlive-02.workers.dev/yupptv/fta/ibc-radio.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",POLIMER NEWS
 https://jio.drmlive.au/jio/bpk-tv/Polimer_News_MOB/Fallback/index.m3u8
@@ -736,15 +744,26 @@ https://live.drmlive-02.workers.dev/yupptv/fta/athavan-tv-hd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",STAR TAMIL
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr
+#https://edge2-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",TAMIL TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/firetamil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",SHALINI TV
-https://cdn-2.pishow.tv/live/1381/master.m3u8
+#https://cdn-2.pishow.tv/live/1381/master.m3u8
+http://ipcloud.live:8080/shalinitv/shalinitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/thala_tv_512X512_balck.png" group-title="Tamil",THALAA TV
 https://live.drmlive-02.workers.dev/yupptv/fta/thalaa-tv.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/bgWKDMS/unnamed-photoaidcom-cropped.png",STAR HD
+http://applelive.in/startv/startv.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_193440751344494344473689.png",THALAPATHY TV
+http://applelive.in/thalapathytv/thalapathytv.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1234424766834015397778281.png",S MAX UHD
+http://applelive.in/smaxtv/smaxtv.m3u8
 
 ===========================================================================================================================================
 HINDI - हिंदी
@@ -1678,8 +1697,9 @@ https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/672/20250123T130028Z/
 #https://webudit.webhd.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",WILLOW SPORTS HD
+https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/cb553d1b7b6c678a98d43e62d9ef41a4d3243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c49e0a957f378bbdbe306f2c180680585ee2be5da5edf55b438d3af5b6494a887b4dee875fc8d549ed9d855e9e409b22f3109ec1a68e811280849201ef6d8d5c9f870f07fba957d1ac74b8de93684bf31b4a672d252d270e9c3458a7544a5d8292a31fbcd261a9a32c806736b50ada3aecc15647d86b90c334cb9abecc56011ba1ca5c602bea8dcaecac6161ec34a8f0abb5770d345ab8d4eb9535f85b8d35c41d1c64b2e35ffa97308cb5263637cc9a448f9c884e8eda8267933fc3cbf89972170033444ab154ac9e62cc3a9d569c8e4271121d1fedad5ccad08d05707a19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab65775e590970caf2fdcb40cd3e40be6386f0e4ce0a45e2a2f264ad9e06202276a8314b4a1adcf434951bcb99d8483395e20361855008e989753939ccf2418568c1311697a14188117940efb055a0b3ac60ed9ce5a229d67c14c00019d813c4713154536f6d1bac8d926c7d65263fb/36/1920x1080_5859480/index.m3u8
 #https://allinonereborn.com/tatatv.php?id=12161
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2406/20250123T130155Z/20250123T150155Z/master_7_3_widevine.m3u8
+#https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2406/20250123T130155Z/20250123T150155Z/master_7_3_widevine.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest?cb=20180916123020" group-title="Sports",FOX CRICKET 501
 https://m118753.protect-cdn.net/live/m1-index.m3u8
@@ -2171,6 +2191,9 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-751-j5l5kb9k-v3/imageContent-751-j5l5kb9k-m3.png",ROMEDY NOW
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #https://jio.drmlive.au/jio/Romedy_Now/Romedy_Now_600.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/8kWnyqn.png",STAR MOVIES HD
@@ -2632,9 +2655,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="" group-title="Music",BOLLYWOOD HUNGAMA
 https://jio.drmlive.au/jio/bpk-tv/Bollywood_Hungama_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/bollywood-hungama.m3u8
-
-#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC_Radio_TV_black.png" group-title="Tamil",IBC RADIO
-https://live.drmlive-02.workers.dev/yupptv/fta/ibc-radio.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music" ,ARTIST ALOUD HUNGAMA
 https://jio.drmlive.au/jio/bpk-tv/Artist_Aloud_MOB/Fallback/index.m3u8
