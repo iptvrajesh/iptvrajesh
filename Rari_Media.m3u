@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 30/01/2025 📅
+#Last Update: 15/02/2025 📅
 #Rari Media
 
 ====================================================================================================================================
@@ -261,6 +261,7 @@ https://ythls-v3.onrender.com/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="Malayalam",MEDIA ONE
 https://jio.drmlive.au/jio/bpk-tv/Media_One_TV_MOB/Fallback/index.m3u8
+#https://cdn-3.pishow.tv/live/1481/master.m3u8
 #http://192.168.1.6:8080/live.php?id=910&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/mediaone_576/index.m3u8
 
@@ -471,6 +472,7 @@ https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",ZEE TAMIL HD
 https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
+#http://45.148.145.57/IN_ZEETAMILHD/tracks-v1a1/mono.m3u8
 #https://la.drmlive.au/tp/zee-zeetamil.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil/default/Zeetamil.m3u8
 
@@ -611,23 +613,16 @@ https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC_Radio_TV_black.png" group-title="Tamil",IBC RADIO
-https://live.drmlive-02.workers.dev/yupptv/fta/ibc-radio.m3u8
+#https://live.drmlive-02.workers.dev/yupptv/fta/ibc-radio.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",POLIMER NEWS
 https://jio.drmlive.au/jio/bpk-tv/Polimer_News_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/polimer-news.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Astro_Vellithirai_%28Nov_2024%29.png/revision/latest?cb=20241121180041",ASTRO VELLITHIRAI
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Astro_Vellithirai_%28Nov_2024%29.png",ASTRO VELLITHIRAI  
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wSi75B6U0Vp/jML2JTpUsg", "kid":"nESvi1lLYVf1XTwxvWecEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/541_144.png" group-title="Tamil" ,ASTRO VELLITHIRAI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=72ad6eaa1904540138487fffa3ad6510:17c19ad670a557e6882419d6923fad27
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5073
@@ -710,12 +705,10 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Tamil",ASTRO VINMEEN HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroVinmeen_2024.png" group-title="Tamil",ASTRO VINMEEN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aMXbOzCfq1UDpv21gN3ygQ", "kid":"x3N+3R1ngk+nDfcxVL+BEA" } ], "type":"temporary" }
-https://fmmovie.tech/linearjitp-playback.astro.com.my/dash-wv/linear/2105/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7737edd1d67824fa70df73154bf8110:68c5db3b309fab5503a6fdb580ddf281
@@ -785,7 +778,7 @@ https://jio.drmlive.au/jio/bpk-tv/DD_National_MOB/Fallback/index.m3u8
 #https://cdn-1.pishow.tv/live/11/master.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",STAR PLUS HD
-#https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd
+http://45.148.145.57/IN_STARPLUHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",STAR BHARAT HD
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
@@ -875,18 +868,20 @@ https://live.drmlive-02.workers.dev/zee/bigmagic_1786965389.m3u8
 SPORTS - കായികം 
 ==========================================================================================================================================
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Astro_Cricket_%28Oct_2024%29.png/revision/latest?cb=20241121183852",ASTRO CRICKET
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"User-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTHTTP:{"Authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXUmpNREZpTlRVdE1XUTROUzAwWVRsaExXRTRZek10TWpVelptSTRZamcyWlRoayIsIndtb3BpZCI6MzIsImV4cCI6MTczNzUxNzc5MCwiaWF0IjoxNzM2OTEzNzkwfQ.8uBz31b2JfG8KwpZigcOG2ROyE_djrv3tgCGDwwOBlc"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"xZPC7upidCKFuZ5Nh7HISg", "kid":"qOsPFSxuQpynpT85mq3yVw" } ], "type":"temporary" }
-https://d1sz44a1d86dgq.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/Cricket_Production/masterCH5.mpd
+#EXTINF:-1 group-title="Sports" tvg-logo="https://aqfadtv.xyz/logos/AstroCricket2024.png",ASTRO CRICKET
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zYTtE2sMxx+KuM1NT2ouTA", "kid":"A8Lgry+BWfnwzptdvIZfEA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+#https://d1sz44a1d86dgq.cloudfront.net/v1/dash/4ad19442a5c36709752f44aae3b98db617a3c3d7/Cricket_Production/masterCH5.mpd
 #https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd
 #https://allinonereborn.com/tatatv.php?id=12141
 #https://airtel.drmlive.in/CH5/masterCH5.mpd
 #http://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://aqfadtv.xyz/logos/AstroCricket2024.png",ASTRO CRICKET PLUS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"WwDUNB6QswIrXlcTmuirFg", "kid":"SiZ7oJs6Q5aTZO53923WIg" }], "type":"temporary" }
+https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png",DD SPORTS 1.0
 https://jio.drmlive.au/jio/bpk-tv/DD_Sports_MOB/Fallback/index.m3u8
@@ -1019,11 +1014,7 @@ https://fancode.drmlive.in/primary/113545_english_hls_6056ta-di/index.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T SPORTS HD
-https://allinonereborn.com/tatatv.php?id=12104
-#https://cdn.kriratv.stream/T-Sport/index.m3u8
-#http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
-#https://live.tsports.com/mobile_hls/tsports_live/auto.m3u8
-#https://live.tsports.com/live/tsports_live_1080/index.m3u8
+https://cdn.hoichoi24.com/TSportsHD/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/52-525034_dubai-sports-icon-dubai-sports-3-hd-logo.png" group-title="Sports",DUBAI SPORTS HD 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b1500000.m3u8
@@ -1415,7 +1406,8 @@ https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/pgub1bh7o9/o
 https://live.ll.ww.aiv-cdn.net/OTTB/iad-nitro/live/clients/dash/enc/8ci7l7dt0d/out/v1/98fe69f2cdc041388004305e63353268/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-logo-61C099EBD7-seeklogo.com.png" group-title="Sports" , BEIN SPORTS XTRA
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+https://jmp2.uk/sam-CABA8000043F.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/SSC_TV_logo.svg/300px-SSC_TV_logo.svg.png",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1877,6 +1869,9 @@ https://ams1.styxsports.com:5443/LiveApp/streams/2Oj0R1ALVUcjgJxt433210337317293
 #EXTINF:-1 tvg-logo="" group-title="Sports",SOLH SPORTS
 https://solhtvhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",SIYATHA TV
+https://edge3-moblive.yuppcdn.net/transhd2/smil:siytv08.smil/playlist.m3u8?dvr
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/NBC_Sports_2023.svg" group-title="Sports",NBC SPORTS
 https://d1m1xk35ma8qfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-v4tilgx2y7n7y/master.m3u8
 
@@ -2276,12 +2271,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default_primary.m
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 #https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg" group-title="Movies",ASTRO HITS NOW
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/HITSNOW.png" group-title="Movies",ASTRO HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Hits_%28Southeast_Asia%29.svg" group-title="Movies",ASTRO HITS 
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Hits_v1.png" group-title="Movies",ASTRO HITS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NssgY79TONGNMWVzcbFYFw", "kid":"H+kmhadYRNxUydrBJIAlEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
@@ -2306,6 +2301,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wyGv4WibB9W35VvQJcSDzg", "kid":"wkp4EdmrRrSLdGoOfiaSEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Lifetime.png" group-title="Movies",ASTRO LIFETIME HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5052/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HerSphereByLionsgate.png" group-title="Movies",HERSPHERE BY LIONSGATE
 https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
@@ -2777,7 +2777,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5071/default_primary.m
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5093/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m1DN9gzRGZFKbJ7lTrRaPntkpo8B5byefszt90NApk9qQ=s160-c-k-c0x00ffffff-no-rj" group-title="Kids",BOOMERANG UK
-https://ytlive.iptvhub.workers.dev/stream/BoomerangUK/index.m3u8
+https://ythls-v3.onrender.com/channel/UCmst562fALOY2cKb4IFgqEg.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -2847,6 +2847,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NFgmX3Uwvx/vIEyoy0aJ2w", "kid":"P+7MNpMHMsu2kwbcaHxvEA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" group-title="Knowledge",HISTORY TV18 HD
+https://jmp2.uk/sam-IN1600008DN.m3u8
+
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH HD
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
@@ -2914,7 +2917,10 @@ COMEDY - തമാശ
 ==============================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/al5a-TjybDtOQrBzpxpLkrG9uMTWpofw43Al81L5I9szAzZ8IutjqVVO8pH_RXb6CRim9lHMMw=s160-c-k-c0x00ffffff-no-rj" group-title="Comedy",CLASSIC MR BEAN
-https://ythls-v3.onrender.com/channel/UC3n3ze9bdQierudHZwftTRQ.m3u8
+https://ythls-v3.onrender.com/channel/UCEwIUtFBhaI2L2PuKv0KL2g.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/al5a-TjybDtOQrBzpxpLkrG9uMTWpofw43Al81L5I9szAzZ8IutjqVVO8pH_RXb6CRim9lHMMw=s160-c-k-c0x00ffffff-no-rj" group-title="Comedy",MR BEAN
+https://ythls-v3.onrender.com/channel/UCkAGrHCLFmlK3H2kd6isipg.m3u8
 
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png",COMEDY CENTRAL HD
 https://live.drmlive-02.workers.dev/jc/1157.m3u8
@@ -2975,6 +2981,13 @@ https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 =========================================================================================================================================
 TEST - പരീക്ഷണം 
 =========================================================================================================================================
+Tiny Pop
+https://jmp2.uk/sam-GBBD3200003T6.m3u8
+
+PopUp
+https://jmp2.uk/sam-GB25000016G.m3u8
+
+
 
 #EXTINF:-1 group-title="Test" tvg-logo="",Asianet News TEST 
 #https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
