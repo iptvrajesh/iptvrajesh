@@ -733,7 +733,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/aa713e6e-5286-47c2-ab6c-c0206fccd827/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Athavan_TV_black.png" group-title="Tamil",ATHAVAN TV HD
-https://live.drmlive-02.workers.dev/yupptv/fta/athavan-tv-hd.m3u8
+https://tll-local.okmthiru04.workers.dev/athavantv
+#https://live.drmlive-02.workers.dev/yupptv/fta/athavan-tv-hd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",STAR TAMIL
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr
@@ -883,13 +884,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[{ "kty":"oct", "k":"WwDUNB6QswIrXlcTmuirFg", "kid":"SiZ7oJs6Q5aTZO53923WIg" }], "type":"temporary" }
 https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png",DD SPORTS 1.0
-https://jio.drmlive.au/jio/bpk-tv/DD_Sports_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png",DD SPORTS
+https://cdn-7.pishow.tv/live/1161/master.m3u8
+#https://jio.drmlive.au/jio/bpk-tv/DD_Sports_MOB/Fallback/index.m3u8
 #https://allinonereborn.com/tatatv.php?id=860
 #http://192.168.1.6:8080/live.php?id=204&key=JITENDRAUNATTI&e=.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png",DD SPORTS 2.0
-#http://14.102.123.50:5001/live/204.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png",DD SPORTS HD
 #http://172.105.123.238:18002/play/a03d
@@ -897,13 +896,11 @@ https://jio.drmlive.au/jio/bpk-tv/DD_Sports_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://championstrophy2025.com/wp-content/uploads/2024/11/ICC-Champions-Trophy.jpg",ICC CHAMPIONS TROPHY LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
-https://aba5sdmaaaaaaaamjyr2xiy4rbicb.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zqhtvqjquq/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
+#https://aba5sdmaaaaaaaamjyr2xiy4rbicb.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zqhtvqjquq/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
+https://jcevents.jiocinema.com:443/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740379322~acl=%2f*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=6cac47ef5a1d17cfe6e7e05f89a9d7c67318bc114fed4c4c800feeb11814ec63/JC_Sports18_1HD-audio_108038_eng=108000-video=3728000.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1 HD
-https://streamline.sturls.com/StarSports01/index.m3u8?token=a41d6db905bb2f20c43f43e57189ba27f7e98010-8edeea29389b9613e88421b7fd840c3f-1737017016-1737006216
-#https://allinonereborn.com/tatatv.php?id=12148
-#https://criccoder.pages.dev/ss1.m3u8
-#http://119.156.26.155:8000/play/a069/index.m3u8
+https://hocdn.news/live/star1in.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",STAR SPORTS 2 HD
 https://streamline.sturls.com/StarSports02/index.m3u8?token=b6c7f84b9d3a286e19c81f89bc34dbfe3f9b06e3-c58bcfc9e55032d5fdb5d7951b28862c-1737017092-1737006292
@@ -1018,7 +1015,10 @@ https://fancode.drmlive.in/primary/113545_english_hls_6056ta-di/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rta-sport-af.png" group-title="Sports",RTA HD
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T SPORTS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T SPORTS HD 1
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T SPORTS HD 2
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/52-525034_dubai-sports-icon-dubai-sports-3-hd-logo.png" group-title="Sports",DUBAI SPORTS HD 1
@@ -1034,9 +1034,8 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 #https://jmp2.uk/SamsungTVPlus/GBBB4300001NX.m3u8
 #https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",ATN CRICKET PLUS
-https://allinonereborn.com/tatatv.php?id=43933
-#https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",ATN 
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports",JIO SPORTS HD 
 https://jio.drmlive.au/jio/bpk-tv/Jio_Sports_MOB/Fallback/index.m3u8
@@ -1463,8 +1462,7 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
 #https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
-https://allinonereborn.com/tatatv.php?id=8894
-#https://criccoder.pages.dev/sky.m3u8
+https://hocdn.news/live/skyscric.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="Sports",SKYSPORTS PREMIER LEAGUE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1554,12 +1552,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/o
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png",WILLOW CRICKET HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6653c05e42fc4fac8f49d7cbf99498fe:3b88f2cff3affef20b265c840bafc0cc
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/22/20250123T130242Z/20250123T150242Z/master_7_3_widevine.m3u8
-#https://allinonereborn.com/tatatv.php?id=12169
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="Sports",BEIN SPORTS 1 AISPLAY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1672,7 +1664,8 @@ https://bpcdn.dialog.lk/bpk-tv/Ch069/output/index.mpd
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/60deaf07-96f9-4d8c-8aee-97975d25e73b_180x180_P-tv.jpg" group-title="Sports",PTV SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
-https://live6.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
+#https://live6.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
+https://hocdn.news/live/ptvpk.m3u8
 #http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Cricbuzz_%282021%29.svg" group-title="Sports",CRICBUZZ 1
@@ -1694,17 +1687,14 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",EVENT TV
 https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://usmasters.ttensports.com/wp-content/uploads/2023/08/willow-xtra.png" group-title="Sports",WILLOW XTRA TV
-#https://allinonereborn.com/tatatv.php?id=12170
-https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/672/20250123T130028Z/20250123T150028Z/master_7_3_widevine.m3u8
-#https://criccoder.pages.dev/willowx.m3u8
-#https://teachublive.link/CRICHD/sports.php?v=willowextra
-#https://webudit.webhd.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png",WILLOW 
+https://hocdn.news/live/willowusa.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",WILLOW SPORTS HD
-https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/cb553d1b7b6c678a98d43e62d9ef41a4d3243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27751c49e0a957f378bbdbe306f2c180680585ee2be5da5edf55b438d3af5b6494a887b4dee875fc8d549ed9d855e9e409b22f3109ec1a68e811280849201ef6d8d5c9f870f07fba957d1ac74b8de93684bf31b4a672d252d270e9c3458a7544a5d8292a31fbcd261a9a32c806736b50ada3aecc15647d86b90c334cb9abecc56011ba1ca5c602bea8dcaecac6161ec34a8f0abb5770d345ab8d4eb9535f85b8d35c41d1c64b2e35ffa97308cb5263637cc9a448f9c884e8eda8267933fc3cbf89972170033444ab154ac9e62cc3a9d569c8e4271121d1fedad5ccad08d05707a19d2c91ef5030bb5debc86dd2532de2f4e09bf2e8a0d4524e71c5851c961b99635678c662d803636f41175a34aeeb721f0e88ab65775e590970caf2fdcb40cd3e40be6386f0e4ce0a45e2a2f264ad9e06202276a8314b4a1adcf434951bcb99d8483395e20361855008e989753939ccf2418568c1311697a14188117940efb055a0b3ac60ed9ce5a229d67c14c00019d813c4713154536f6d1bac8d926c7d65263fb/36/1920x1080_5859480/index.m3u8
-#https://allinonereborn.com/tatatv.php?id=12161
-#https://p-cdn4-a-cg14-linear-cbd46b77.movetv.com/clipslist/2406/20250123T130155Z/20250123T150155Z/master_7_3_widevine.m3u8
+#EXTINF:-1 tvg-logo="https://usmasters.ttensports.com/wp-content/uploads/2023/08/willow-xtra.png" group-title="Sports",WILLOW 2
+https://hocdn.news/live/willowextra.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports",WILLOW SPORTS
+https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest?cb=20180916123020" group-title="Sports",FOX CRICKET 501
 https://m118753.protect-cdn.net/live/m1-index.m3u8
