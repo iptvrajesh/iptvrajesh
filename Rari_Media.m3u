@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 15/02/2025 📅
+#Last Update: 04/03/2025 📅
 #Rari Media
 
 ====================================================================================================================================
@@ -29,7 +29,11 @@ http://217.20.112.199/asianet/index.m3u8
 #http://45.249.171.155:8090/anandmedia/asianethd_576/index.m3u8
 #https://cinesoft.b-cdn.net/anandmedia/asianethd_576/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Asianet_logo.png",ASIANET
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-tv
+
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png",ASIANET PLUS
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-plus
 #http://45.249.171.155:8090/anandmedia/asianetplus_576/index.m3u8
 #https://cinesoft.b-cdn.net/anandmedia/asianetplus_576/tracks-v1a1/mono.m3u8
 
@@ -82,6 +86,7 @@ https://segment.yuppcdn.net/050522/mazhavilmanorama/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11577-j9jv8mqg-v1/imageContent-11577-j9jv8mqg-m1.png",MAZHAVIL MANORAMA HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=mazhavil-manorama-hd
 #http://45.249.171.155:8090/anandmedia/mazhavilmanorama_576/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",SURYA MOVIES
@@ -95,6 +100,7 @@ https://jio.drmlive.au/jio/bpk-tv/Surya_Movies_MOB/Fallback/index.m3u8
 #http://14.102.123.50:5001/live/1754.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png",ASIANET MOVIES
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-movies-us
 #http://localhost:8080/live.php?id=459&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/asianetmovies_576/index.m3u8
 #https://cinesoft.b-cdn.net/anandmedia/asianetmovies_576/tracks-v1a1/mono.m3u8
@@ -275,7 +281,8 @@ https://jio.drmlive.au/jio/bpk-tv/News_Malayalam_MOB/Fallback/index.m3u8
 #https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/darshanatv-black.png" group-title="Malayalam",DARSANA TV
-https://live.drmlive-02.workers.dev/yupptv/fta/darshanatv.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=darshanatv
+#https://live.drmlive-02.workers.dev/yupptv/fta/darshanatv.m3u8
 #https://livectv3.phando.com/8023/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam",KERALABHUMI TV
@@ -297,7 +304,8 @@ https://tnm3u.in.net/channel/malayalam.php?c=kozhikodevision
 #https://livectv3.phando.com/8054/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/keralavision-black.png" group-title="Malayalam",KERALA VISION TV
-https://live.drmlive-02.workers.dev/yupptv/fta/keralavision.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=keralavision
+#https://live.drmlive-02.workers.dev/yupptv/fta/keralavision.m3u8
 #http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Malayalam",KITE VICTERS
@@ -400,6 +408,7 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 #https://yuppftalive.akamaized.net/120723/smil:mazhavilmanoramainternational.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dp6BvWJ.png" group-title="Malayalam",KAIRALI ARABIA 
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=kairali-arabia
 #https://yuppftalive.akamaized.net/250723/smil:kairaliarabia.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/9a/e6/bd9ae661-b1f7-91eb-b73b-2b8ce6d09de2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1200x630wa.png" group-title="Malayalam",KVTV
@@ -468,7 +477,8 @@ https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_inde
 #KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",STAR VIJAY HD
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_TV_logo.svg",VIJAY TV
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=star-vijay
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",ZEE TAMIL HD
 https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
@@ -608,11 +618,13 @@ https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=ibc-tamil
 
 #EXTINF:-1 tvg-logo="https://assets.ibcstack.com/web/bravo/tv/img/logo.png" group-title="Tamil",IBC COMEDY
 #https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/IBC_Radio_TV_black.png" group-title="Tamil",IBC RADIO
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=ibc-radio
 #https://live.drmlive-02.workers.dev/yupptv/fta/ibc-radio.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",POLIMER NEWS
@@ -733,7 +745,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5087/default_primary.mpd
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/aa713e6e-5286-47c2-ab6c-c0206fccd827/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Athavan_TV_black.png" group-title="Tamil",ATHAVAN TV HD
-https://tll-local.okmthiru04.workers.dev/athavantv
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=athavan-tv-hd
+#https://tll-local.okmthiru04.workers.dev/athavantv
 #https://live.drmlive-02.workers.dev/yupptv/fta/athavan-tv-hd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Tamil",STAR TAMIL
@@ -748,7 +761,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/firetamil/playlist.m3u8
 http://ipcloud.live:8080/shalinitv/shalinitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/thala_tv_512X512_balck.png" group-title="Tamil",THALAA TV
-https://live.drmlive-02.workers.dev/yupptv/fta/thalaa-tv.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=thalaa-tv
+#https://live.drmlive-02.workers.dev/yupptv/fta/thalaa-tv.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://i.ibb.co/bgWKDMS/unnamed-photoaidcom-cropped.png",STAR HD
 http://applelive.in/startv/startv.m3u8
@@ -779,9 +793,11 @@ https://jio.drmlive.au/jio/bpk-tv/DD_National_MOB/Fallback/index.m3u8
 #https://cdn-1.pishow.tv/live/11/master.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",STAR PLUS HD
-http://45.148.145.57/IN_STARPLUHD/tracks-v1a1/mono.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=star-plus
+#http://45.148.145.57/IN_STARPLUHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",STAR BHARAT HD
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=star-bharat
 #https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SONY SET HD
@@ -887,7 +903,7 @@ https://linear05-playback.sooka.my/CH2/masterCH2.mpd
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png",DD SPORTS
 https://cdn-7.pishow.tv/live/1161/master.m3u8
 #https://jio.drmlive.au/jio/bpk-tv/DD_Sports_MOB/Fallback/index.m3u8
-#https://allinonereborn.com/tatatv.php?id=860
+#https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=0abc6b14-c563-4851-a49b-4329f9d22be4
 #http://192.168.1.6:8080/live.php?id=204&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png",DD SPORTS HD
@@ -899,14 +915,25 @@ https://cdn-7.pishow.tv/live/1161/master.m3u8
 #https://aba5sdmaaaaaaaamjyr2xiy4rbicb.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zqhtvqjquq/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 https://jcevents.jiocinema.com:443/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740379322~acl=%2f*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=6cac47ef5a1d17cfe6e7e05f89a9d7c67318bc114fed4c4c800feeb11814ec63/JC_Sports18_1HD-audio_108038_eng=108000-video=3728000.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f108f8cb08c765aedf55d5b5eae58f4c:04a4ed8c992d291ce2097663b2adb677
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcOxZampz9U9qMXLYrItEoZl9fiAyTD2tEQ&usqp=CAU" group-title="Sports",SHOQ LIVE
+https://live-hw-stream.starzplayarabia.com/ICC_Champions_Trophy_2025/dash/drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/ICC-Champions-Trophy-2025-Logo.jpg" group-title="Sports", MYCO
+https://ml-pull-hwc.myco.io/stream1/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/ICC-Champions-Trophy-2025-Logo.jpg" group-title="Sports",JIOHOTSTAR 
+https://cdnt20.t20hd.cfd/live/m3-index.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1 HD
 https://hocdn.news/live/star1in.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",STAR SPORTS 2 HD
-https://streamline.sturls.com/StarSports02/index.m3u8?token=b6c7f84b9d3a286e19c81f89bc34dbfe3f9b06e3-c58bcfc9e55032d5fdb5d7951b28862c-1737017092-1737006292
-#https://allinonereborn.com/tatatv.php?id=12150
-#https://criccoder.pages.dev/ss2.m3u8
-#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/303592.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+https://moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",STAR SPORTS 1 HINDI HD
 https://allinonereborn.com/tatatv.php?id=12149
@@ -2108,7 +2135,8 @@ https://stream.ads.ottera.tv/cl/250114cu36uv32cfkcu4acm9pg/1280x720_2300000_0_f.
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bollywood4u_512X512_balck.png" group-title="Movies",BOLLYWOOD 4U
-https://live.drmlive-02.workers.dev/yupptv/fta/bollywood-4u.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=bollywood-4u
+#https://live.drmlive-02.workers.dev/yupptv/fta/bollywood-4u.m3u8
 #https://streams2.sofast.tv/ptnr-yupptv/title-BOLLYWOOD-4U-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/5b6d60a7-6c4b-440c-b5e3-d15e119b62c3/0.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",DESI PLAY
@@ -2316,15 +2344,18 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/OUTERSPHERE.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/512X512.png" group-title="Movies",BBO CLASSIC
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=bbo-classic
 https://live.drmlive-02.workers.dev/yupptv/premium/bboclassic.m3u8
 #https://ssailive.vgcdn.net/ptnr-web/title-BBO_Classic/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3e4dbf75-f525-4a9c-9e96-ef3765f4de32/b4c93e66-6c6a-4b2f-888b-a90dddbe32e8/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movies",BBO HD YUPPFLIX PLAYLIST
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=bbo
 https://live.drmlive-02.workers.dev/yupptv/premium/bbo.m3u8
 #https://ssailive.vgcdn.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6e0af97-b4c7-443e-a152-a8caa844c256/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/starvision_512X512_balck.png" group-title="Movies",STAR VISION
-https://live.drmlive-02.workers.dev/yupptv/fta/star-vision.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=star-vision
+#https://live.drmlive-02.workers.dev/yupptv/fta/star-vision.m3u8
 #https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/6b6b453c-164c-43e6-948b-02090d91ce44/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Movies",BOLLYWOOD MOVIES
@@ -2343,7 +2374,8 @@ https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa4
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/urban_action_512X512_balck.png" group-title="Movies",URBAN ACTION
-https://live.drmlive-02.workers.dev/yupptv/fta/urban-action.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=urban-action
+#https://live.drmlive-02.workers.dev/yupptv/fta/urban-action.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991756/600x337.webp?type=channelTile" group-title="Movies",XUMO BOLLYWOOD CINEMA
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
@@ -2373,7 +2405,8 @@ https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG",R BHARAT
-https://live.drmlive-02.workers.dev/yupptv/fta/republic-bharat.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=republic-bharat
+#https://live.drmlive-02.workers.dev/yupptv/fta/republic-bharat.m3u8
 https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png",NDTV 24x7
@@ -2668,6 +2701,18 @@ KIDS CARTOON - കാർട്ടൂൺ
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",SUPER HUNGAMA
 
+#EXTINF: tvg-logo="" group-title="Kids" , WOW KIDS TAMIL
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=wow-kidz-tamil
+
+#EXTINF: tvg-logo="" group-title="Kids" , BABYFIRST
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=babyfirst
+
+#EXTINF: tvg-logo="" group-title="Kids", KIDDO
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=kiddo
+
+#EXTINF: tvg-logo="" group-title="Kids", BEANI KIDS
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=beani-kids-tv
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",DISNEY
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7OhuB-Xwo2B5piMsY_YIi0rZgpsj4t4bzS8Cb-ReLwU9QkoiPBBrPi4Hvy-Caqbut-n3MSMd1f1Kw50liCphkg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
 
@@ -2783,7 +2828,8 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cartoon_classics_512X512_balck.png" group-title="Kids",CARTOON TV CLASSICS
-https://live.drmlive-02.workers.dev/yupptv/fta/cartoon-tv-classics.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=cartoon-tv-classics
+#https://live.drmlive-02.workers.dev/yupptv/fta/cartoon-tv-classics.m3u8
 
 ==============================================================================================================================================
 KNOWLEDGE - അറിവ് 
@@ -2858,7 +2904,8 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 https://jio.drmlive.au/jio/bpk-tv/Epic_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/scifi_world_512X512_balck.png" group-title="Knowledge",SCIFI WORLD
-https://live.drmlive-02.workers.dev/yupptv/fta/scifi-world.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=scifi-world
+#https://live.drmlive-02.workers.dev/yupptv/fta/scifi-world.m3u8
 
 ==================================================================================================================================
 LIFE STYLE  - ജീവിത രീതി
@@ -2870,7 +2917,8 @@ LIFE STYLE  - ജീവിത രീതി
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42020-jxb7qjw8-v1/imageContent-42020-jxb7qjw8-m1.png",NDTV GOOD TIMES
-https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=ndtv-goodtimes
+#https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/ndtv-goodtimes.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png",DISCOVERY TURBO
