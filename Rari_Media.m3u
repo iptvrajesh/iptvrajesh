@@ -911,9 +911,8 @@ https://cdn-7.pishow.tv/live/1161/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://championstrophy2025.com/wp-content/uploads/2024/11/ICC-Champions-Trophy.jpg",ICC CHAMPIONS TROPHY LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
-#https://aba5sdmaaaaaaaamjyr2xiy4rbicb.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zqhtvqjquq/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
-https://jcevents.jiocinema.com:443/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740379322~acl=%2f*~id=aaf549ec51984c86b32dd7de3e1334c7~data=hdntl~hmac=6cac47ef5a1d17cfe6e7e05f89a9d7c67318bc114fed4c4c800feeb11814ec63/JC_Sports18_1HD-audio_108038_eng=108000-video=3728000.m3u8
+#KODIPROP:inputstream.adaptive.license_key=8e73c8415d7648e10b06000b1ace5953:f5d649bf1495cd0864a7422624ac5a86
+https://a120aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/2ldruyhiok/out/v1/e6aaa1b986d0434b95156e22db44eb71/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f108f8cb08c765aedf55d5b5eae58f4c:04a4ed8c992d291ce2097663b2adb677
@@ -1706,7 +1705,10 @@ https://allinonereborn.com/tatatv.php?id=12167
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Geo_Super.png/revision/latest?cb=20111001230449" group-title="Sports",GEO SUPER
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7641daa5bacfbb61936c40a221c9e78e:5732dd242f28338e909dc06cb1a1e5a2
+https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
+#http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports",TEN SPORTS PK
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
