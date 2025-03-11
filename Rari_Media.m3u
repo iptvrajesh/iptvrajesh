@@ -822,6 +822,7 @@ https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/Zeetvhd.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",COLORS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://mix.drmlive.au/mix/jc-144.m3u8
 #https://jio.drmlive.au/jio/bpk-tv/Colors_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/144.m3u8
