@@ -58,7 +58,8 @@ https://live.drmlive-02.workers.dev/zee/129.m3u8
 #https://drmlive.in/zee5/play.php?id=0-9-129&e=.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png",FLOWERS TV
-https://jio.drmlive.au/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
+https://qualifying-tr-incidence-race.trycloudflare.com//app/live.php?id=634
+#https://jio.drmlive.au/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
 #https://amit-1.allinonereborn.in/jiotv/app/ts_live_634.m3u8
 #http://192.168.1.6:8080/live.php?id=634&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/flowerstv_576/index.m3u8
