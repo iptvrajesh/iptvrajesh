@@ -491,7 +491,8 @@ https://jio.drmlive.au/jio/bpk-tv/Jaya_TV_HD_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=419&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",COLORS TAMIL HD
-https://jio.drmlive.au/jio/bpk-tv/Colors_Tamil_HD_MOB/Fallback/index.m3u8
+https://mix.drmlive.au/mix/jc-429.m3u8
+#https://jio.drmlive.au/jio/bpk-tv/Colors_Tamil_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/429.m3u8
 #https://drmlive.in/voot/web/429.m3u8
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
@@ -821,7 +822,8 @@ https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/Zeetvhd.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",COLORS HD
-https://jio.drmlive.au/jio/bpk-tv/Colors_HD_MOB/Fallback/index.m3u8
+https://mix.drmlive.au/mix/jc-144.m3u8
+#https://jio.drmlive.au/jio/bpk-tv/Colors_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/144.m3u8
 #https://drmlive.in/voot/web/144.m3u8
 #http://192.168.1.6:8080/live.php?id=144&key=JITENDRAUNATTI&e=.m3u8
@@ -984,9 +986,11 @@ https://la.drmlive.au/tp/sliv-ten5hd.m3u8
 #https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten1_HD_Malayalam.png" group-title="Sports",SONY TEN 1 HD MALAYALAM
-#http://192.168.1.6:8080/live.php?id=2960&key=JITENDRAUNATTI&e=.m3u8
-#https://jio.jiotv.link/api/3.php?live=true&in=ts_live_2960.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten1_HD_Malayalam.png" group-title="Sports",SONY TEN 4 HD MALAYALAM
+#https://qualifying-tr-incidence-race.trycloudflare.com//app/live.php?id=2960
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",SONY TEN 4 HD TAMIL
+https://qualifying-tr-incidence-race.trycloudflare.com//app/live.php?id=1772
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",SPORTS 18 1 HD
 https://jio.drmlive.au/jio/bpk-tv/Sports18_1_HD_MOB/Fallback/index.m3u8
@@ -3038,6 +3042,7 @@ https://jio.drmlive.au/jio/bpk-tv/God_TV_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Zee_Caf%C3%A9_2011_logo.png" group-title="Others",ZEE CAFE HD
 https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
+#https://la.drmlive.au/tp/zee-zeecafehd.m3u8
 
 =========================================================================================================================================
 TEST - പരീക്ഷണം 
