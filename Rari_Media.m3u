@@ -10,14 +10,15 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 08/03/2025 📅
+#Last Update: 12/03/2025 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
 ====================================================================================================================================
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12323-jaa5pzxs-v1/imageContent-12323-jaa5pzxs-m1.png",JEEVAN TV
-https://jio.drmlive.au/jio/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=jeevan-tv
+#https://jio.drmlive.au/jio/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
 #https://amit-1.allinonereborn.in/jiotv/app/ts_live_842.m3u8
 #http://192.168.1.6:8080/live.php?id=842&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/jeevan_576/index.m3u8
@@ -67,6 +68,7 @@ https://qualifying-tr-incidence-race.trycloudflare.com//app/live.php?id=634
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Flowers_USA.jpg/revision/latest?cb=20240315085340" group-title="Malayalam",FLOWERS TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=flowers-usa
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-762-j5m21xqw-v1/imageContent-762-j5m21xqw-m1.png",AMRITA TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
@@ -125,6 +127,7 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12020-j9ntf12w-v1/imageContent-12020-j9ntf12w-m1.png",ASIANET NEWS
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-news
 #https://jio.drmlive.au/jio/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8
 #https://segment.yuppcdn.net/240122/asianetnews/playlist.m3u8
@@ -136,7 +139,8 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunk
 https://ythls-v3.onrender.com/channel/UCf8w5m0YsRa8MHQ5bwSGmbw.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-855-j5ma1eig-v2/imageContent-855-j5ma1eig-m2.png",KAIRALI NEWS
-https://jio.drmlive.au/jio/bpk-tv/Kairali_People_TV_MOB/Fallback/index.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=people-tv
+#https://jio.drmlive.au/jio/bpk-tv/Kairali_People_TV_MOB/Fallback/index.m3u8
 #https://cdn-3.pishow.tv/live/1469/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/people-tv.m3u8
 #http://192.168.1.6:8080/live.php?id=725&key=JITENDRAUNATTI&e=.m3u8
@@ -148,6 +152,7 @@ https://ythls-v3.onrender.com/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png",MANORAMA NEWS
 https://mmtvlive1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign1/index.m3u8
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=manorama-news
 #https://jio.drmlive.au/jio/bpk-tv/Manorama_News_MOB/Fallback/index.m3u8
 #https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8
@@ -159,6 +164,7 @@ https://ythls-v3.onrender.com/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11572-j9jv7wi0-v1/imageContent-11572-j9jv7wi0-m1.png",MATHRUBHUMI NEWS
 https://segment.yuppcdn.net/110322/mathrubhuminews/playlist.m3u8
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=mathrubhumi-news
 #https://jio.drmlive.au/jio/bpk-tv/Mathrubhumi_News_MOB/Fallback/index.m3u8
 #https://mathrubhumividgyor.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks.m3u8
 
@@ -173,7 +179,8 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/playlist.m3u
 #http://45.249.171.155:8090/anandmedia/news18kerala_576/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11495-j9jtg2ns-v2/imageContent-11495-j9jtg2ns-m2.png",JAIHIND TV
-https://jio.drmlive.au/jio/bpk-tv/Jaihind_tv_MOB/Fallback/index.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=jaihind-tv
+#https://jio.drmlive.au/jio/bpk-tv/Jaihind_tv_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/jaihind-tv.m3u8
 #http://192.168.1.6:8080/live.php?id=465&key=JITENDRAUNATTI&e=.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UChtWcZy3HqvIypuk9787POA.m3u8
@@ -196,6 +203,7 @@ https://segment.yuppcdn.net/140622/janamtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",TWENTY FOUR
 https://livestream24news.sunnxt.com/24news/index.m3u8
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=24
 #https://jio.drmlive.au/jio/bpk-tv/Twenty_Four_News_MOB/Fallback/index.m3u8
 #http://14.102.123.50:5001/live/1250.m3u8
 #https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
@@ -210,14 +218,16 @@ https://jio.drmlive.au/jio/bpk-tv/Raj_Music_Malayalam_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=739&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11520-j9jtr0y8-v1/imageContent-11520-j9jtr0y8-m1.png",KAPPA TV
-https://jio.drmlive.au/jio/bpk-tv/Kappa_TV_MOB/Fallback/index.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=kappa-tv
+#https://jio.drmlive.au/jio/bpk-tv/Kappa_TV_MOB/Fallback/index.m3u8
 #https://cdn-3.pishow.tv/live/1123/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/kappa-tv.m3u8
 #http://192.168.1.6:8080/live.php?id=786&key=JITENDRAUNATTI&e=.m3u8
 #https://idvd.multitvsolution.com/idvo/kappatv.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11176-j9i3lv54-v2/imageContent-11176-j9i3lv54-m2.png",GOODNESS TV
-https://jio.drmlive.au/jio/bpk-tv/Goodness_TV_MOB/Fallback/index.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=goodness-tv
+#https://jio.drmlive.au/jio/bpk-tv/Goodness_TV_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/goodness-tv.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/GOODNESSTELEVISION/index.m3u8
 #https://ythls.armelin.one/channel/UCvSkU6Ut85o2B34fD5F1Fyw.m3u8
@@ -240,6 +250,7 @@ https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="Malayalam",REPORTER TV
 https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=reporter-tv
 #https://jio.drmlive.au/jio/bpk-tv/Reporter_TV_MOB/Fallback/index.m3u8
 #http://45.249.171.155:8090/anandmedia/reporter_576/index.m3u8
 
@@ -266,7 +277,8 @@ https://ythls-v3.onrender.com/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="Malayalam",MEDIA ONE
-https://jio.drmlive.au/jio/bpk-tv/Media_One_TV_MOB/Fallback/index.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=mediaone-tv
+#https://jio.drmlive.au/jio/bpk-tv/Media_One_TV_MOB/Fallback/index.m3u8
 #https://cdn-3.pishow.tv/live/1481/master.m3u8
 #http://192.168.1.6:8080/live.php?id=910&key=JITENDRAUNATTI&e=.m3u8
 #http://45.249.171.155:8090/anandmedia/mediaone_576/index.m3u8
@@ -320,7 +332,8 @@ https://ythls-v3.onrender.com/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Powervision.jpeg/revision/latest?cb=20191228100427" group-title="Malayalam",POWERVISION
-https://jio.drmlive.au/jio/bpk-tv/Powervision_TV_MOB/Fallback/index.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=power-vision-tv
+#https://jio.drmlive.au/jio/bpk-tv/Powervision_TV_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/power-vision-tv.m3u8
 #https://ythls.armelin.one/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
@@ -491,7 +504,8 @@ https://jio.drmlive.au/jio/bpk-tv/Jaya_TV_HD_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=419&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",COLORS TAMIL HD
-https://mix.drmlive.au/mix/jc-429.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=colors-tamil-us
+#https://mix.drmlive.au/mix/jc-429.m3u8
 #https://jio.drmlive.au/jio/bpk-tv/Colors_Tamil_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/429.m3u8
 #https://drmlive.in/voot/web/429.m3u8
@@ -822,8 +836,8 @@ https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/Zeetvhd.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",COLORS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://mix.drmlive.au/mix/jc-144.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=colors-me
+#https://mix.drmlive.au/mix/jc-144.m3u8
 #https://jio.drmlive.au/jio/bpk-tv/Colors_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/144.m3u8
 #https://drmlive.in/voot/web/144.m3u8
@@ -2175,7 +2189,8 @@ http://192.168.1.6:8080/live.php?id=1839&key=JITENDRAUNATTI&e=.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/Andpictures.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",COLORS CINEPLEX HD
-https://jio.drmlive.au/jio/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=colors-cineplex
+#https://jio.drmlive.au/jio/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/1477.m3u8
 #https://drmlive.in/voot/web/1477.m3u8
 #http://192.168.1.6:8080/live.php?id=1477&key=JITENDRAUNATTI&e=.m3u8
@@ -2446,7 +2461,8 @@ https://live.drmlive-02.workers.dev/zee/wion.m3u8
 https://vg-republictvlive.akamaized.net/out/v1/vglive-sk-366023/243a5fabe7fe4c8fadf2cb7bcc0a5baf/main.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11344-j9jpg7nc-v1/imageContent-11344-j9jpg7nc-m1.png",DD INDIA
-https://jio.drmlive.au/jio/bpk-tv/DD_India_MOB/Fallback/index.m3u8
+https://yupp.nayeem-parvez.workers.dev/tv.php?c=dd-india
+#https://jio.drmlive.au/jio/bpk-tv/DD_India_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/dd-india.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/ddindia/index.m3u8
 
