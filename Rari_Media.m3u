@@ -3072,6 +3072,27 @@ TEST - പരീക്ഷണം
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://mix.drmlive.au/mix/jc-144.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Sports18 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Test",Sports18 HD
+#https://live.drmlive-02.workers.dev/jc/122.m3u8
+#https://github.com/rahul979854/Channels/raw/main/Sports18Hd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://mix.drmlive.au/mix/jc-122.m3u8
+
+#EXTINF:-1 tvg-id="mtvbeatshd" tvg-name="MTV BEATS HD" tvg-logo="https://i.pinimg.com/originals/4b/78/ab/4b78ab7fb06511a598b3cabd4813d1d0.png" group-title="Test",MTV BEATS HD
+#https://starshare.live/live/bana/bana/153.m3u8
+#https://starshare.live/live/bana/bana/23792.m3u8
+#https://live.drmlive-02.workers.dev/jc/753.m3u8
+https://github.com/rahul979854/Channels/raw/main/MtvBeatsHd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://mix.drmlive.au/mix/jc-753.m3u8
+
+#EXTINF:-1 tvg-id="mtvhdplus" tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Test",MTV HD Plus
+#https://starshare.live/live/bana/bana/23791.m3u8
+#https://live.drmlive-02.workers.dev/jc/1145.m3u8
+https://github.com/rahul979854/Channels/raw/main/MTVHd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://mix.drmlive.au/mix/jc-1145.m3u8
+
 #EXTINF:-1 group-title="Test" tvg-logo="",Asianet News TEST 
 #https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
 
