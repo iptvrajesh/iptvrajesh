@@ -3065,6 +3065,13 @@ https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 TEST - പരീക്ഷണം 
 =========================================================================================================================================
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png" group-title="Test",Colors HD
+#https://live.drmlive-02.workers.dev/jc/144.m3u8
+#https://starshare.live/live/bana/bana/219.m3u8
+#https://github.com/rahul979854/Channels/raw/main/ColorHd.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://mix.drmlive.au/mix/jc-144.m3u8
+
 #EXTINF:-1 group-title="Test" tvg-logo="",Asianet News TEST 
 #https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
 
