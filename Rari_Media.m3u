@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 13/03/2025 📅
+#Last Update: 12/03/2025 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -1008,7 +1008,9 @@ https://la.drmlive.au/tp/sliv-ten5hd.m3u8
 https://qualifying-tr-incidence-race.trycloudflare.com//app/live.php?id=1772
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png",SPORTS 18 1 HD
-https://jio.drmlive.au/jio/bpk-tv/Sports18_1_HD_MOB/Fallback/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://mix.drmlive.au/mix/jc-122.m3u8
+#https://jio.drmlive.au/jio/bpk-tv/Sports18_1_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/122.m3u8
 #https://drmlive.in/voot/web/122.m3u8
 #https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600-433371119.m3u8
@@ -3092,6 +3094,10 @@ https://mix.drmlive.au/mix/jc-753.m3u8
 https://github.com/rahul979854/Channels/raw/main/MTVHd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://mix.drmlive.au/mix/jc-1145.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",BVTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://mix.drmlive.au/mix/jio-BVTV/BVTV_1200.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-logo="",Asianet News TEST 
 #https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
