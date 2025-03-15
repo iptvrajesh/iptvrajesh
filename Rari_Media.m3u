@@ -3098,12 +3098,16 @@ https://mix.drmlive.au/mix/playboxtv.m3u8?id=PBha-10548
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://jt.drmlive.au/jiotvplus/459.mpd
 
-#EXTINF:-1 group-title="Test" tvg-logo="",Surya TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Test" tvg-logo="",Surya TEST Denver
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/index.php?id=900&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://play.denver1769.fun/J/index.mpd?id=900
 
-#EXTINF:-1 group-title="Test" tvg-logo="",Asianet Movies TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Test" tvg-logo="",Asianet Movies TEST Denver
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/index.php?id=459&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://play.denver1769.fun/J/index.mpd?id=459
 
 #EXTINF:-1 group-title="Test" tvg-logo="",TV5 HD TEST
@@ -3126,5 +3130,11 @@ https://jt.drmlive.au/jiotvplus/2853.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/73/Star_Sports_Khel.png" group-title="Test",STAR SPORTS KHEL
 https://jt.drmlive.au/jiotvplus/1998.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/index.php?id=1984&key
+#EXTINF:-1 tvg-id="1984" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Test",Sports18 1 HD Test Denver
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/index.mpd?id=1984
 
 
