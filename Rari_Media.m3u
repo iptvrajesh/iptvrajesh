@@ -3077,6 +3077,10 @@ https://jt.drmlive.au/jiotvplus/1477.mpd
 #EXTINF:-1 group-title="Test" tvg-logo="",Colors Cineplex TEST 2
 https://jt.drmlive.au/jiotvplus/1477.mpd
 
+#EXTINF:-1 group-title="Test" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12323-jaa5pzxs-v1/imageContent-12323-jaa5pzxs-m1.png",JEEVAN TV TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://jt.drmlive.au/jiotvplus/842.mpd
+
 #EXTINF:-1 group-title="Test" tvg-logo="",Asianet Test 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://mix.drmlive.au/mix/star-12.mpd
@@ -3106,4 +3110,21 @@ https://play.denver1769.fun/J/index.mpd?id=459
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/Star_Sports_2_HD_Hindi.png",STAR SPORTS 2 HD HINDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://jt.drmlive.au/jiotvplus/1984.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/Star_Sports_2_HD_Hindi.png",STAR SPORTS 2 HINDI
+https://jt.drmlive.au/jiotvplus/1985.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Star_Sports_2_Telugu.png" group-title="Test",STAR SPORTS 2 TELUGU
+https://jt.drmlive.au/jiotvplus/2852.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/Star_Sports_2_Tamil.png" group-title="Test",STAR SPORTS 2 TAMIL
+https://jt.drmlive.au/jiotvplus/2853.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/73/Star_Sports_Khel.png" group-title="Test",STAR SPORTS KHEL
+https://jt.drmlive.au/jiotvplus/1998.mpd
+
 
