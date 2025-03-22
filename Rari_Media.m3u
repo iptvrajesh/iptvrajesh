@@ -604,6 +604,7 @@ https://play.denver1769.fun/J/index.mpd?id=1209
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/index.php?id=707&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://play.denver1769.fun/J/index.mpd?id=707
+#https://d3kdywbtdfbp9z.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/index.m3u8?aws.sessionId=88643d4a-2ca6-49ad-b54e-645e2b25ae7e
 #https://jio.drmlive.au/jio/bpk-tv/Raj_TV_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=707&key=JITENDRAUNATTI&e=.m3u8
 
@@ -921,6 +922,30 @@ http://applelive.in/thalapathytv/thalapathytv.m3u8
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1234424766834015397778281.png",S MAX UHD
 http://applelive.in/smaxtv/smaxtv.m3u8
 
+#EXTINF:-1  group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1437564760907591116562534.png",RASI TV
+http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1503465921584096719606043.png",RASI TAMIL
+http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240408_0942127817851833380019717.png",RASI COMEDY
+http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasiclassic.png",RASI CLASSIC
+http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/media.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasicinemax.png",RASI CINEMAX
+http://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac/media.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasiaction.png",RASI ACTION
+http://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac/media.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasicinema.png",RASI CINEMA
+http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="http://tnm3u.jw.lt/icon/tamil/local/rasilifestyle.png",RASI LIFESTYLE
+http://rasinetworks.in:1935/rasilifestyle/lifestyle.stream_aac/media.m3u8
+
 ===========================================================================================================================================
 HINDI - हिंदी
 ===========================================================================================================================================
@@ -1089,6 +1114,7 @@ https://cdn-7.pishow.tv/live/1161/master.m3u8
 #http://192.168.1.6:8080/live.php?id=204&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png",DD SPORTS HD
+https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=1063
 #http://172.105.123.238:18002/play/a03d
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1 HD
@@ -1105,7 +1131,8 @@ https://allinonereborn.com/tatatv.php?id=12149
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/index.php?id=1984&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/index.mpd?id=1984
+https://jt.drmlive.au/jiotvplus/1984.mpd
+#https://play.denver1769.fun/J/index.mpd?id=1984
 #https://mix.drmlive.au/mix/jc-122.m3u8
 #https://jio.drmlive.au/jio/bpk-tv/Sports18_1_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/122.m3u8
@@ -1115,7 +1142,8 @@ https://play.denver1769.fun/J/index.mpd?id=1984
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/index.php?id=1985&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/index.mpd?id=1985
+https://jt.drmlive.au/jiotvplus/1985.mpd
+#https://play.denver1769.fun/J/index.mpd?id=1985
 https://jio.drmlive.au/jio/bpk-tv/Sports18_1_SD_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=1985&key=JITENDRAUNATTI&e=.m3u8
 
@@ -2377,7 +2405,8 @@ https://jio.drmlive.au/jio/bpk-tv/VH1_HD_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=1320&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="",M TUNES+
-https://cdn-2.pishow.tv/live/237/237_1.m3u8
+https://cdn-2.pishow.tv/live/237/master.m3u8
+https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-237
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -2410,6 +2439,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w636544618.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="Music",iLOVE
 https://cdn-2.pishow.tv/live/238/master.m3u8
+#https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-238
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pop_Pataka.png" group-title="Music",POP PATAKA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
