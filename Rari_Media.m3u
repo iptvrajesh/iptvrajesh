@@ -1601,15 +1601,17 @@ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",EVENT TV
 https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png",WILLOW 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png",WILLOW 1 HD
 https://hocdn.news/live/willowusa.m3u8
 
-#EXTINF:-1 tvg-logo="https://usmasters.ttensports.com/wp-content/uploads/2023/08/willow-xtra.png" group-title="Sports",WILLOW 2
+#EXTINF:-1 tvg-logo="https://usmasters.ttensports.com/wp-content/uploads/2023/08/willow-xtra.png" group-title="Sports",WILLOW 2 HD
 https://d1bz14289ojrvl.cloudfront.net/out/v1/828288b4f25c407189eb6104893fad9e/index.m3u8
 #https://hocdn.news/live/willowextra.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",WILLOW SPORTS
-https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",WILLOW SPORTS HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest?cb=20180916123020" group-title="Sports",FOX CRICKET 501
 #https://m118753.protect-cdn.net/live/m1-index.m3u8
@@ -2954,6 +2956,9 @@ https://jt.drmlive.au/jiotvplus/1477.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="",Colors Cineplex TEST 2
 https://jt.drmlive.au/jiotvplus/1477.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Willow Sports Test
+https://mix.drmlive.au/mix/sportswillows.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12323-jaa5pzxs-v1/imageContent-12323-jaa5pzxs-m1.png",JEEVAN TV TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
