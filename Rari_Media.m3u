@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 18/03/2025 📅
+#Last Update: 26/03/2025 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -321,7 +321,8 @@ https://play.denver1769.fun/J/Jtv.mpd?id=910
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=3184&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv.mpd?id=3184
+#https://play.denver1769.fun/J/Jtv.mpd?id=3184
+https://cdn-3.pishow.tv/live/1629/master.m3u8
 #https://jt.drmlive.au/jiotvplus/3184.mpd
 #https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-1629
 #https://jio.drmlive.au/jio/bpk-tv/News_Malayalam_MOB/Fallback/index.m3u8
@@ -1183,34 +1184,34 @@ https://streamline.sturls.com/StarSportsSelect02/index.m3u8?token=d3289064cead00
 #https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png",SONY SPORTS TEN 1 HD
-#https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
-https://la.drmlive.au/tp/sliv-ten1hd.m3u8
+https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
+#https://la.drmlive.au/tp/sliv-ten1hd.m3u8
 #https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png",SONY SPORTS TEN 2 HD
-#https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
-https://la.drmlive.au/tp/sliv-ten2hd.m3u8
+https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
+#https://la.drmlive.au/tp/sliv-ten2hd.m3u8
 #https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png",SONY SPORTS TEN 3 HD
-#https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
-https://la.drmlive.au/tp/sliv-ten3hd.m3u8
+https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
+#https://la.drmlive.au/tp/sliv-ten3hd.m3u8
 #https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",SONY SPORTS TEN 4 HD
-#https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
-https://la.drmlive.au/tp/sliv-ten4hd.m3u8
-https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
+https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
+#https://la.drmlive.au/tp/sliv-ten4hd.m3u8
+#https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png",SONY SPORTS TEN 5 HD
-#https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
-https://la.drmlive.au/tp/sliv-ten5hd.m3u8
+https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
+#https://la.drmlive.au/tp/sliv-ten5hd.m3u8
 #https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
@@ -2696,6 +2697,9 @@ https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_inde
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cartoon_classics_512X512_balck.png" group-title="Kids",CARTOON TV CLASSICS
 https://yupp.nayeem-parvez.workers.dev/tv.php?c=cartoon-tv-classics
 #https://live.drmlive-02.workers.dev/yupptv/fta/cartoon-tv-classics.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="Kids",JUNGLE BOOK
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
 ==============================================================================================================================================
 KNOWLEDGE - അറിവ് 
