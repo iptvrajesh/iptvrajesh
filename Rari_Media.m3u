@@ -1119,20 +1119,21 @@ https://vm.cricfy.xyz/pishowtv-cricfy/vstream.m3u8?id=1063
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1 HD
 http://supersonictv.live:8080/live/STPETE727/DABURG727/85564.m3u8
+#http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/1369.m3u8
+#https://tvs2.aynaott.com/ssport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=1ea3afa18dae7b386b62586805da96c4087038ff-ea32608db269040b88ffce9a76f3dc57-1743407062-1743406162
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",STAR SPORTS 2 HD
-http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/1066.ts
+http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/1370.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",STAR SPORTS 1 HD HINDI
-https://allinonereborn.com/tatatv.php?id=12149
-#https://criccoder.pages.dev/ssh.m3u8
+http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/1371.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/Star_Sports_2_HD_Hindi.png",STAR SPORTS 2 HD HINDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1984&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://jt.drmlive.au/jiotvplus/1984.mpd
-#https://play.denver1769.fun/J/Jtv.mpd?id=1984
+https://play.denver1769.fun/J/Jtv.mpd?id=1984
 #https://mix.drmlive.au/mix/jc-122.m3u8
 #https://jio.drmlive.au/jio/bpk-tv/Sports18_1_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/122.m3u8
@@ -1142,8 +1143,7 @@ https://jt.drmlive.au/jiotvplus/1984.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1985&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://jt.drmlive.au/jiotvplus/1985.mpd
-#https://play.denver1769.fun/J/Jtv.mpd?id=1985
+https://play.denver1769.fun/J/Jtv.mpd?id=1985
 https://jio.drmlive.au/jio/bpk-tv/Sports18_1_SD_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=1985&key=JITENDRAUNATTI&e=.m3u8
 
@@ -1597,7 +1597,8 @@ https://live3.shoq.com.pk/live/eds/Geo_Super/DASH/Geo_Super.mpd
 #http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="Sports",TEN SPORTS PK
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/1372.m3u8
+#http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",EVENT TV
 https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
@@ -1982,14 +1983,13 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #https://jio.drmlive.au/jio/Romedy_Now/Romedy_Now_600.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/8kWnyqn.png",STAR MOVIES HD
-http://tv.cloudcdn.me/live.ts?channelId=198&uid=2496&deviceMac=00:1A:79:A8:9C:32
-#https://raw.githubusercontent.com/kusnadipepenk/ntn/master/strmvi.m3u8
-#http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41
+http://supersonictv.live:8080/live/STPETE727/DABURG727/85549.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Dpu3pd2.png",STAR MOVIES SELECT HD
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR GOLD HD
+http://supersonictv.live:8080/live/STPETE727/DABURG727/85561.m3u8
 #https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f530fe0772265fedfbc2/images/89.webp" group-title="Movies",STAR GOLD 2
@@ -1998,9 +1998,7 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
 #https://livea.streamready.in/stargold2/smil:common.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1db033abf53d08e7429/images/167.webp" group-title="Movies",STAR GOLD SELECT HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/Atv.php?id=37
-#https://livea.streamready.in/stargoldselecthd/smil:common.smil/manifest.mpd
+http://supersonictv.live:8080/live/STPETE727/DABURG727/85545.m3u8
 
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/%26flix_2018_3D.png" group-title="Movies",&FLIX HD 
 https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
