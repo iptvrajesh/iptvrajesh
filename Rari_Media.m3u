@@ -1163,6 +1163,9 @@ https://play.denver1769.fun/J/Jtv.mpd?id=2853
 #https://jio.drmlive.au/jio/bpk-tv/Sports18_3_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=2853&key=JITENDRAUNATTI&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" group-title="Sports",STAR SPORTS 3
+http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/502.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/73/Star_Sports_Khel.png" group-title="Sports",STAR SPORTS KHEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1998&key
