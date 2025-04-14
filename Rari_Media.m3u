@@ -1595,14 +1595,10 @@ https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_ENG_IDC_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://aimages.willow.tv/willowhd_h40px.png",WILLOW 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=491624049c3c8d870102edd5950f38bd:5b91b2fae92f4f72f0c3b9a3e91822c4
-https://abgqjfuaaaaaaaamcswtescdjn66h.0eee773031d3434d8c65ff46ac9a6070.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wgjpslfpzn/out/v1/e34c66966c61474e81f2a99fc80e876b/cenc.mpd
+https://github.com/rahul979854/Channels/raw/main/WillowCricketHd.m3u8
 
 #EXTINF:-1 tvg-logo="https://usmasters.ttensports.com/wp-content/uploads/2023/08/willow-xtra.png" group-title="Sports",WILLOW 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2621df523d47739fdf58ef0ce68f4c27:98139d5b94e8228bb1bc7e3074013a72
-https://abgqjfuaaaaaaaamcswtescdjn66h.0eee773031d3434d8c65ff46ac9a6070.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wn4ivz5ch0/out/v1/ecce90775f6c427b8e7f98eef4157e04/cenc.mpd
+https://github.com/rahul979854/Channels/raw/main/Willow2Hd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports",WILLOW SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
