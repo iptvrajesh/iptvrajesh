@@ -2956,7 +2956,7 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10548
 
 #EXTINF:-1 group-title="Test" tvg-logo="",Surya TV Test
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive-01.workers.dev?id=900
+#KODIPROP:inputstream.adaptive.license_key=https://jt.drmlive.net/jiotvplus?id=900
 https://jt.drmlive.net/jiotvplus/900.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png",ASIANET MOVIES TEST
