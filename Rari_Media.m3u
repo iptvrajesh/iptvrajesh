@@ -2976,6 +2976,17 @@ https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 TEST - പരീക്ഷണം 
 =========================================================================================================================================
 
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Asianet_logo.png",NEW TEST 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=41807&key
+https://play.denver1769.fun/J/Jtv.mpd?id=41807
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Asianet_logo.png",NEW TEST 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=41808&key
+https://play.denver1769.fun/J/Jtv.mpd?id=41808
+
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/326a45d9-0c16-4f5e-b2ed-a45cb141a321/1.m3u8
 
 M+
