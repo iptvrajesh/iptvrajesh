@@ -205,6 +205,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/playlist.m3u
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=465&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 #https://play.denver1769.fun/J/Jtv.mpd?id=465
+#https://in1.sunilprasad.com.np/yuppLive/jaihind-tv/master.m3u8
 #https://jt.drmlive.au/jiotvplus/465.mpd
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=jaihind-tv
 #https://jio.drmlive.au/jio/bpk-tv/Jaihind_tv_MOB/Fallback/index.m3u8
@@ -1114,72 +1115,91 @@ https://cdn-7.pishow.tv/live/1161/master.m3u8
 #http://192.168.1.6:8080/live.php?id=204&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1 HD
-http://supersonictv.live:8080/live/STPETE727/DABURG727/85564.m3u8
-#http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/1369.m3u8
-#https://tvs2.aynaott.com/ssport1hd/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=1ea3afa18dae7b386b62586805da96c4087038ff-ea32608db269040b88ffce9a76f3dc57-1743407062-1743406162
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=4470&key
+https://play.denver1769.fun/J/Jtv.mpd?id=4470
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1142&key
+https://play.denver1769.fun/J/Jtv.mpd?id=1142
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",STAR SPORTS 2 HD
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/1370.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=4456&key
+https://play.denver1769.fun/J/Jtv.mpd?id=4456
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",STAR SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1141&key
+https://play.denver1769.fun/J/Jtv.mpd?id=1141
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",STAR SPORTS 1 HD HINDI
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/1371.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=174&key
+https://play.denver1769.fun/J/Jtv.mpd?id=174
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/Star_Sports_2_HD_Hindi.png",STAR SPORTS 2 HD HINDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1984&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1984&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1984
-#https://mix.drmlive.au/mix/jc-122.m3u8
-#https://jio.drmlive.au/jio/bpk-tv/Sports18_1_HD_MOB/Fallback/index.m3u8
-#https://live.drmlive-02.workers.dev/jc/122.m3u8
-#https://drmlive.in/voot/web/122.m3u8
+https://play.denver1769.fun/J/Jtv.mpd?id=1984
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9d/Star_Sports_2_HD_Hindi.png",STAR SPORTS 2 HINDI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1985&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1985&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1985
-https://jio.drmlive.au/jio/bpk-tv/Sports18_1_SD_MOB/Fallback/index.m3u8
-#http://192.168.1.6:8080/live.php?id=1985&key=JITENDRAUNATTI&e=.m3u8
+https://play.denver1769.fun/J/Jtv.mpd?id=1985
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b8/Star_Sports_2_Telugu.png" group-title="Sports",STAR SPORTS 2 TELUGU
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_Sports_1_Tamil_HD.png" group-title="Sports",STAR SPORTS 1 TAMIL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=2852&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=4468&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=2852
-#https://jio.drmlive.au/jio/bpk-tv/Sports18_2_MOB/Fallback/index.m3u8
-#http://192.168.1.6:8080/live.php?id=2852&key=JITENDRAUNATTI&e=.m3u8
+https://play.denver1769.fun/J/Jtv.mpd?id=4468
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/28/Star_Sports_1_Tamil.png" group-title="Sports",STAR SPORTS 1 TAMIL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1124&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1124
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/Star_Sports_2_Tamil_HD.png" group-title="Sports",STAR SPORTS 2 TAMIL HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=4473&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=4473
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/Star_Sports_2_Tamil.png" group-title="Sports",STAR SPORTS 2 TAMIL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=2853&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=2853&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=2853
-#https://jio.drmlive.au/jio/bpk-tv/Sports18_3_MOB/Fallback/index.m3u8
-#http://192.168.1.6:8080/live.php?id=2853&key=JITENDRAUNATTI&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg" group-title="Sports",STAR SPORTS 3
-http://link.luckonline.eu/live/bnf3aKTmLWEG/K86vSxB9quGd/502.m3u8
+https://play.denver1769.fun/J/Jtv.mpd?id=2853
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/73/Star_Sports_Khel.png" group-title="Sports",STAR SPORTS KHEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1998&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1998&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1998
-#https://jio.drmlive.au/jio/bpk-tv/Sports18_Khel_MOB/Fallback/index.m3u8
-#https://live.drmlive-02.workers.dev/jc/1998.m3u8
-#https://drmlive.in/voot/web/1998.m3u8
-#http://192.168.1.6:8080/live.php?id=1998&key=JITENDRAUNATTI&e=.m3u8
+https://play.denver1769.fun/J/Jtv.mpd?id=1998
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",STAR SPORTS SELECT 1 HD
-https://streamline.sturls.com/StarSportsSelect01/index.m3u8?token=b8239c7ba841f8e22ecbd841e590a80fcc0f3562-07ac79d1c9df3ca897aa4aa776fb5269-1737017150-1737006350
-#https://allinonereborn.com/tatatv.php?id=12151
-#https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=300&key
+https://play.denver1769.fun/J/Jtv.mpd?id=300
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",STAR SPORTS SELECT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1123&key
+https://play.denver1769.fun/J/Jtv.mpd?id=1123
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",STAR SPORTS SELECT 2 HD
-https://streamline.sturls.com/StarSportsSelect02/index.m3u8?token=d3289064cead00a9788ef26ffd6273bf4615740b-b494199330ecd8e9b501d0a72578e2f0-1737017185-1737006385
-#https://allinonereborn.com/tatatv.php?id=12152
-#https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=301&key
+https://play.denver1769.fun/J/Jtv.mpd?id=301
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",STAR SPORTS SELECT 2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1114&key
+https://play.denver1769.fun/J/Jtv.mpd?id=1114
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png",SONY SPORTS TEN 1 HD
 https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
@@ -1216,34 +1236,27 @@ https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten1_HD_Malayalam.png" group-title="Sports",SONY TEN 4 HD MALAYALAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=2960&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=2960&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=2960
+https://play.denver1769.fun/J/Jtv.mpd?id=2960
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",SONY TEN 4 HD TAMIL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1772&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1772&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1772
+https://play.denver1769.fun/J/Jtv.mpd?id=1772
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",EUROSPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1294&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1294&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1294
-#https://jio.drmlive.au/jio/bpk-tv/Dsports_MOB/Fallback/index.m3u8
-#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/77e0cb38-3601-4c47-b91f-e404e3f02a98/3.m3u8
-#http://192.168.1.6:8080/live.php?id=1294&key=JITENDRAUNATTI&e=.m3u8
+https://play.denver1769.fun/J/Jtv.mpd?id=1294
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",EUROSPORT HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=875&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=875&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=875
-#https://jio.drmlive.au/jio/bpk-tv/Dsports_HD_MOB/Fallback/index.m3u8
-#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/cfeace4c-d8b0-461a-8a48-e21a72d3598f/3.m3u8
-#https://allinonereborn.com/tatatv.php?id=12143
-#http://192.168.1.6:8080/live.php?id=875&key=JITENDRAUNATTI&e=.m3u8
+https://play.denver1769.fun/J/Jtv.mpd?id=875
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" group-title="Sports",FANCODE LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1273,11 +1286,9 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports",JIO SPORTS HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=889&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=889&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://jt.drmlive.au/jiotvplus/889.mpd
-https://play.denver1769.fun/J/Jtv2.mpd?id=889
-#https://jio.drmlive.au/jio/bpk-tv/Jio_Sports_MOB/Fallback/index.m3u8
+https://play.denver1769.fun/J/Jtv.mpd?id=889
 
 #EXTINF:-1 tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs.png" group-title="Sports",FIFA+
 https://is.gd/7PhGkV?5e20b730f2f8d5003d739db7-66628d4a8dfc36b8c8a399c4.m3u8
@@ -1786,16 +1797,16 @@ https://edge3-moblive.yuppcdn.net/transhd2/smil:siytv08.smil/playlist.m3u8?dvr
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lancs_TV_HD.png" group-title="Sports",LANCS TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=3011&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=3011&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=3011
-https://jio.drmlive.au/jio/bpk-tv/Lancs_TV_HD_MOB/Fallback/index.m3u8
+https://play.denver1769.fun/J/Jtv.mpd?id=3011
+#https://jio.drmlive.au/jio/bpk-tv/Lancs_TV_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Sports",MI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1529&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1529&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1529
+https://play.denver1769.fun/J/Jtv.mpd?id=1529
 https://jio.drmlive.au/jio/bpk-tv/MI_TV_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/NBC_Sports_2023.svg" group-title="Sports",NBC SPORTS
@@ -1908,49 +1919,42 @@ http://192.168.1.6:8080/live.php?id=1839&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",COLORS CINEPLEX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1477&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1477&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1477
-#https://yupp.nayeem-parvez.workers.dev/tv.php?c=colors-cineplex
+https://play.denver1769.fun/J/Jtv.mpd?id=1477
 #https://jio.drmlive.au/jio/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
-#https://live.drmlive-02.workers.dev/jc/1477.m3u8
-#https://drmlive.in/voot/web/1477.m3u8
 #http://192.168.1.6:8080/live.php?id=1477&key=JITENDRAUNATTI&e=.m3u8
-#https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png",COLORS CINEPLEX BOLLYWOOD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1763&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1763&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1763
+https://play.denver1769.fun/J/Jtv.mpd?id=1763
 #https://jio.drmlive.au/jio/bpk-tv/Colors_Cineplex_Bollywood_MOB/Fallback/index.m3u8
-#https://live.drmlive-02.workers.dev/jc/1763.m3u8
-#https://drmlive.in/voot/web/1763.m3u8
 #http://192.168.1.6:8080/live.php?id=1763&key=JITENDRAUNATTI&e=.m3u8
-#https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Colors_Cineplex_Superhits.png/revision/latest?cb=20220331190136",COLORS CINEPLEX SUPERHITS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1450&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1450&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1450
+https://play.denver1769.fun/J/Jtv.mpd?id=1450
 #https://jio.drmlive.au/jio/bpk-tv/Rishtey_Cineplex_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18-j5f9ui8g-v1/imageContent-18-j5f9ui8g-m1.png",B4U MOVIES
 https://mix.drmlive.net/mix/xiaomi-66224.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=182&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=182&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-#https://play.denver1769.fun/J/Jtv2.mpd?id=182
+#https://play.denver1769.fun/J/Jtv.mpd?id=182
 #https://jio.drmlive.au/jio/bpk-tv/B4U_Movies_MOB/Fallback/index.m3u8
 #https://cdn-2.pishow.tv/live/419/master.m3u8
 #http://192.168.1.6:8080/live.php?id=182&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43104-jxzls8yw-v2/imageContent-43104-jxzls8yw-m2.png",B4U KADAK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1295&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1295&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-#https://play.denver1769.fun/J/Jtv2.mpd?id=1295
+#https://play.denver1769.fun/J/Jtv.mpd?id=1295
 #https://jio.drmlive.au/jio/bpk-tv/B4U_Kadak_MOB/Fallback/index.m3u8
 #https://cdn-2.pishow.tv/live/227/master.m3u8
 https://mix.drmlive.net/mix/xiaomi-66226.m3u8
@@ -1995,22 +1999,78 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1104&key 
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
 https://play.denver1769.fun/J/Jtv.mpd?id=1104
-#http://supersonictv.live:8080/live/STPETE727/DABURG727/85549.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/8kWnyqn.png",STAR MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1115&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1115
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Dpu3pd2.png",STAR MOVIES SELECT HD
-https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1110&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1110
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/Dpu3pd2.png",STAR MOVIES SELECT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=4302&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=4302
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png",STAR GOLD HD
-http://supersonictv.live:8080/live/STPETE727/DABURG727/85561.m3u8
-#https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f530fe0772265fedfbc2/images/89.webp" group-title="Movies",STAR GOLD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://denverisalive.in/TP/Atv.php?id=28
-#https://livea.streamready.in/stargold2/smil:common.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=156&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=156
 
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/6572f1db033abf53d08e7429/images/167.webp" group-title="Movies",STAR GOLD SELECT HD
-http://supersonictv.live:8080/live/STPETE727/DABURG727/85545.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Star_Gold_2020.svg",STAR GOLD 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1125&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1125
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/Star_Gold_2_HD_2020.svg" group-title="Movies",STAR GOLD HD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1155&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1155
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Star_Gold_2_2020.svg" group-title="Movies",STAR GOLD 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1154&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1154
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg" group-title="Movies",STAR GOLD SELECT HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1113&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1113
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Star_Gold_Select.svg" group-title="Movies",STAR GOLD SELECT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1119&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1119
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Star_Gold_Romance.svg" group-title="Movies",STAR GOLD ROMANCE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1152&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1152
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Star_Gold_Thrills.svg" group-title="Movies",STAR GOLD THRILLS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1153&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1153
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg" group-title="Movies",STAR UTSAV MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1136&key 
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1136
 
 #EXTINF:1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/%26flix_2018_3D.png" group-title="Movies",&FLIX HD 
 https://live.drmlive-02.workers.dev/zee/channel_2105335046.m3u8
@@ -2153,9 +2213,9 @@ News - വാർത്ത
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34886-jqc7dybs-v2/imageContent-34886-jqc7dybs-m2.png",DD NEWS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=203&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=203&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=203
+https://play.denver1769.fun/J/Jtv.mpd?id=203
 https://jio.drmlive.au/jio/bpk-tv/DD_News_MOB/Fallback/index.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/ddnews/index.m3u8
 
@@ -2178,7 +2238,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG",R BHARAT
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=republic-bharat
 https://live.drmlive-02.workers.dev/yupptv/fta/republic-bharat.m3u8
-https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
+#https://webliverb.republicworld.com/httppush/ottrb_republic_hindi/chunklist_4.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-834-j5m9nrrs-v1/imageContent-834-j5m9nrrs-m1.png",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
@@ -2283,9 +2343,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/Zeebusiness.m3u
 
 #EXTINF:-1 group-title="Business" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png",CNBC AWAAZ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=190&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=190&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=190
+https://play.denver1769.fun/J/Jtv.mpd?id=190
 #https://jio.drmlive.au/jio/bpk-tv/CNBC_Awaaz_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/190.m3u8
 #https://drmlive.in/voot/web/190.m3u8
@@ -2293,18 +2353,18 @@ https://play.denver1769.fun/J/Jtv2.mpd?id=190
 
 #EXTINF:-1 group-title="Business" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png",CNBC BAZAAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=490&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=490&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=490
+https://play.denver1769.fun/J/Jtv.mpd?id=490
 #https://jio.drmlive.au/jio/bpk-tv/CNBC_Bazaar_MNO_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/490.m3u8
 #https://drmlive.in/voot/web/490.m3u8
 
 #EXTINF:-1 group-title="Business" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-731-j5l3muhs-v1/imageContent-731-j5l3muhs-m1.png",CNBC TV18
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=489&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=489&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=489
+https://play.denver1769.fun/J/Jtv.mpd?id=489
 #https://jio.drmlive.au/jio/bpk-tv/CNBC_Tv_18_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/489.m3u8
 #https://drmlive.in/voot/web/489.m3u8
@@ -2312,9 +2372,9 @@ https://play.denver1769.fun/J/Jtv2.mpd?id=489
 
 #EXTINF:-1 group-title="Business" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png",CNBC TV18 PRIME HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=143&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=143&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=143
+https://play.denver1769.fun/J/Jtv.mpd?id=143
 https://jio.drmlive.au/jio/bpk-tv/CNBC_Tv18_Prime_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Business" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-294-j5ji8n08-v1/imageContent-294-j5ji8n08-m1.png",NDTV PROFIT PRIME
@@ -2345,9 +2405,9 @@ MUSIC - സംഗീതം
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png",MTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1145&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1145&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1145
+https://play.denver1769.fun/J/Jtv.mpd?id=1145
 #https://jio.drmlive.au/jio/bpk-tv/MTV_HD_Plus_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/1145.m3u8
 #https://drmlive.in/voot/web/1145.m3u8
@@ -2355,9 +2415,9 @@ https://play.denver1769.fun/J/Jtv2.mpd?id=1145
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png",MTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=248&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=248&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=248
+https://play.denver1769.fun/J/Jtv.mpd?id=248
 https://jio.drmlive.au/jio/bpk-tv/MTV_MOB/Fallback/index.m3u8
 #https://webott.viatv.com.np/v0t1/MTV.stream/playlist.m3u8
 
@@ -2374,9 +2434,9 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png",MTV BEATS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=753&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=753&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=753
+https://play.denver1769.fun/J/Jtv.mpd?id=753
 https://jio.drmlive.au/jio/bpk-tv/MTV_Beats_HD_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/753.m3u8
 #https://drmlive.in/voot/web/753.m3u8
@@ -2384,9 +2444,9 @@ https://jio.drmlive.au/jio/bpk-tv/MTV_Beats_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png",MTV BEATS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1400&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1400&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1400
+https://play.denver1769.fun/J/Jtv.mpd?id=1400
 https://jio.drmlive.au/jio/bpk-tv/MTV_Beats_SD_MOB/Fallback/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats2/default/Mtvbeats2.m3u8
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVBeats/JCHLS/index.m3u8
@@ -2396,9 +2456,9 @@ https://i.mjh.nz/.r/10-mtvlife.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png",B4U MUSIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=183&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=183&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-#https://play.denver1769.fun/J/Jtv2.mpd?id=183
+#https://play.denver1769.fun/J/Jtv.mpd?id=183
 #https://jio.drmlive.au/jio/bpk-tv/B4U_Music_MOB/Fallback/index.m3u8
 #https://cdn-2.pishow.tv/live/415/master.m3u8
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10545
@@ -2415,9 +2475,9 @@ https://live.drmlive-02.workers.dev/zee/zing.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12030-j9nyctjk-v3/imageContent-12030-j9nyctjk-m5.png",VH1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1320&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1320&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1320
+https://play.denver1769.fun/J/Jtv.mpd?id=1320
 https://jio.drmlive.au/jio/bpk-tv/VH1_HD_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=1320&key=JITENDRAUNATTI&e=.m3u8
 
@@ -2467,17 +2527,17 @@ https://jio.drmlive.au/jio/bpk-tv/Pop_Pataka_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png" group-title="Music",DIL SE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=2036&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=2036&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=2036
+https://play.denver1769.fun/J/Jtv.mpd?id=2036
 https://jio.drmlive.au/jio/bpk-tv/Dil_Se_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=2036&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Music.png" group-title="Music",SAREGAMA MUSIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=2065&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=2065&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=2065
+https://play.denver1769.fun/J/Jtv.mpd?id=2065
 https://jio.drmlive.au/jio/bpk-tv/Saregama_Music_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=2065&key=JITENDRAUNATTI&e=.m3u8
 
@@ -2535,40 +2595,50 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_ott.mpd
 KIDS CARTOON - കാർട്ടൂൺ 
 ======================================================================================================================================
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Hungama_TV_Logo.svg",HUNGAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1391&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1391
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",SUPER HUNGAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1392&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1392
 
-#EXTINF: tvg-logo="" group-title="Kids" , WOW KIDS TAMIL
-https://yupp.nayeem-parvez.workers.dev/tv.php?c=wow-kidz-tamil
+#EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",DISNEY CHANNEL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1373&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1373
 
-#EXTINF: tvg-logo="" group-title="Kids" , BABYFIRST
-https://yupp.nayeem-parvez.workers.dev/tv.php?c=babyfirst
+#EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",DISNEY JUNIOR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1374&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1374
 
-#EXTINF: tvg-logo="" group-title="Kids", KIDDO
-https://yupp.nayeem-parvez.workers.dev/tv.php?c=kiddo
-
-#EXTINF: tvg-logo="" group-title="Kids", BEANI KIDS
-https://yupp.nayeem-parvez.workers.dev/tv.php?c=beani-kids-tv
-
-#EXTINF: tvg-logo="" group-title="Kids", MR BEAN UK
-https://mix.drmlive.net/mix/xiaomi-66200.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",DISNEY
-https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/7OhuB-Xwo2B5piMsY_YIi0rZgpsj4t4bzS8Cb-ReLwU9QkoiPBBrPi4Hvy-Caqbut-n3MSMd1f1Kw50liCphkg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tm_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_International_HD_logo.png",DISNEY HD INTERNATIONAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1375&key
+#EXTVLCOPT:http-user-agent=Shraddha/5.0
+https://play.denver1769.fun/J/Jtv.mpd?id=1375
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-v1/imageContent-465-j5jw9va0-m1.png",NICK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1227&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1227&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1227
+https://play.denver1769.fun/J/Jtv.mpd?id=1227
 https://jio.drmlive.au/jio/bpk-tv/Nick_Hindi_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/1227.m3u8
 #https://drmlive.in/voot/web/1227.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png",NICK HD+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1226&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1226&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1226
+https://play.denver1769.fun/J/Jtv.mpd?id=1226
 https://jio.drmlive.au/jio/bpk-tv/Nick_HD_Plus_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/1226.m3u8
 #https://drmlive.in/voot/web/1226.m3u8
@@ -2576,9 +2646,9 @@ https://jio.drmlive.au/jio/bpk-tv/Nick_HD_Plus_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",CARTOON NETWORK HD+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1079&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1079&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1079
+https://play.denver1769.fun/J/Jtv.mpd?id=1079
 https://jio.drmlive.au/jio/bpk-tv/CN_HD_English_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="httpss://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png" group-title="Kids",ASTRO CARTOON NETWORK HD     
@@ -2588,34 +2658,34 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=816&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=816&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=816
+https://play.denver1769.fun/J/Jtv.mpd?id=816
 https://jio.drmlive.au/jio/bpk-tv/Cartoon_Network_Hindi_MOB/Fallback/index.m3u8
 #https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",POGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=559&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=559&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=559
+https://play.denver1769.fun/J/Jtv.mpd?id=559
 https://jio.drmlive.au/jio/bpk-tv/Pogo_Hindi_MOB/Fallback/index.m3u8
 #https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24724-jgvwokqw-v1/imageContent-24724-jgvwokqw-m1.png",DISCOVERY KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=554&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=554&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=554
+https://play.denver1769.fun/J/Jtv.mpd?id=554
 https://jio.drmlive.au/jio/bpk-tv/Discovery_Kids_2_MOB/Fallback/index.m3u8
 #https://neeplay.tv/delta/discovery/api/Discovery_Kids.m3u8
 #https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png",NICKELODEON SONIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=815&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=815&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=815
+https://play.denver1769.fun/J/Jtv.mpd?id=815
 https://jio.drmlive.au/jio/bpk-tv/sonic_Hindi_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/815.m3u8
 #https://drmlive.in/voot/web/815.m3u8
@@ -2645,16 +2715,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png",NICK JR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=544&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=544&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=544
+https://play.denver1769.fun/J/Jtv.mpd?id=544
 https://jio.drmlive.au/jio/bpk-tv/Nick_Junior_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/544.m3u8
 #https://drmlive.in/voot/web/544.m3u8
-#https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_NickJr/JCHLS/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35368-jr3xz7xs-v1/imageContent-35368-jr3xz7xs-m1.png",DISNEY JUNIOR
-#https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png" group-title="Kids",ASTRO MOONBUG KIDS 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -2674,16 +2740,16 @@ https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Kids",NICK MALAYALAM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1340&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1340&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1340
+https://play.denver1769.fun/J/Jtv.mpd?id=1340
 https://jio.drmlive.au/jio/bpk-tv/Nick_Mal_MOB/Fallback/index.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Kids",SONIC MALAYALAM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1344&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1344&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1344
+https://play.denver1769.fun/J/Jtv.mpd?id=1344
 https://jio.drmlive.au/jio/bpk-tv/Sonic_Malayalam_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900026FJ_20220427T054717SQUARE.png_20220427054718.png" group-title="Kids",TOON GOGGLES
@@ -2720,6 +2786,21 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="" group-title="Kids",KIDS TV
 https://mix.drmlive.net/mix/distro-3449.m3u8
 
+#EXTINF: tvg-logo="" group-title="Kids" , WOW KIDS TAMIL
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=wow-kidz-tamil
+
+#EXTINF: tvg-logo="" group-title="Kids" , BABYFIRST
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=babyfirst
+
+#EXTINF: tvg-logo="" group-title="Kids", KIDDO
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=kiddo
+
+#EXTINF: tvg-logo="" group-title="Kids", BEANI KIDS
+#https://yupp.nayeem-parvez.workers.dev/tv.php?c=beani-kids-tv
+
+#EXTINF: tvg-logo="" group-title="Kids", MR BEAN UK
+https://mix.drmlive.net/mix/xiaomi-66200.m3u8
+
 ==============================================================================================================================================
 KNOWLEDGE - അറിവ് 
 ==============================================================================================================================================
@@ -2736,9 +2817,9 @@ https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png",DISCOVERY HD WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=463&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=463&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=463
+https://play.denver1769.fun/J/Jtv.mpd?id=463
 https://jio.drmlive.au/jio/bpk-tv/Discovery_HD_World_MOB/Fallback/index.m3u8
 #https://neeplay.tv/delta/discovery/api/Discovery_Channel.m3u8
 
@@ -2759,9 +2840,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png",ANIMAL PLANET HD WORLD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=286&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=286&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=286
+https://play.denver1769.fun/J/Jtv.mpd?id=286
 https://jio.drmlive.au/jio/bpk-tv/Animal_Planet_HD_MOB/Fallback/index.m3u8
 #https://neeplay.tv/delta/discovery/api/Animal_Planet.m3u8
 
@@ -2772,9 +2853,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-369-j5jo9i3s-v1/imageContent-369-j5jo9i3s-m1.png",DISCOVERY SCIENCE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=568&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=568&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=568
+https://play.denver1769.fun/J/Jtv.mpd?id=568
 https://jio.drmlive.au/jio/bpk-tv/Discovery_Science_MOB/Fallback/index.m3u8
 #https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscSci.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/Discoveryscience2.m3u8
@@ -2803,9 +2884,9 @@ http://xlpore-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8017-j7a4nf20-v1/imageContent-8017-j7a4nf20-m1.png",EPIC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=481&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=481&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=481
+https://play.denver1769.fun/J/Jtv.mpd?id=481
 https://jio.drmlive.au/jio/bpk-tv/Epic_HD_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/scifi_world_512X512_balck.png" group-title="Knowledge",SCIFI WORLD
@@ -2837,17 +2918,17 @@ https://live.drmlive-02.workers.dev/yupptv/fta/ndtv-goodtimes.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-967-j5mr8tw8-v1/imageContent-967-j5mr8tw8-m1.png",DISCOVERY TURBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=541&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=541&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=541
+https://play.denver1769.fun/J/Jtv.mpd?id=541
 https://jio.drmlive.au/jio/bpk-tv/Discovery_Turbo_MOB/Fallback/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/Discoveryturbo2.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png",TRAVELXP HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=562&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=562&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=562
+https://play.denver1769.fun/J/Jtv.mpd?id=562
 https://jio.drmlive.au/jio/bpk-tv/Travel_XP_HD_MOB/Fallback/index.m3u8
 #https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
@@ -2862,16 +2943,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_ott.mpd
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=561&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=561&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv.mpd?id=561
+https://play.denver1769.fun/J/Jt.mpd?id=561
 https://jio.drmlive.au/jio/bpk-tv/Food_XP_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",FASHION TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=2031&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=2031&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=2031
+https://play.denver1769.fun/J/Jtv.mpd?id=2031
 https://jio.drmlive.au/jio/bpk-tv/Fashion_India_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",FASHION TV 4K
@@ -2902,13 +2983,11 @@ https://ythls-v3.onrender.com/channel/UCkAGrHCLFmlK3H2kd6isipg.m3u8
 
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png",COMEDY CENTRAL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1157&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1157&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1157
+https://play.denver1769.fun/J/Jtv.mpd?id=1157
 https://live.drmlive-02.workers.dev/jc/1157.m3u8
 #https://drmlive.in/voot/web/1157.m3u8
-#http://192.168.1.6:8080/live.php?id=1157&key=JITENDRAUNATTI&e=.m3u8
-#https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
 
 =============================================================================================================================================
 OTHERS - മറ്റുള്ളവ
@@ -2952,17 +3031,17 @@ https://mix.drmlive.au/mix/playboxtv.m3u8?id=pishow-40
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tY3E_5kQ29_aNmLX17bMwGtgHbhkAFZefpaluftZaAxW16Q3IC2-MRxmIo9TimnaqXbz6KRNBw=s160-c-k-c0x00ffffff-no-rj" group-title="Others",SANSAD TV 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=520&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=520&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=520
+https://play.denver1769.fun/J/Jtv.mpd?id=520
 https://jio.drmlive.au/jio/bpk-tv/DD_Rajyasabha_MOB/Fallback/index.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/SansadTV/index.m3u8
 
 #EXTINF:-1 group-title="Others" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11449-j9jqxsns-v1/imageContent-11449-j9jqxsns-m1.png",GOD TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv2.php?id=1241&key
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=1241&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv2.mpd?id=1241
+https://play.denver1769.fun/J/Jtv.mpd?id=1241
 https://jio.drmlive.au/jio/bpk-tv/God_TV_MOB/Fallback/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/god-tv.m3u8
 
@@ -2974,16 +3053,15 @@ https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 TEST - പരീക്ഷണം 
 =========================================================================================================================================
 
-
 #EXTINF:-1 group-title="Test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Asianet_logo.png",NEW TEST 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=41810&key
-https://play.denver1769.fun/J/Jtv.mpd?id=41810
+#https://play.denver1769.fun/J/Jtv.mpd?id=41810
 
 #EXTINF:-1 group-title="Test" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Asianet_logo.png",NEW TEST 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=41811&key
-https://play.denver1769.fun/J/Jtv.mpd?id=41811
+#https://play.denver1769.fun/J/Jtv.mpd?id=41811
 
 #EXTINF:-1 group-title="Test" tvg-logo="",Test-1
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/326a45d9-0c16-4f5e-b2ed-a45cb141a321/1.m3u8
