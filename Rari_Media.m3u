@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 09/06/2025 📅
+#Last Update: 16/06/2025 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -1120,6 +1120,7 @@ http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/516.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Dd-sports.png",DD SPORTS HD
 https://cdn-7.pishow.tv/live/1161/master.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 #https://jio.drmlive.au/jio/bpk-tv/DD_Sports_MOB/Fallback/index.m3u8
 #https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=0abc6b14-c563-4851-a49b-4329f9d22be4
 #http://192.168.1.6:8080/live.php?id=204&key=JITENDRAUNATTI&e=.m3u8
@@ -2279,16 +2280,18 @@ https://live.drmlive-02.workers.dev/yupptv/fta/dd-india.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/ddindia/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png",BBC NEWS
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://jmp2.uk/sam-US4000033L.m3u8
+#https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png",AL JAZEERA
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="",FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+https://247.foxnews.com/hls/live/2003586/FNCHLSv3/primary_2692.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-548-j5kxtaig-v1/imageContent-548-j5kxtaig-m1.png",CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2313,8 +2316,9 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=193&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv.mpd?id=193
-https://jio.drmlive.au/jio/bpk-tv/CNN_MOB/Fallback/index.m3u8
+#https://play.denver1769.fun/J/Jtv.mpd?id=193
+https://jmp2.uk/sam-GBBD8000016N.m3u8
+#https://jio.drmlive.au/jio/bpk-tv/CNN_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2330,7 +2334,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-title="News",SKY NEWS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sNrddLcT5LKf0n4UfK5xMw", "kid":"S+9/wby2vX8ofe+UDjjLEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
+https://jmp2.uk/sam-USBB52000022Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-title="News",SKY NEWS AU
 https://i.mjh.nz/.r/sky-news-now.m3u8
