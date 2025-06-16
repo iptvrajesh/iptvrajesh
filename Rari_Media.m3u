@@ -1852,6 +1852,31 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/970/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg", TSN 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8df41512092240d38550e83dc05e157e:f29f106ec9f58b41c7c8391b64f3bb25
+https://live-cito.9c9media.ca/1c3b314400c213d678f83ef6687899a3dfb7c8b21674096484889/f/tsn1/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/TSN2_2014.svg", TSN 2 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=885df0ea68814a11a3dd7718725f4075:ab3698f738c4b90c11de7239cb5ed7c1
+https://live-cito.9c9media.ca/bde85c576a4b0b38acfcb662cdc7fe7b79cb41411720084197940/f/tsn2/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg", TSN 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=473177ea3d394060a0d0c266521ffd68:cb6366270ecf03b7b80aae491ef9d618
+https://live-cito.9c9media.ca/cc6f72e47c28d3297599908ad89a8b9f080d61df1720084275481/f/tsn3/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg", TSN 4 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c6872a2902a4617b878999bf32ccf87:fc53eba9d731de52e83a23d98bea304a
+https://live-cito.9c9media.ca/6f49494abb079d3b0eafd9a8d8c42fb2647fd8fe1720084350548/f/tsn4/manifest.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg", TSN 5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4608dc9b6164cd7b96791af91cc334c:8d4bc6537629d3f7ad5aa4e75516f6da
+https://live-cito.9c9media.ca/ae6a733062fca644619fd3521f33be2d1671be151720084403103/f/tsn5/manifest.mpd
+
 =====================================================================================================================================
 Movies - സിനിമ 
 =====================================================================================================================================
@@ -2255,9 +2280,6 @@ https://live.drmlive-02.workers.dev/yupptv/fta/republic-bharat.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ndtvenglish_nim_https/110322/ndtvenglish/playlist.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-303-j5ji8zco-v3/imageContent-303-j5ji8zco-m3.png",TIMES NOW
-https://dai.google.com/linear/hls/pb/event/XTQ4rIr5TVu0SPEcG24tTQ/stream/79ce51e4-6191-4747-82b4-1e5c27441c36:SIN2/variant/b468c5c16d1bb7216a2ee729397d6f3b/bandwidth/1592800.m3u8
-
 EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png",INDIA TODAY
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 
@@ -2296,21 +2318,20 @@ https://247.foxnews.com/hls/live/2003586/FNCHLSv3/primary_2692.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-548-j5kxtaig-v1/imageContent-548-j5kxtaig-m1.png",CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RCdYhO45TQUIH945X/bkFQ", "kid":"+BKurmvluSSoGBtRLV15EA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/605/default_ott.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-204-j5ftndtc-v1/imageContent-204-j5ftndtc-m1.png",TV5 MONDE ASIE
-https://jio.drmlive.au/jio/bpk-tv/TV_5_Monde_MOB/Fallback/index.m3u8
+#https://jio.drmlive.au/jio/bpk-tv/TV_5_Monde_MOB/Fallback/index.m3u8
 #http://192.168.1.6:8080/live.php?id=885&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-186-j5fsr1go-v1/imageContent-186-j5fsr1go-m1.png",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-312-j5jjsfhs-v1/imageContent-312-j5jjsfhs-m1.png",RUSSIA TODAY
-https://jio.drmlive.au/jio/bpk-tv/RT_TV_MOB/Fallback/index.m3u8
-#https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69827-l1dh5izk-v1/imageContent-69827-l1dh5izk-m1.png",NHK WORLD JAPAN
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2323,12 +2344,12 @@ https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v34bl1VcSst0VfcRsqn/Fg", "kid":"G2GKKRzs5EyYRd3fxP2bEA" } ], "type":"temporary" }
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2503/default_ott.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png" ch-number="512",BBC WORLD NEWS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d+wO6yHAeBL9fFhig2bMsw", "kid":"AXZ9HCMVwOlVb0d/sfDHEA" } ], "type":"temporary" }
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 #https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-title="News",SKY NEWS
@@ -2336,9 +2357,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sNrddLcT5LKf0n4UfK5xMw", "kid":"S+9/wby2vX8ofe+UDjjLEA" } ], "type":"temporary" }
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2102/default_primary.mpd
 https://jmp2.uk/sam-USBB52000022Q.m3u8
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png" group-title="News",SKY NEWS AU
-https://i.mjh.nz/.r/sky-news-now.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="News",ABC NEWS AU
 https://c.mjh.nz/abc-news.m3u8
