@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 16/06/2025 📅
+#Last Update: 09/06/2025 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -58,11 +58,14 @@ https://live.drmlive-02.workers.dev/zee/129.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png",FLOWERS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=634&key 
+#KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/FESb5q/Jtv.mpd?id=634&key 
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-https://play.denver1769.fun/J/Jtv.mpd?id=634
+#https://play.denver1769.fun/J/Jtv.mpd?id=634
+https://game.denver1769.fun/Jtv/FESb5q/Jtv.mpd?id=634
 #https://jt.drmlive.net/jiotvplus/634.mpd
 #https://jio.drmlive.au/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
+
+https://game.denver1769.fun/Jtv/FESb5q/Jtv.mpd?id=606
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Flowers_USA.jpg/revision/latest?cb=20240315085340" group-title="Malayalam",FLOWERS TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
