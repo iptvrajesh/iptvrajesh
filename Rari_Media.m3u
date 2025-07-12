@@ -3150,5 +3150,5 @@ https://jt.drmlive.net/jiotvplus/1998.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-keralam/drmLicense
-https://otttv.co.in/d2h/livestream/zee-keralam/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-kerala/drmLicense
+https://otttv.co.in/d2h/livestream/zee-kerala/manifest.mpd
