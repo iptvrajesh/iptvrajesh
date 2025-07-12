@@ -65,8 +65,6 @@ https://game.denver1769.fun/Jtv/FESb5q/Jtv.mpd?id=634
 #https://jt.drmlive.net/jiotvplus/634.mpd
 #https://jio.drmlive.au/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
 
-https://game.denver1769.fun/Jtv/FESb5q/Jtv.mpd?id=606
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Flowers_USA.jpg/revision/latest?cb=20240315085340" group-title="Malayalam",FLOWERS TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=flowers-usa
@@ -2311,7 +2309,8 @@ https://jmp2.uk/sam-US4000033L.m3u8
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png",AL JAZEERA
-https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="",FOX NEWS
@@ -3145,3 +3144,11 @@ https://jt.drmlive.net/jiotvplus/2853.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae7076b647133606b704d33e4cef5134:810251515584cf71216d9a2d1ebf04bb
 https://jt.drmlive.net/jiotvplus/1998.mpd
+
+#EXTINF:-1 tvg-chno="zee-keralam" group-title="Test",Zee Keralam
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/zee-keralam/drmLicense
+https://otttv.co.in/d2h/livestream/zee-keralam/manifest.mpd
