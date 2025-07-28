@@ -33,7 +33,7 @@ https://jiotvplus.iptv07india.workers.dev/index.mpd?id=41806
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png",ASIANET PLUS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=41809&key
-#https://play.denver1769.fun/J/Jtv.mpd?id=41809
+https://jiotvplus.iptv07india.workers.dev/index.mpd?id=41809
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-plus
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA TV HD
@@ -57,10 +57,9 @@ https://live.drmlive-02.workers.dev/zee/129.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-27-j5fbpbbs-v1/imageContent-27-j5fbpbbs-m1.png",FLOWERS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://game.denver1769.fun/Jtv/FESb5q/Jtv.mpd?id=634&key 
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=634&key
 #EXTVLCOPT:http-user-agent=Shraddha/5.0
-#https://play.denver1769.fun/J/Jtv.mpd?id=634
-https://game.denver1769.fun/Jtv/FESb5q/Jtv.mpd?id=634
+https://jiotvplus.iptv07india.workers.dev/index.mpd?id=634
 #https://jt.drmlive.net/jiotvplus/634.mpd
 #https://jio.drmlive.net/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
 
