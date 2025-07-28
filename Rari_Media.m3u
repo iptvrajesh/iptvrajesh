@@ -27,7 +27,7 @@ http://217.20.112.199/asianet/index.m3u8
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Asianet_logo.png",ASIANET
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.fun/J/Jtv.php?id=41806&key
-#https://play.denver1769.fun/J/Jtv.mpd?id=41806
+https://jiotvplus.iptv07india.workers.dev/index.mpd?id=41806
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11254-j9ixwlcg-v1/imageContent-11254-j9ixwlcg-m1.png",ASIANET PLUS
@@ -771,8 +771,8 @@ https://play.denver1769.fun/J/Jtv.mpd?id=636
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/202/default.mpd
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/202/default.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Astro-Box-Office-Movie-Thangathirai.png" group-title="Tamil",ASTRO THANGATHIRAI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -836,7 +836,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2105/default_ott.mpd
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Astro_Vaanavil_%28November_2024%29.svg/revision/latest/scale-to-width-down/1000?cb=20241115045758",ASTRO VAANAVIL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tUFjJhFKE+kGYqT7rzxTKw", "kid":"ckmcatRMw32VqQdUIJEREA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 
