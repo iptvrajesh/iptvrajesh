@@ -133,8 +133,8 @@ https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_i
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12020-j9ntf12w-v1/imageContent-12020-j9ntf12w-m1.png",ASIANET NEWS
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #https://jt.drmlive.au/jiotvplus/180.mpd
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8
 #https://mix.drmlive.net/mix/xiaomi-66219.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-news
 #https://jio.drmlive.au/jio/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
@@ -158,6 +158,7 @@ https://cdn-3.pishow.tv/live/1469/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png",MANORAMA NEWS
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+#https://mmtvnews1.akamaized.net/v1/manifest/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/6d1b05ae-3460-485f-9084-257e8fe6f3b5/2.m3u8
 #https://jt.drmlive.au/jiotvplus/662.mpd
 #https://live.drmlive-02.workers.dev/yupptv/fta/manorama-news.m3u8
 #https://jio.drmlive.au/jio/bpk-tv/Manorama_News_MOB/Fallback/index.m3u8
@@ -557,9 +558,9 @@ https://play.denver1769.fun/J/Jtv.mpd?id=1130
 https://play.denver1769.fun/J/Jtv.mpd?id=1131
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",ZEE TAMIL HD
-https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
+#https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
 #http://45.148.145.57/IN_ZEETAMILHD/tracks-v1a1/mono.m3u8
-#https://la.drmlive.au/tp/zee-zeetamil.m3u8
+https://la.drmlive.net/tp/zee-zeetamil.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil/default/Zeetamil.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png",JAYA TV HD
