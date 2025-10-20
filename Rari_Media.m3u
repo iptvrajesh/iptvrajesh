@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 14/10/2025 📅
+#Last Update: 20/10/2025 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -128,7 +128,7 @@ https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_i
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Safari_TV.png",SAFARI TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://images.seeklogo.com/logo-png/34/1/asianet-news-logo-png_seeklogo-343770.png",ASIANET NEWS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Asianet_News.svg",ASIANET NEWS
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/180.mpd
@@ -263,9 +263,9 @@ https://mini.allinonereborn.fun/jiotv-in/app/ts_live_910.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=mediaone-tv
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Malayalam.png" group-title="Malayalam",NEWS MALAYALAM 24x7
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_3184.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_3184.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/newsmalayalam/master.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/8595ca5e-9c8b-4293-bef8-42b850667c51/0.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/News_Malayalam_MOB/Fallback/index.m3u8
 #https://cdn-3.pishow.tv/live/1629/master.m3u8
 #https://jt.drmlive.net/jiotvplus/3184.mpd
@@ -1799,13 +1799,19 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #https://jio.drmlive.net/jio/Romedy_Now/Romedy_Now_600.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies.png",STAR MOVIES
-https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png",STAR MOVIES HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=6ac6943751e558b181da32727f03dff7&key=f36e5cd48252bcd0fcda2bfe21f5b365
+https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1104
+#https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png",STAR MOVIES SELECT
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=b55393cd147a54debaf2b0f2d82b5d9f&key=6b168db49241a78c1b423ab9a29409ef
+https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1110
+#https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",STAR MOVIES SELECT HD
 https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
