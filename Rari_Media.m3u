@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 20/10/2025 📅
+#Last Update: 12/11/2025 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -39,14 +39,15 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Zee%20Keralam%20HD.png?updatedAt=1756821211166",Z KERALAM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1641.m3u8
+http://servertvhub.site/zee5-main/index.php?id=0-9-129
 #https://la.drmlive.net/tp/zee-129.m3u8
 #https://live.drmlive-02.workers.dev/zee/129.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1641.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Flowers_TV.jpg/revision/latest?cb=20240314203757",FLOWERS TV
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_634.m3u8
+https://servertvhub.site/jio/app/ts_live_634.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_634.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/flowertv/master.m3u8
 #https://jt.drmlive.net/jiotvplus/634.mpd
@@ -62,12 +63,14 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/jeevantv/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Amrita_TV_Logo.png/revision/latest?cb=20240319100639",AMRITA TV
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_723.m3u8
+https://servertvhub.site/jio/app/ts_live_723.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_723.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Amrita_TV_MOB/Fallback/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/amritatv/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",KAIRALI TV
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_710.m3u8
+https://servertvhub.site/jio/app/ts_live_710.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_710.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Kairali_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/kairalitv/master.m3u8
 #https://jt.drmlive.net/jiotvplus/710.mpd
@@ -92,7 +95,8 @@ https://cdn-7.pishow.tv/live/1129/master.m3u8
 https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png",SURYA MOVIES (JIO TV)
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1754.m3u8
+https://servertvhub.site/jio/app/ts_live_1754.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_1754.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Surya_Movies_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1754.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/suryamovies/master.m3u8
@@ -175,7 +179,8 @@ https://in1.sunilprasad.com.np/yuppLive/jaihind-tv/master.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Raj%20News%20Malayalam.png?updatedAt=1756820670924",RAJ NEWS MALAYALAM
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_650.m3u8
+https://servertvhub.site/jio/app/ts_live_650.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_650.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Raj_News_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/650.mpd
 https://live.dinesh29.com.np/stream/jiotvplus/rajnewsmalayalam/master.m3u8
@@ -199,7 +204,8 @@ https://livestream24news.sunnxt.com/24news/index.m3u8
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Raj%20Musix%20Makayalam.png?updatedAt=1756790550654",RAJ MUSIX MALAYALAM
-https://mini.allinonereborn.fun/jiotv-in/app/ts_live_739.m3u8
+https://servertvhub.site/jio/app/ts_live_739.m3u8
+#https://mini.allinonereborn.fun/jiotv-in/app/ts_live_739.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Raj_Music_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/739.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/rajmusicmalayalam/master.m3u8
@@ -585,7 +591,8 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg/revision/latest?cb=20191225165506" group-title="Tamil",7S MUSIC
-http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
+#http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
+http://202.164.50.194:8000/play/a026/index.m3u8
 #https://livectv3.phando.com/8050/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil",TUNES 6 MUSIC
@@ -1011,7 +1018,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 #https://tplay-vivek.vercel.app/play.m3u8?id=463
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY SPORTS TEN 1 HD
-https://yflix.top/sliv1/live.php?id=1000009276&devtoken=TechPakao
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten1hd.m3u8
 #https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8 
@@ -1019,7 +1026,7 @@ https://yflix.top/sliv1/live.php?id=1000009276&devtoken=TechPakao
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",SONY SPORTS TEN 2 HD
-https://yflix.top/sliv1/live.php?id=1000009277&devtoken=TechPakao
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 2.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
 https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 #https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
@@ -1027,21 +1034,21 @@ https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 #https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",SONY SPORTS TEN 3 HD HINDI
-https://yflix.top/sliv1/live.php?id=1000009278&devtoken=TechPakao
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 3.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten3hd.m3u8
 #https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",SONY SPORTS TEN 4 HD TAMIL
-https://yflix.top/sliv1/live.php?id=1000119187&devtoken=TechPakao
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten4hd.m3u8
 #https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
 #https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",SONY SPORTS TEN 5 HD
-https://yflix.top/sliv1/live.php?id=1000009275&devtoken=TechPakao
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten5hd.m3u8
 #https://la.drmlive.net/tp/sliv.php?id=ten5hd
@@ -1324,28 +1331,29 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5deb190b1dac28e46c0bdada7668b7de:ddd2b372702e42b0d2708a70b91dec8d
-http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/rdznpzcmct/out/v1/355324ed98a94cbebbaff4bad0cd28ce/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36
-http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a
+#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
-http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png",TEN CRICKET
 https://bd.drmlive.net/toffee/cdn/live/ten_cricket/playlist.m3u8
@@ -1620,7 +1628,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/
 #KODIPROP:inputstream.adaptive.license_key=e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/640px-TSN5.svg.png",TSN 5 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg",TSN 5 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
 http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mttgh1c4ei/out/v1/9cc664b146744e2ba23066aa048efbc5/cenc.mpd
@@ -2095,6 +2103,7 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #https://cdn-7.pishow.tv/live/429/master.m3u8
 #https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="",FOX NEWS
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
