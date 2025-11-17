@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 20/10/2025 📅
+#Last Update: 17/11/2025 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -39,7 +39,8 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Zee%20Keralam%20HD.png?updatedAt=1756821211166",Z KERALAM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://servertvhub.site/zee5-main/index.php?id=0-9-129
+http://87.255.35.150:18502
+#http://servertvhub.site/zee5-main/index.php?id=0-9-129
 #https://la.drmlive.net/tp/zee-129.m3u8
 #https://live.drmlive-02.workers.dev/zee/129.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
@@ -69,7 +70,8 @@ https://servertvhub.site/jio/app/ts_live_723.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/amritatv/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",KAIRALI TV
-https://servertvhub.site/jio/app/ts_live_710.m3u8
+http://thksmom.shop/BC_1238/mpegts?token=f43679a9d7634586b74fd558a47ed5d8
+#https://servertvhub.site/jio/app/ts_live_710.m3u8
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_710.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Kairali_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/kairalitv/master.m3u8
@@ -386,6 +388,9 @@ http://137.59.86.218:1935/live/onetv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5urG30.png" group-title="Malayalam",PULARI TV HD  
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",PULARI CINEMA
+https://royalstarindia.co.in/cinematv_hls/cinematv.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/35095cc1ec4f4aa5c23dca6e6887b4d69324982976dadb911ddd4a9c5e4b4e86.png" group-title="Malayalam",DIVINE  
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
@@ -854,6 +859,7 @@ https://la.drmlive.net/tp/zee-tvhd_0.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/andtv332-03.png",&TV HD UK
 https://jmp2.uk/stvp-GB3700007OZ
+#https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/ztv332hd-03.png",Z TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1811,9 +1817,10 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png",STAR MOVIES HD
+http://87.255.35.150:18211
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clkey.vercel.app/api/results.php?keyid=6ac6943751e558b181da32727f03dff7&key=f36e5cd48252bcd0fcda2bfe21f5b365
-https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1104
+#https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1104
 #https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select.png",STAR MOVIES SELECT
@@ -1823,7 +1830,8 @@ https://stream.kliv.fun/allplus18/jtv/manifest.mpd?id=1110
 #https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselect/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",STAR MOVIES SELECT HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
+http://87.255.35.150:18548
+#https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold.png",STAR GOLD 
 https://live.dinesh29.com.np/stream/jiotvplus/stargold/master.m3u8
@@ -2588,6 +2596,9 @@ https://jmp2.uk/stvp-IN3900010TD
 https://jmp2.uk/stvp-IN3000010V5
 #https://mix.drmlive.net/mix/xiaomi-66200.m3u8
 
+#EXTINF: tvg-logo="" group-title="Kids", TOM & JERRY
+http://thksmom.shop/tojVOD24/7/index.m3u8?token=4080f9682a21a284d05d7c415714abcd
+
 ==============================================================================================================================================
 KNOWLEDGE - അറിവ് 
 ==============================================================================================================================================
@@ -2847,6 +2858,9 @@ https://in1.sunilprasad.com.np/yuppLive/god-tv/master.m3u8
 https://la.drmlive.net/tp/zee-zeecafehd.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecafehd.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Others",Z ONE
+https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
+
 =========================================================================================================================================
 TEST - പരീക്ഷണം 
 =========================================================================================================================================
@@ -2858,10 +2872,6 @@ https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10548
 #EXTINF:-1 tvg-logo="" group-title="Test",Z BOLLY MOVIES TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee-bollymovies.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",Z ONE TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-one.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Test",Z FAMILY TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
