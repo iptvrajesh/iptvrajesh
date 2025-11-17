@@ -10,7 +10,7 @@
 #EXTM3U x-tvg-url="https://jiotv-epg.xml.gz"
 #EXTM3U x-tvg-url="https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 #EXTM3U x-tvg-url="https://fhux.short.gy/epg.xml.gz"
-#Last Update: 12/11/2025 📅
+#Last Update: 20/10/2025 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -1395,7 +1395,7 @@ https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://usmasters.ttensports.com/wp-content/uploads/2023/08/willow-xtra.png" group-title="Sports",WILLOW 2 HD
 #https://github.com/rahul979854/Channels/raw/main/Willow2Hd.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",WILLOW SPORTS HD
+#EXTINF:-1 tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png" group-title="Sports",WILLOW SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
@@ -1411,7 +1411,11 @@ https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60
 #https://bpcdn.dialog.lk/bpk-tv/Ch126/output/index.mpd
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png" group-title="Sports",CRICKET GOLD
-https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#https://cc-bpss9asqfihqh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bpss9asqfihqh/scheduler/scheduleMaster/453.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rogerssportsandmedia.com/wp-content/uploads/2021/08/Copy-of-Media-Site-2.png" group-title="Sports", SN ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1710,6 +1714,7 @@ https://ssailive.vgcdn.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",BOLLYWOOD MASALA
 https://mix.drmlive.net/mix/distro-5006.m3u8
+#https://streams2.sofast.tv/ptnr-yupptv/title-Bollywood_Masala/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7451c147-8830-4959-8575-a1bcc0a79a13/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",DESI PLAY
 #https://desiplaylive.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/628c2eec-6c13-4102-8119-59f3b0b9f8f9/3.m3u8
@@ -1988,10 +1993,10 @@ https://jmp2.uk/stvp-IN3800010SH
 #https://live.drmlive-02.workers.dev/yupptv/premium/bbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/starvision_512X512_balck.png" group-title="Movies",STAR VISION
-https://in1.sunilprasad.com.np/yuppLive/star-vision/master.m3u8
+https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/manifest.m3u8
+#https://in1.sunilprasad.com.np/yuppLive/star-vision/master.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=star-vision
 #https://live.drmlive-02.workers.dev/yupptv/fta/star-vision.m3u8
-#https://streams2.sofast.tv/ptnr-yupptv/title-STAR-VISION-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/6248c6d3-6b6c-4b88-ae8f-a7c119ab380a/6b6b453c-164c-43e6-948b-02090d91ce44/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Movies",BOLLYWOOD MOVIES
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991756
@@ -2539,8 +2544,11 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/cartoon_classics_512X512_balck.png" group-title="Kids",CARTOON TV CLASSICS
-https://mix.drmlive.net/mix/distro-5244.m3u8
-#https://yupp.nayeem-parvez.workers.dev/tv.php?c=cartoon-tv-classics
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#https://mix.drmlive.net/mix/distro-5244.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/cartoon-tv-classics.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s" group-title="Kids",JUNGLE BOOK
@@ -2871,3 +2879,9 @@ https://la.drmlive.net/tp/zee-magic.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="",SONY SPORTS TEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e794cec33be346db4544184c0b67dc6:ecb88f00e50f64333123c78a47ea75d0
+https://companion-live-play1.streamready.in/live/med13-2/sony_sports_ten_1/ndashd/sony_sports_ten_1.mpd
+
