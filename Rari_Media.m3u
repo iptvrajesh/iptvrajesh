@@ -39,8 +39,7 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Zee%20Keralam%20HD.png?updatedAt=1756821211166",Z KERALAM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://87.255.35.150:18502
-#http://servertvhub.site/zee5-main/index.php?id=0-9-129
+https://m3u.8088y.fun/z5/index.php?id=0-9-129
 #https://la.drmlive.net/tp/zee-129.m3u8
 #https://live.drmlive-02.workers.dev/zee/129.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
@@ -2900,7 +2899,24 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 #KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="Test",Star Sports Select 1 HD Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=300
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://keys.vodep39240327.workers.dev/?id=300.mpd
 
+#EXTINF:-1 tvg-id="ts463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Test",Star Sports Select 2 HD Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=301
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://keys.vodep39240327.workers.dev/?id=301.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Test",Z Keralam HD Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://ze5.vodep39240327.workers.dev/channel/Zee Keralam HD.m3u8
+
+
+# >>> JIO_AUTO_START
 #EXTINF:-1 group-title="Test" tvg-logo="https://img.media.jio.com/imagespublic/42/63/301583_1703067829443_l_high.jpg" ,Animal Planet HD World Test
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e5b244dece4589e8cb63c3f78599b8b:d0bf0aea980e46b12a38f8004505e2fe
@@ -2913,3 +2929,4 @@ https://jiotvbpkmob.cdn.jio.com/bpk-tv/Animal_Planet_HD_BTS/output/index.mpd?__h
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #EXTHTTP:{"cookie":"__hdnea__=st=1764393604~exp=1764480004~acl=/*~hmac=7ad3f68fe1e35a72c0496127c142e6a67ff5342cf2ff3d714047424a58e559c9"}
 https://jiotvbpkmob.cdn.jio.com/bpk-tv/Discovery_HD_World_BTS/output/index.mpd?__hdnea__=st=1764393604~exp=1764480004~acl=/*~hmac=7ad3f68fe1e35a72c0496127c142e6a67ff5342cf2ff3d714047424a58e559c9
+# >>> JIO_AUTO_END
