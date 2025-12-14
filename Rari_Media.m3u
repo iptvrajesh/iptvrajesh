@@ -103,7 +103,12 @@ https://servertvhub.site/jio/app/ts_live_1754.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/suryamovies/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",ASIANET MOVIES
-https://live.dinesh29.com.np/stream/jiotvplus/asianetmovies/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6
+#EXTVLCOPT:http-user-agent=@allinone_reborn
+#EXTHTTP:{"cookie":"__hdnea__=st=1765666833~exp=1765753233~acl=/*~hmac=0f4eb6835bc6466613b85bdfd1db0ba1acf68a0185079506d4f34ac3fef146d5"}
+https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd?__hdnea__=st=1765666833~exp=1765753233~acl=/*~hmac=0f4eb6835bc6466613b85bdfd1db0ba1acf68a0185079506d4f34ac3fef146d5
+#https://live.dinesh29.com.np/stream/jiotvplus/asianetmovies/master.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-movies-us
 #https://jt.drmlive.net/jiotvplus/459.mpd
 
@@ -843,17 +848,21 @@ https://live.dinesh29.com.np/stream/jiotvplus/starbharat/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SONY SET HD
-https://live.drmlive-02.workers.dev/sliv/sony.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/sliv-sony.m3u8
+#https://live.drmlive-02.workers.dev/sliv/sony.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",SONY SAB HD
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/sliv-sab.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Hindi",SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/andtv332hd-03.png",&TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-tvhd_0.m3u8
+https://la.drmlive.net/tp/zee5/tvhd_0/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/Andtvhd.m3u8
 
@@ -863,7 +872,7 @@ https://jmp2.uk/stvp-GB3700007OZ
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/ztv332hd-03.png",Z TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-zeetvhd.m3u8
+https://la.drmlive.net/tp/zee5/zeetvhd/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/Zeetvhd.m3u8
 
@@ -890,7 +899,9 @@ http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m
 #https://live.drmlive-02.workers.dev/jc/1370.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png",SONY PAL
-https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/sliv-pal.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png",SHEMAROO TV
 https://cdn-4.pishow.tv/live/230/master.m3u8
@@ -1025,12 +1036,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 #https://tplay-vivek.vercel.app/play.m3u8?id=463
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY SPORTS TEN 1 HD
-https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
+#https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten1hd.m3u8
-#https://dai.google.com/linear/hls/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8 
-#https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",SONY SPORTS TEN 2 HD
 https://sl.vodep39240327.workers.dev/channel/SONY TEN 2.m3u8
