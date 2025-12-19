@@ -44,7 +44,7 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Zee%20Keralam%20HD.png?updatedAt=1756821211166",Z KERALAM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://m3u.8088y.fun/z5/index.php?id=0-9-129
+http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-129
 #https://la.drmlive.net/tp/zee-129.m3u8
 #https://live.drmlive-02.workers.dev/zee/129.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
@@ -116,9 +116,9 @@ https://servertvhub.site/jio/app/ts_live_1754.m3u8
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",ASIANET MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca83419dfa1b56f794032b271b8f2c84:d592520eea361507a63c94bff799dfb6
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1765666833~exp=1765753233~acl=/*~hmac=0f4eb6835bc6466613b85bdfd1db0ba1acf68a0185079506d4f34ac3fef146d5"}
-https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd?__hdnea__=st=1765666833~exp=1765753233~acl=/*~hmac=0f4eb6835bc6466613b85bdfd1db0ba1acf68a0185079506d4f34ac3fef146d5
+#EXTVLCOPT:http-user-agent=@Denver1769
+#EXTHTTP:{"cookie":"__hdnea__=st=1765796992~exp=1765883392~acl=/*~hmac=ccfce6fd8bd4e66e6be46a78dc9de69c0671d5ade7c50739ccd2e2fe4df12afd"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd?__hdnea__=st=1765796992~exp=1765883392~acl=/*~hmac=ccfce6fd8bd4e66e6be46a78dc9de69c0671d5ade7c50739ccd2e2fe4df12afd
 #https://live.dinesh29.com.np/stream/jiotvplus/asianetmovies/master.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-movies-us
 #https://jt.drmlive.net/jiotvplus/459.mpd
@@ -987,6 +987,9 @@ https://cdn-7.pishow.tv/live/1161/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/ddsports/master.m3u8
 #https://d3eyhgoylams0m.cloudfront.net/v1/master/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/index.m3u8?aws.sessionId=0abc6b14-c563-4851-a49b-4329f9d22be4
 
+#EXTINF: -1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TP4K_Thumbnail-v2/TP4K_Thumbnail.png" group-title="Sports", STAR 4K
+http://b1g.uk:80/Rajesh/123456/662136
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1
 https://live.dinesh29.com.np/stream/jiotvplus/starsports1/master.m3u8
 
@@ -1047,39 +1050,34 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 #https://tplay-vivek.vercel.app/play.m3u8?id=463
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY SPORTS TEN 1 HD
-#https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
-https://la.drmlive.net/tp/sliv-ten1hd.m3u8
+#https://la.drmlive.net/tp/sliv-ten1hd.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",SONY SPORTS TEN 2 HD
-#https://sl.vodep39240327.workers.dev/channel/SONY TEN 2.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 2.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
-https://la.drmlive.net/tp/sliv-ten2hd.m3u8
+#https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 #https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
-#https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",SONY SPORTS TEN 3 HD HINDI
-#https://sl.vodep39240327.workers.dev/channel/SONY TEN 3.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 3.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
-https://la.drmlive.net/tp/sliv-ten3hd.m3u8
+#https://la.drmlive.net/tp/sliv-ten3hd.m3u8
 #https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8 
-#https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",SONY SPORTS TEN 4 HD TAMIL
-#https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
 https://la.drmlive.net/tp/sliv-ten4hd.m3u8
 #https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
-#https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",SONY SPORTS TEN 5 HD
-#https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
+https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
-https://la.drmlive.net/tp/sliv-ten5hd.m3u8
+#https://la.drmlive.net/tp/sliv-ten5hd.m3u8
 #https://la.drmlive.net/tp/sliv.php?id=ten5hd
 #https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",EUROSPORT
 https://live.dinesh29.com.np/stream/jiotvplus/eurosport/master.m3u8
