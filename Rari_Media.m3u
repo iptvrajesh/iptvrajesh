@@ -124,7 +124,10 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd?__hdn
 #https://jt.drmlive.net/jiotvplus/459.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Asianet_Movies_HD.png/revision/latest?cb=20211017153130",ASIANET MOVIES HD
-https://live.dinesh29.com.np/stream/jiotvplus/asianetmovieshd/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=841
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://keys.vodep39240327.workers.dev/?id=841.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",WE TV
 https://cdn-3.pishow.tv/live/1530/master.m3u8
@@ -994,14 +997,16 @@ http://b1g.uk:80/Rajesh/123456/662136
 https://live.dinesh29.com.np/stream/jiotvplus/starsports1/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",STAR SPORTS 1 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd1/master.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=78
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=4470
+#EXTHTTP:{"Cookie":"","Origin":"","Referer":"","User-Agent":"plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7"}
+https://keys.vodep39240327.workers.dev/?id=4470.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",STAR SPORTS 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=235
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=4456
+#EXTHTTP:{"Cookie":"","Origin":"","Referer":"","User-Agent":"plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7"}
+https://keys.vodep39240327.workers.dev/?id=4456.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",STAR SPORTS 2
 https://live.dinesh29.com.np/stream/jiotvplus/starsports2/master.m3u8
@@ -1037,17 +1042,19 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportskhel/master.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselect1/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",STAR SPORTS SELECT 1 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=246
+https://keys.vodep39240327.workers.dev/?id=300.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",STAR SPORTS SELECT 2 
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselect2/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",STAR SPORTS SELECT 2 HD
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=301
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://tplay-vivek.vercel.app/play.m3u8?id=463
+https://keys.vodep39240327.workers.dev/?id=301.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY SPORTS TEN 1 HD
 https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
