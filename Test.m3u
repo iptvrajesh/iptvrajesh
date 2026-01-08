@@ -54,6 +54,10 @@ https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://ze5.vodep39240327.workers.dev/channel/Zee Keralam HD.m3u8
 
+#EXTINF:-1 tvg-id="ts246" tvg-logo="" group-title="Test",Z Keralam HD Test 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
+https://ze5.vodep39240327.workers.dev/channel/129.m3u8
+
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Test",Asianet Movies HD Test
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=459
