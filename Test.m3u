@@ -52,9 +52,9 @@ https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="ts246" tvg-logo="" group-title="Test",Z Keralam HD Test
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1641
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=3040
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=1641.mpd
+https://keys.vodep39240327.workers.dev/?id=3040.mpd
 
 #EXTINF:-1 tvg-id="ts246" tvg-logo="" group-title="Test",&Pictures HD Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
