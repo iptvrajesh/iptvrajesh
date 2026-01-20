@@ -17,7 +17,7 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#Last Update: 15/01/2026 📅
+#Last Update: 20/01/2026 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -42,12 +42,12 @@ http://217.20.112.199/asianet/index.m3u8
 https://keys.vodep39240327.workers.dev/?id=1139.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/asianetplus/master.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_TV.png",SURYA TV
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/200x200_SuryaTV_194398_010180e7-db04-4e2a-9b57-c81dfee73222.png",SURYA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56e1f5b5b72e4e45a98b6f287c265ab9:6dee8663e63cc8f8dda8478b8b2f3b71
 https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
 
-#EXTINF:1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam",SURYA TV HD
+#EXTINF:1 tvg-logo="https://sund-images.sunnxt.com/194397/200x200_SuryaTVHD_194397_4c99c17b-92d4-49be-a490-b5958067190a.png" group-title="Malayalam",SURYA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
@@ -113,7 +113,7 @@ https://cdn-7.pishow.tv/live/1129/master.m3u8
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1129
 #https://live.dinesh29.com.np/stream/jiotvplus/mazhavilmanoramahd/master.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png",SURYA MOVIES
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194385/200x200_SuryaMovies_194385_0a1fbf90-a86a-4580-bdd8-36c6d1826c46.png",SURYA MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
 https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
@@ -150,12 +150,12 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/kairaliwetv/master.m3u8
 
-#EXTINF:1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Malayalam",SURYA MUSIC 
+#EXTINF:1 tvg-logo="https://sund-images.sunnxt.com/194338/200x200_SuryaMusic_194338_8c3cb980-e460-478e-9b60-18b5550a2596.png" group-title="Malayalam",SURYA MUSIC 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
 https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
 
-#EXTINF:1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Malayalam",SURYA COMEDY
+#EXTINF:1 tvg-logo="https://sund-images.sunnxt.com/193251/200x200_SuryaComedy_193251_1c2fd207-acad-4096-9bc4-d207375ae0af.png" group-title="Malayalam",SURYA COMEDY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
 https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
@@ -271,6 +271,15 @@ https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Shalom_TV.png/revision/latest/scale-to-width-down/1000?cb=20210227122038",SHALOM GLOBAL
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",SHALOM WORLD AUSTRALIA
+https://broadcaster-1.cclouds.in/srt-3/channel3_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",SHALOM WORLD EUROPE
+https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",SHALOM WORLD PRAYER
+https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="Malayalam",REPORTER TV
 https://cdn-2.pishow.tv/live/1510/master.m3u8
@@ -452,6 +461,9 @@ https://2-fss-2.themediacdn.com/pl_138/206324-3157542-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam",KNA TV
 https://2-fss-2.themediacdn.com/pl_138/206324-3157544-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",KANNUR VISION
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kannur_one.png" group-title="Malayalam",KANNUR ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1024,7 +1036,7 @@ https://la.drmlive.net/tp/sliv-pal.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png",SHEMAROO TV
-https://cdn-4.pishow.tv/live/230/master.m3u8
+https://cdn-3.pishow.tv/live/230/master.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Shemaroo_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/shemarootv/master.m3u8
 
@@ -2244,7 +2256,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ez2jwhkmke/o
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Moves",HBO COMEDY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" group-title="Movies",HBO COMEDY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
@@ -2363,6 +2375,9 @@ https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
 
 #EXTINF: -1 group-title="Movies" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zsouthflix.png",Z SOUTH FLIX
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
+#EXTINF: -1 group-title="Movies" tvg-logo="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-25048,resizemode-75,msid-123659275/industry/media/entertainment/media/shemaroo-launches-hindi-movie-channel-josh.jpg",SHEMAROO JOSH
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil%3ashemarooChumbakTVadp.smil/playlist.m3u8
 
 ==================================================================================================================================
 News - വാർത്ത 
@@ -2886,7 +2901,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
-#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" group-title="Kids",KOCHU TV 
+#EXTINF:1 tvg-logo="https://sund-images.sunnxt.com/194348/200x200_KochuTV_194348_f8187f4e-60c3-4727-9cdf-ecac24bff645.png" group-title="Kids",KOCHU TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7354fb333b0c4159bc6c433c4db13d0f:fbf8b4a11febf7d2eed2283006979176
 https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
