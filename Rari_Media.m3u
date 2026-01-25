@@ -3352,3 +3352,15 @@ https://la.drmlive.net/tp/sliv-sony.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Test",Sony Ten1 HD Test
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/sliv-ten1hd.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9dd4aa4accd53188659c4a7b45bd8c4:920ff1a99835cfeb26d4c0db04ee58bd
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.1.0_3012 (Linux;Android 9) ExoPlayerLib/2.18.1
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_list/360x2036de81d431bca4dceaeaebc6d17be4fa6" group-title="Test", Zee Tamil HD Test
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_MOB/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Test",Z Thirai Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=3051
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://keys.vodep39240327.workers.dev/?id=3051.mpd
