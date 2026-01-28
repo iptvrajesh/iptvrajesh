@@ -453,7 +453,8 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 #https://yuppftalive.akamaized.net/120723/smil:mazhavilmanoramainternational.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dp6BvWJ.png" group-title="Malayalam",KAIRALI ARABIA 
-http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443051
+http://live.geoiptv.org:8880/Avinash/RN89000/179200
+#http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443051
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=kairali-arabia
 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/9a/e6/bd9ae661-b1f7-91eb-b73b-2b8ce6d09de2/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/1200x630wa.png" group-title="Malayalam",KVTV
@@ -964,16 +965,19 @@ https://keys.vodep39240327.workers.dev/?id=1127.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://keys.vodep39240327.workers.dev/?id=931.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/starbharathd/master.m3u8
+#http://217.20.112.199/lifeokhd/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SONY SET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/sliv-sony.m3u8
+http://217.20.112.199/sethd/index.m3u8
+#https://la.drmlive.net/tp/sliv-sony.m3u8
 #https://live.drmlive-02.workers.dev/sliv/sony.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",SONY SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/sliv-sab.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+http://217.20.112.199/sabtvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Hindi",SONY KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
@@ -1005,6 +1009,7 @@ https://keys.vodep39240327.workers.dev/?id=144.mpd
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
 #https://mix.drmlive.net/mix/jc-144.m3u8
 #https://live.drmlive-02.workers.dev/jc/144.m3u8
+#http://217.20.112.199/ColorsHD/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png",STAR UTSAV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2442,6 +2447,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-3-j5dkuhwo-v1/imageContent-3-j5dkuhwo-m2.png",INDIA TODAY
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+#http://217.20.112.199/indiatoday/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-843-j5m9oyzc-v1/imageContent-843-j5m9oyzc-m1.png",CNN NEWS18
 #https://drmlive.in/voot/web/492.m3u8
@@ -3029,7 +3035,8 @@ KNOWLEDGE - അറിവ്
 https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographichd/master.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",NAT GEO WILD HD
-https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
+http://217.20.112.199/natgeowild/index.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="",WILD EARTH HD
 https://wildearth-plex.amagi.tv/master.m3u8
@@ -3083,9 +3090,10 @@ https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 #https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_15_0.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",ANIMAL PLANET HD WORLD
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",ANIMAL PLANET HD 
+http://217.20.112.199/animalplanet/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Animal_Planet_HD_MOB/Fallback/index.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/animalplanethd/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/animalplanethd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="Knowledge",ASTRO BBC EARTH 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3364,3 +3372,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_MOB/WDVLive/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=3051
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://keys.vodep39240327.workers.dev/?id=3051.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png",Star Movies HD Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+#EXTVLCOPT:http-user-agent=StreamFlex/7.1.3 (Linux;Android 13) StreamFlex/69.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd
