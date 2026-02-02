@@ -17,7 +17,7 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#Last Update: 29/01/2026 📅
+#Last Update: 20/01/2026 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -285,9 +285,9 @@ https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
 https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="Malayalam",REPORTER TV
-https://live-cf-reportertv.dailyhunt.in/master.m3u8
+#https://live-cf-reportertv.dailyhunt.in/master.m3u8
 #https://cdn-2.pishow.tv/live/1510/master.m3u8
-#https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Reporter_TV_MOB/Fallback/index.m3u8
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1510
 #https://live.dinesh29.com.np/stream/jiotvplus/reportertv/master.m3u8
