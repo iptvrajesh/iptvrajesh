@@ -241,6 +241,9 @@ https://livestream24news.sunnxt.com/24news/index.m3u8
 #https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jXLbVZu.jpeg" group-title="Malayalam",BIGTV 24x7
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s" group-title="Malayalam",N TV HD
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 
