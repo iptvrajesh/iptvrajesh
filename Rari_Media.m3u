@@ -234,11 +234,11 @@ https://segment.yuppcdn.net/140622/janamtv/playlist.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/janamtv/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png",TWENTY FOUR
-https://livestream24news.sunnxt.com/24news/index.m3u8
+#https://livestream24news.sunnxt.com/24news/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Twenty_Four_News_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1250.mpd
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=24
-#https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXLbVZu.jpeg" group-title="Malayalam",BIGTV 24x7
