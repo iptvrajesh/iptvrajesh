@@ -17,17 +17,19 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#Last Update: 20/01/2026 📅
+#Last Update: 25/04/2026 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
 ====================================================================================================================================
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet.png",ASIANET
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1118
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=1118.mpd
+#https://keys.vodep39240327.workers.dev/?id=1118.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/asianet/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
@@ -81,19 +83,13 @@ https://cdn-3.pishow.tv/live/1467/master.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/jeevantv/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Amrita_TV_Logo.png/revision/latest?cb=20240319100639",AMRITA TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=723
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=723.mpd
+https://ddash74r36xqp.cloudfront.net/master.m3u8
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_723.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Amrita_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/amritatv/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",KAIRALI TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=710
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=710.mpd
+https://mumt01.tangotv.in/KAIRALI/index.m3u8
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_710.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Kairali_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/kairalitv/master.m3u8
@@ -129,10 +125,12 @@ https://keys.vodep39240327.workers.dev/?id=1754.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/suryamovies/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",ASIANET MOVIES
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1153
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=1153.mpd
+#https://keys.vodep39240327.workers.dev/?id=1153.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/asianetmovies/master.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-movies-us
 #https://jt.drmlive.net/jiotvplus/459.mpd
@@ -215,10 +213,11 @@ https://in1.sunilprasad.com.np/yuppLive/jaihind-tv/master.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Raj%20News%20Malayalam.png?updatedAt=1756820670924",RAJ NEWS MALAYALAM
+https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=650
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=650.mpd
+#https://keys.vodep39240327.workers.dev/?id=650.mpd
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_650.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Raj_News_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/650.mpd
@@ -234,11 +233,11 @@ https://segment.yuppcdn.net/140622/janamtv/playlist.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/janamtv/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png",TWENTY FOUR
-#https://livestream24news.sunnxt.com/24news/index.m3u8
+https://d2lt7hdvi7dvie.cloudfront.net/24news/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Twenty_Four_News_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1250.mpd
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=24
-https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
+#https://segment.yuppcdn.net/110322/channel24/playlist.m3u8 
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXLbVZu.jpeg" group-title="Malayalam",BIGTV 24x7
@@ -248,10 +247,11 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 https://mars.streambridge.cloud/ntv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Raj%20Musix%20Makayalam.png?updatedAt=1756790550654",RAJ MUSIX MALAYALAM
+https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=739
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=739.mpd
+#https://keys.vodep39240327.workers.dev/?id=739.mpd
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_739.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Raj_Music_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/739.mpd
@@ -345,6 +345,7 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://tnm3u.in.net/channel/malayalam.php?c=kozhikodevision
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest?cb=20200307083953" group-title="Malayalam",ASIANET MIDDLE EAST
+https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=699110417
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Kerala_Vision.jpeg/revision/latest?cb=20191228094530" group-title="Malayalam",KERALA VISION TV
@@ -461,7 +462,8 @@ https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f079
 #https://yuppftalive.akamaized.net/120723/smil:mazhavilmanoramainternational.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dp6BvWJ.png" group-title="Malayalam",KAIRALI ARABIA 
-http://live.geoiptv.org:8880/Avinash/RN89000/179200
+https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+#http://live.geoiptv.org:8880/Avinash/RN89000/179200
 #http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443051
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=kairali-arabia
 
@@ -533,6 +535,15 @@ https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/933237_1d60ef008f2d4e668964a5d33aea6a2e~mv2.png/v1/crop/x_0,y_0,w_3490,h_2480/fill/w_380,h_270,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/933237_1d60ef008f2d4e668964a5d33aea6a2e~mv2.png" group-title="Malayalam",C MALAYALAM
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="Malayalam",KALIKA TV
+http://server.applelive.in/kalikatv/kalikatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Malayalam",SWANTHAM
+http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yF2C4Dt.png" group-title="Malayalam",WAYANAD VISION
+https://cloudsavre.in.net/hls/stream.m3u8
 
 ==============================================================================================================================================
 TAMIL - தமிழ்
@@ -2480,13 +2491,15 @@ https://in1.sunilprasad.com.np/yuppLive/dd-india/master.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/ddindia/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png",BBC NEWS
-https://jmp2.uk/stvp-US4000033L
+#https://jmp2.uk/stvp-US4000033L
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png",AL JAZEERA
-https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #https://cdn-7.pishow.tv/live/429/master.m3u8
 #https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
