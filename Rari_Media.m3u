@@ -161,6 +161,7 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png?width=400",ASIANET NEWS
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
+#https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13737-amg13737c1-amgplt0016/c4f736a6-5bfc-11f1-bc65-2ec306e1e174/191/1024x576_4127609/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/180.mpd
 #https://mix.drmlive.net/mix/xiaomi-66219.m3u8
@@ -186,6 +187,7 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Mathrubhumi_News.jpg/revision/latest?cb=20240316150533",MATHRUBHUMI NEWS
 https://segment.yuppcdn.net/110322/mathrubhuminews/playlist.m3u8
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/515c7a83-e80d-4234-975e-02c411df2e54/0.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Mathrubhumi_News_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/780.mpd
 #https://live.drmlive-02.workers.dev/yupptv/fta/mathrubhumi-news.m3u8
@@ -231,7 +233,8 @@ https://segment.yuppcdn.net/140622/janamtv/playlist.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/janamtv/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png",TWENTY FOUR
-https://d2lt7hdvi7dvie.cloudfront.net/24news/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/tracks-v2a1/mono.m3u8
+#https://d2lt7hdvi7dvie.cloudfront.net/24news/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Twenty_Four_News_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1250.mpd
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=24
@@ -241,8 +244,8 @@ https://d2lt7hdvi7dvie.cloudfront.net/24news/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXLbVZu.jpeg" group-title="Malayalam",BIGTV 24x7
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s" group-title="Malayalam",N TV HD
-https://mars.streambridge.cloud/ntv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s" group-title="Malayalam",NTV HD
+https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Raj%20Musix%20Makayalam.png?updatedAt=1756790550654",RAJ MUSIX MALAYALAM
 https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
@@ -320,9 +323,9 @@ https://cdn-3.pishow.tv/live/1481/master.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=mediaone-tv
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Malayalam.png" group-title="Malayalam",NEWS MALAYALAM 24x7
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
 #https://live-cf-newsmalayalam24x7.dailyhunt.in/master.m3u8
-#https://cdn-3.pishow.tv/live/1629/master.m3u8
+https://cdn-3.pishow.tv/live/1629/master.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/newsmalayalam/master.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/News_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/3184.mpd
@@ -732,7 +735,7 @@ https://cdn-3.pishow.tv/live/1253/master.m3u8
 https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg/revision/latest?cb=20191225165506" group-title="Tamil",7S MUSIC
-https://mumt03.tangotv.in/7SMUSIC/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/tracks-v2a1/mono.m3u8
 #http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
 #http://202.164.50.194:8000/play/a026/index.m3u8
 #https://livectv3.phando.com/8050/playlist.m3u8
@@ -3325,23 +3328,6 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 TEST - പരീക്ഷണം 
 =========================================================================================================================================
 
-
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",ASIANET MOVIES HD Test
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovieshd_live_https/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",STAR MOVIES HD Test
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmovieshd_live_https/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",STAR MOVIES Test
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmovies_live_https/index.m3u8
-
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",STAR SPORTS 1 Test
-#EXTVLCOPT:http-referrer=https://tulnit.com
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starsports1_live_https/index.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-logo="",B4U Test
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10548
