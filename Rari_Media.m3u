@@ -17,7 +17,7 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#Last Update: 25/04/2026 📅
+#Last Update: 05/06/2026 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -583,8 +583,8 @@ https://keys.vodep39240327.workers.dev/?id=3269.mpd
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/ztamil332hd-03.png",Z TAMIL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://ze5.vodep39240327.workers.dev/channel/Zee Tamil HD.m3u8
-#https://la.drmlive.net/tp/zee5/zeetamil/index.m3u8
+#https://ze5.vodep39240327.workers.dev/channel/Zee Tamil HD.m3u8
+https://la.drmlive.net/tp/zee5/zeetamil/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
 #http://45.148.145.57/IN_ZEETAMILHD/tracks-v1a1/mono.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil/default/Zeetamil.m3u8
@@ -1261,30 +1261,33 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselect2/master.m3u8
 https://keys.vodep39240327.workers.dev/?id=461.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",SONY SPORTS TEN 1 HD
-https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
+#https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten1hd.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",SONY SPORTS TEN 2 HD
-https://sl.vodep39240327.workers.dev/channel/SONY TEN 2.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626&pass=61498d15
+#https://sl.vodep39240327.workers.dev/channel/SONY TEN 2.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 #https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",SONY SPORTS TEN 3 HD HINDI
-https://sl.vodep39240327.workers.dev/channel/SONY TEN 3.m3u8
+#https://sl.vodep39240327.workers.dev/channel/SONY TEN 3.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten3hd.m3u8
 #https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",SONY SPORTS TEN 4 HD TAMIL
-https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
+#https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten4hd.m3u8
 #https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",SONY SPORTS TEN 5 HD
-https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
+https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626&pass=61498d15
+#https://sl.vodep39240327.workers.dev/channel/SONY TEN 5 HD.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten5hd.m3u8
 #https://la.drmlive.net/tp/sliv.php?id=ten5hd
@@ -1663,9 +1666,10 @@ https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
 #https://github.com/rahul979854/Channels/raw/main/Willow2Hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-e1728946503266.png" group-title="Sports",WILLOW SPORTS HD
+https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+#https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest?cb=20180916123020" group-title="Sports",FOX CRICKET 501
 #https://m118753.protect-cdn.net/live/m1-index.m3u8
@@ -3340,21 +3344,37 @@ TEST - പരീക്ഷണം
 #EXTINF:-1 group-title="Test" tvg-logo="",B4U Test
 https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10548
 
+#EXTINF:-1 tvg-logo="" group-title="Test",Z THIRAI HD TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee5/224/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Test",Z BOLLY MOVIES TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-bollymovies.m3u8
+https://la.drmlive.net/tp/zee5/bollymovies/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Test",Z FAMILY TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-family.m3u8
+https://la.drmlive.net/tp/zee5/family/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Test",Z BOLLYWORLD TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-bollyworld.m3u8
+https://la.drmlive.net/tp/zee5/bollyworld/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Test",Z MAGIC TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-magic.m3u8
+https://la.drmlive.net/tp/zee5/magic/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Test",ASIANET NEWS TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee5/200/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="Test",UNITE8 SPORTS 1 HD TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://jt.drmlive.net/jiotvplus/1319.mpd
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Test",UNITE8 SPORTS 2 HD TEST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://jt.drmlive.net/jiotvplus/1322.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="",TV5 HD TEST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3370,10 +3390,6 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="ts246" tvg-logo="" group-title="Test",Asianet News Test (Z5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/200/index.m3u8
 
 #EXTINF:-1 tvg-id="ts463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Test",Asianet Movies HD Test
 #KODIPROP:inputstream.adaptive.license_type=clearkey
