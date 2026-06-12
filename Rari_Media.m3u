@@ -34,13 +34,20 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Asianet_hd.png/revision/latest/scale-to-width-down/1000?cb=20210520135950",ASIANET HD
-http://217.20.112.199/asianet/index.m3u8
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#http://217.20.112.199/asianet/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png",ASIANET USA
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",ASIANET PLUS
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/asianetplus/master.m3u8
+
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",ASIANET PLUS UK
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/200x200_SuryaTV_194398_010180e7-db04-4e2a-9b57-c81dfee73222.png",SURYA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -54,17 +61,15 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Zee%20Keralam%20HD.png?updatedAt=1756821211166",Z KERALAM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/129/index.m3u8
+https://www.techtraveleat.in/leo/live.m3u8?id=1641&format=.m3u8
+#https://la.drmlive.net/tp/zee5/129/index.m3u8
 #http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-129
 #https://live.drmlive-02.workers.dev/zee/129.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1641.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/Flowers_TV.jpg/revision/latest?cb=20240314203757",FLOWERS TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=634
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=634.mpd
+https://www.techtraveleat.in/leo/live.m3u8?id=634&format=.m3u8
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_634.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/flowertv/master.m3u8
@@ -87,7 +92,7 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/amritatv/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",KAIRALI TV
-https://mumt01.tangotv.in/KAIRALI/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_710.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Kairali_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/kairalitv/master.m3u8
@@ -103,6 +108,7 @@ https://segment.yuppcdn.net/050522/mazhavilmanorama/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Mazhavil_Manorama_HD.png/revision/latest/scale-to-width-down/1000?cb=20240320121443",MAZHAVIL MANORAMA HD
 https://cdn-7.pishow.tv/live/1129/master.m3u8
+https://mazhavil.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mm_https/index.m3u8
 #https://jt.drmlive.net/jiotvplus/844.mpd
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1129
 #https://live.dinesh29.com.np/stream/jiotvplus/mazhavilmanoramahd/master.m3u8
@@ -133,11 +139,11 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-movies-us
 #https://jt.drmlive.net/jiotvplus/459.mpd
 
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",ASIANET MOVIES USA
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Asianet_Movies_HD.png/revision/latest?cb=20211017153130",ASIANET MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=459
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=459.mpd
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",WE TV
 https://cdn-3.pishow.tv/live/1530/master.m3u8
@@ -213,11 +219,7 @@ https://in1.sunilprasad.com.np/yuppLive/jaihind-tv/master.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Raj%20News%20Malayalam.png?updatedAt=1756820670924",RAJ NEWS MALAYALAM
-https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=650
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://keys.vodep39240327.workers.dev/?id=650.mpd
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_650.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Raj_News_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/650.mpd
@@ -248,11 +250,8 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Raj%20Musix%20Makayalam.png?updatedAt=1756790550654",RAJ MUSIX MALAYALAM
-https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=739
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://keys.vodep39240327.workers.dev/?id=739.mpd
+#https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
+https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_739.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Raj_Music_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/739.mpd
@@ -334,6 +333,7 @@ https://cdn-3.pishow.tv/live/1629/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/darshanatv-black.png" group-title="Malayalam",DARSANA TV
 https://cdn-2.pishow.tv/live/1453/master.m3u8
+#https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/darshanatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/DD_Malayalam_2025_logo.png?20250126123439" group-title="Malayalam",DD MALAYALAM
@@ -350,7 +350,8 @@ https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=699110417
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Kerala_Vision.jpeg/revision/latest?cb=20191228094530" group-title="Malayalam",KERALA VISION TV
-https://in1.sunilprasad.com.np/yuppLive/kerala-vision/master.m3u8
+#https://in1.sunilprasad.com.np/yuppLive/kerala-vision/master.m3u8
+https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=keralavision
 #https://live.drmlive-02.workers.dev/yupptv/fta/keralavision.m3u8
 #http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/index.m3u8
@@ -439,7 +440,11 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 #https://jio.drmlive.net/jio/Real_News_Kerala/Real_News_Kerala_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJWfyfM.png" group-title="Malayalam",MALABAR NEWS 
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+https://logichost.keralive.workers.dev/live/malabarnews/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yJWfyfM.png" group-title="Malayalam",MALABAR PLUS
+https://logichost.keralive.workers.dev/live/mplus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ssMOeaj.png" group-title="Malayalam",ONE TV
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
@@ -449,6 +454,9 @@ https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam",PULARI CINEMA
 https://royalstarindia.co.in/cinematv_hls/cinematv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",VIBGYOR TV
+https://livestream.vibgyortv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/35095cc1ec4f4aa5c23dca6e6887b4d69324982976dadb911ddd4a9c5e4b4e86.png" group-title="Malayalam",DIVINE  
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
@@ -541,7 +549,8 @@ https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 http://server.applelive.in/kalikatv/kalikatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Malayalam",SWANTHAM
-http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+#http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+https://logichost.keralive.workers.dev/SWANTHAM/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yF2C4Dt.png" group-title="Malayalam",WAYANAD VISION
 https://cloudsavre.in.net/hls/stream.m3u8
@@ -1013,6 +1022,9 @@ https://ze5.vodep39240327.workers.dev/channel/&TV HD.m3u8
 https://jmp2.uk/stvp-GB3700007OZ
 #https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/andtv332-03.png",&TV HD USA
+https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
+
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/ztv332hd-03.png",Z TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee5/zeetvhd/index.m3u8
@@ -1020,10 +1032,7 @@ https://la.drmlive.net/tp/zee5/zeetvhd/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/Zeetvhd.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",COLORS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=144
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=144.mpd
+https://techtraveleat.in/leo/live.m3u8?id=144&format=.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Colors_HD_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorshd/master.m3u8
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
@@ -1098,6 +1107,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/life-ok-aud-white.png" group-title="Hindi",STAR BHARAT AU
 #https://live.drmlive-02.workers.dev/yupptv/premium/lifeokau.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/life-ok-aud-white.png" group-title="Hindi",STAR BHARAT HD USA
+https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.zee5.dev/wp-content/uploads/2025/05/bigmagic-new-z_332.png" group-title="Hindi",BIG MAGIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1898,14 +1910,14 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/TSN2_2014.svg", TSN 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=362202eefc5d9e42eec6450998cce9e8:978dfdd53186ec587d940e0bd1e2ec42
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715&key=4042e041b5639b79b69ae07a872eef9b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg", TSN 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af&key=a8198d17bf9b0da77450fbb919a38b2d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg", TSN 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -1915,8 +1927,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/TSN5_HD.svg",TSN 5 HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45&key=de2e2dbe818d78dfad07d6cd9a4c63d4
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5J2gFH_mFzD330RmYFdWmdqJ6r3QSKLen_g1GYSyVkFpAcHNrMvRkn1K&s=10" group-title="Sports",CRICBUZZ 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2046,37 +2058,25 @@ https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/Andpictureshd.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex.png",COLORS CINEPLEX
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=482
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=482.mpd
+https://techtraveleat.in/leo/live.m3u8?id=482&format=.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorscineplex/master.m3u8
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplex/JCHLS/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png?width=400",COLORS CINEPLEX HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1477
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=1477.mpd
+https://techtraveleat.in/leo/live.m3u8?id=1477&format=.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexhd/master.m3u8
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",COLORS CINEPLEX BOLLYWOOD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1763
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=1763.mpd
+https://techtraveleat.in/leo/live.m3u8?id=1763&format=.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Colors_Cineplex_Bollywood_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",COLORS CINEPLEX SUPERHITS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1450
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=1450.mpd
+https://techtraveleat.in/leo/live.m3u8?id=1450&format=.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Rishtey_Cineplex_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
@@ -2096,6 +2096,7 @@ https://mix.drmlive.net/mix/xiaomi-66226.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
 https://sl.vodep39240327.workers.dev/channel/SONY PIX HD.m3u8
+#https://b4uplay.com/sliv/stream.m3u8?id=1000009258
 #https://dai.google.com/linear/hls/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
@@ -2449,6 +2450,13 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 #EXTINF: -1 group-title="Movies" tvg-logo="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-25048,resizemode-75,msid-123659275/industry/media/entertainment/media/shemaroo-launches-hindi-movie-channel-josh.jpg",SHEMAROO JOSH
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil%3ashemarooChumbakTVadp.smil/playlist.m3u8
 
+#EXTINF: -1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210203142657",SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+
+#EXTINF: -1 group-title="Movies" tvg-logo="hhttps://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest/scale-to-width-down/1000?cb=20190917082854",SONY MOVIES
+https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
+
+
 ==================================================================================================================================
 News - വാർത്ത 
 ==================================================================================================================================
@@ -2552,10 +2560,12 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69827-l1dh5izk-v1/imageContent-69827-l1dh5izk-m1.png",NHK WORLD JAPAN
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 #https://cdn-7.pishow.tv/live/455/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",CNN 
 https://jmp2.uk/stvp-GBBD8000016N
+#https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/CNN_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/cnn/master.m3u8
 
@@ -2659,11 +2669,8 @@ https://keys.vodep39240327.workers.dev/?id=1145.mpd
 #https://drmlive.in/voot/web/1145.m3u8
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png",MTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=248
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=248.mpd
+#EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png",MTV INDIA
+https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/MTV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/mtv/master.m3u8
 #https://webott.viatv.com.np/v0t1/MTV.stream/playlist.m3u8
@@ -2801,6 +2808,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PoSxc+iZchD9JwtwKUkang", "kid":"K06HO8k+/5WbojLh+gFvEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/127/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="Music" ,EVERGREEN HITS
+https://mumt07.tangotv.in/zHjX9OFlEVERGREENHITS2/tracks-v2a1/mono.m3u8
 
 ======================================================================================================================================
 KIDS CARTOON - കാർട്ടൂൺ 
@@ -2979,10 +2989,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/
 https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
 
 #EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Kids",NICK MALAYALAM 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1340
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=1340.mpd
+https://www.techtraveleat.in/leo/live.m3u8?id=1340&format=.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Nick_Mal_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/nickmal/master.m3u8
 
@@ -3065,8 +3072,8 @@ https://jmp2.uk/stvp-IN3900010TD
 https://jmp2.uk/stvp-IN3000010V5
 #https://mix.drmlive.net/mix/xiaomi-66200.m3u8
 
-#EXTINF: tvg-logo="" group-title="Kids", TOM & JERRY
-http://thksmom.shop/tojVOD24/7/index.m3u8?token=4080f9682a21a284d05d7c415714abcd
+#EXTINF: tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Tom_and_jerry.png/revision/latest?cb=20190509205116" group-title="Kids", TOM & JERRY
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 ==============================================================================================================================================
 KNOWLEDGE - അറിവ് 
@@ -3348,40 +3355,34 @@ TEST - പരീക്ഷണം
 =========================================================================================================================================
 
 
-#EXTINF:-1 group-title="Test" tvg-logo="",B4U Test
-https://mix.drmlive.net/mix/playboxtv.m3u8?id=PBha-10548
 
 #EXTINF:-1 tvg-logo="" group-title="Test",Z THIRAI HD TEST
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/zee5/224/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Test",Z BOLLY MOVIES TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/bollymovies/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",REPORTER TV TEST
+https://keralive.com/yupp/tv.m3u8?c=reporter-tv&e=.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Test",Z FAMILY TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/family/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",KAIRALI TV TEST
+https://keralive.com/yupp/tv.m3u8?c=kairali-tv&e=.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Test",Z BOLLYWORLD TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/bollyworld/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",ASIANET TV TEST
+https://keralive.com/yupp/tv.m3u8?c=asianet-tv&e=.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Test",Z MAGIC TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/magic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test", TEST 1
+https://www.techtraveleat.in/leo/live.m3u8?id=1639&format=.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Test",ASIANET NEWS TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/200/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Test",TEST 2
+https://www.techtraveleat.in/leo/live.m3u8?id=1638&format=.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="Test",UNITE8 SPORTS 1 HD TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://jt.drmlive.net/jiotvplus/1319.mpd
+#EXTINF:-1 tvg-logo="" group-title="Test",TEST 3
+https://www.techtraveleat.in/leo/live.m3u8?id=1637&format=.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Test",UNITE8 SPORTS 2 HD TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://jt.drmlive.net/jiotvplus/1322.mpd
+#EXTINF:-1 tvg-logo="" group-title="Test",TEST 4
+https://www.techtraveleat.in/leo/live.m3u8?id=1636&format=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Test",TEST 5
+https://www.techtraveleat.in/leo/live.m3u8?id=1635&format=.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-logo="",TV5 HD TEST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
