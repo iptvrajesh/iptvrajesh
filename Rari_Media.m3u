@@ -17,7 +17,7 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#Last Update: 05/06/2026 📅
+#Last Update: 13/06/2026 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -26,20 +26,18 @@ MALAYALAM - മലയാളം
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png",ASIANET
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1118
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://keys.vodep39240327.workers.dev/?id=1118.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/asianet/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Asianet_hd.png/revision/latest/scale-to-width-down/1000?cb=20210520135950",ASIANET HD
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_hd_live_https/index.m3u8
 #http://217.20.112.199/asianet/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png",ASIANET USA
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianet_us_https/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",ASIANET PLUS
 #EXTVLCOPT:http-referrer=https://tulnit.com
@@ -47,7 +45,8 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #https://live.dinesh29.com.np/stream/jiotvplus/asianetplus/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",ASIANET PLUS UK
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_uk_https/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/200x200_SuryaTV_194398_010180e7-db04-4e2a-9b57-c81dfee73222.png",SURYA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -61,8 +60,7 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Zee%20Keralam%20HD.png?updatedAt=1756821211166",Z KERALAM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://www.techtraveleat.in/leo/live.m3u8?id=1641&format=.m3u8
-#https://la.drmlive.net/tp/zee5/129/index.m3u8
+https://la.drmlive.net/tp/zee5/129/index.m3u8
 #http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-129
 #https://live.drmlive-02.workers.dev/zee/129.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
@@ -131,19 +129,17 @@ https://keys.vodep39240327.workers.dev/?id=1754.mpd
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",ASIANET MOVIES
 #EXTVLCOPT:http-referrer=https://tulnit.com
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1153
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://keys.vodep39240327.workers.dev/?id=1153.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/asianetmovies/master.m3u8
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=asianet-movies-us
 #https://jt.drmlive.net/jiotvplus/459.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",ASIANET MOVIES USA
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_us_https/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Asianet_Movies_HD.png/revision/latest?cb=20211017153130",ASIANET MOVIES HD
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTVLCOPT:http-referrer=https://tulnit.com
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_hd_live_https/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",WE TV
 https://cdn-3.pishow.tv/live/1530/master.m3u8
@@ -290,7 +286,8 @@ https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="Malayalam",REPORTER TV
 #https://live-cf-reportertv.dailyhunt.in/master.m3u8
 #https://cdn-2.pishow.tv/live/1510/master.m3u8
-https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+#https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
+https://yuppmumfta2.vgcdn.net/230226/reporter1/chunks.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Reporter_TV_MOB/Fallback/index.m3u8
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1510
 #https://live.dinesh29.com.np/stream/jiotvplus/reportertv/master.m3u8
@@ -346,7 +343,10 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 https://tnm3u.in.net/channel/malayalam.php?c=kozhikodevision
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest?cb=20200307083953" group-title="Malayalam",ASIANET MIDDLE EAST
-https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0c3d8692a6a574e9a731ff7ed7ca7fe:87eed062e3b13bd639f5cba89b83ea33
+https://login.bheem.tv/bpk-tv/22389/output/index.mpd
+#https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=699110417
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Kerala_Vision.jpeg/revision/latest?cb=20191228094530" group-title="Malayalam",KERALA VISION TV
@@ -662,14 +662,12 @@ https://keys.vodep39240327.workers.dev/?id=417.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/jmovies/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/05/zthirai166hd.png" group-title="Tamil",Z THIRAI HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://ze5.vodep39240327.workers.dev/channel/Zee Thirai HD.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee5/224/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/zee5/224/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zthirai332-03.png",Z THIRAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://ze5.vodep39240327.workers.dev/channel/Zee Thirai.m3u8
+#https://ze5.vodep39240327.workers.dev/channel/Zee Thirai.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://la.drmlive.net/tp/zee5/224/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/224.m3u8
@@ -998,9 +996,9 @@ https://keys.vodep39240327.workers.dev/?id=931.mpd
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",SONY SET HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://217.20.112.199/sethd/index.m3u8
-#https://la.drmlive.net/tp/sliv-sony.m3u8
+https://la.drmlive.net/tp/sliv-sony.m3u8
 #https://live.drmlive-02.workers.dev/sliv/sony.m3u8
+#http://217.20.112.199/sethd/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",SONY SAB HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -1009,12 +1007,13 @@ https://la.drmlive.net/tp/sliv-sab.m3u8
 http://217.20.112.199/sabtvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="Hindi",SONY KAL
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/playlist.m3u8
+#https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/andtv332hd-03.png",&TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://ze5.vodep39240327.workers.dev/channel/&TV HD.m3u8
-#https://la.drmlive.net/tp/zee5/tvhd_0/index.m3u8
+#https://ze5.vodep39240327.workers.dev/channel/&TV HD.m3u8
+https://la.drmlive.net/tp/zee5/tvhd_0/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/Andtvhd.m3u8
 
@@ -1049,8 +1048,8 @@ https://keys.vodep39240327.workers.dev/?id=1143.mpd
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/07/anmoltv_z_166.png",Z ANMOL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://ze5.vodep39240327.workers.dev/channel/Zee Anmol.m3u8
-#https://la.drmlive.net/tp/zee-zeeanmol.m3u8
+#https://ze5.vodep39240327.workers.dev/channel/Zee Anmol.m3u8
+https://la.drmlive.net/tp/zee5/zeeanmol/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/Zeeanmol.m3u8
 
@@ -2043,6 +2042,9 @@ https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="Movies",GOLDMINES 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="Movies",GOLDMINES BOLLYWOOD
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/andpicktures332hd-03.png",&PICTURES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://ze5.vodep39240327.workers.dev/channel/&Pictures.m3u8
@@ -2095,20 +2097,28 @@ https://mix.drmlive.net/mix/xiaomi-66226.m3u8
 #https://cdn-2.pishow.tv/live/227/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/sliv-pix.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY PIX HD.m3u8
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009258
 #https://dai.google.com/linear/hls/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
-https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/sliv-wah.m3u8
+#https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/sliv-maxhd.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY MAX HD.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-id="ts120" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",SONY MAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://la.drmlive.net/tp/sliv-max2.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY MAX 2.m3u8
 #https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
@@ -3075,6 +3085,9 @@ https://jmp2.uk/stvp-IN3000010V5
 #EXTINF: tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Tom_and_jerry.png/revision/latest?cb=20190509205116" group-title="Kids", TOM & JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
+#EXTINF: tvg-logo="" group-title="Kids", OGGY & COCKROACHES
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+
 ==============================================================================================================================================
 KNOWLEDGE - അറിവ് 
 ==============================================================================================================================================
@@ -3355,78 +3368,15 @@ TEST - പരീക്ഷണം
 =========================================================================================================================================
 
 
+#EXTINF:-1 group-title="Test" tvg-logo="",Star Plus HD USA Test
+https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Test",Z THIRAI HD TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/224/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",REPORTER TV TEST
-https://keralive.com/yupp/tv.m3u8?c=reporter-tv&e=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",KAIRALI TV TEST
-https://keralive.com/yupp/tv.m3u8?c=kairali-tv&e=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",ASIANET TV TEST
-https://keralive.com/yupp/tv.m3u8?c=asianet-tv&e=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test", TEST 1
-https://www.techtraveleat.in/leo/live.m3u8?id=1639&format=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",TEST 2
-https://www.techtraveleat.in/leo/live.m3u8?id=1638&format=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",TEST 3
-https://www.techtraveleat.in/leo/live.m3u8?id=1637&format=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",TEST 4
-https://www.techtraveleat.in/leo/live.m3u8?id=1636&format=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",TEST 5
-https://www.techtraveleat.in/leo/live.m3u8?id=1635&format=.m3u8
-
-#EXTINF:-1 group-title="Test" tvg-logo="",TV5 HD TEST
+#EXTINF:-1 group-title="Test" tvg-logo="",Z Anmol Test
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/main.mpd
 
-#EXTINF:-1 group-title="Test" tvg-logo="",Warner Test
+#EXTINF:-1 group-title="Test" tvg-logo="",Star Gold HD Test
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="",Star Movies Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
-https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="ts463" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="Test",Asianet Movies HD Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=459
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=459.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Test",Set HD Test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/sliv-sony.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Test",Sony Ten1 HD Test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/sliv-ten1hd.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9dd4aa4accd53188659c4a7b45bd8c4:920ff1a99835cfeb26d4c0db04ee58bd
-#EXTVLCOPT:http-user-agent=JioTV.Plus/2.1.0_3012 (Linux;Android 9) ExoPlayerLib/2.18.1
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_list/360x2036de81d431bca4dceaeaebc6d17be4fa6" group-title="Test", Zee Tamil HD Test
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTamilHD_MOB/WDVLive/index.mpd
-
-#EXTINF:-1 tvg-logo="" group-title="Test",Z Thirai Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=3051
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=3051.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12086-j9od8wxc-v1/imageContent-12086-j9od8wxc-m1.png",Star Movies HD Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
-#EXTVLCOPT:http-user-agent=StreamFlex/7.1.3 (Linux;Android 13) StreamFlex/69.1 ExoPlayerLib/824.0
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
+https://delta45tatasky.akamaized.net/out/i/1633.mpd
