@@ -291,8 +291,8 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Raj%20Musix%20Makayalam.png?updatedAt=1756790550654",RAJ MUSIX MALAYALAM
+http://103.159.180.34:5001/live/739.m3u8
 #https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
-https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 #https://mini.allinonereborn.fun/jiotv-in/app/ts_live_739.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Raj_Music_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/739.mpd
@@ -712,10 +712,7 @@ https://keys.vodep39240327.workers.dev/?id=429.mpd
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",KALAIGNAR TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1209
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=1209.mpd
+https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Kalaignar_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/kalaignartv/master.m3u8
 
@@ -1193,6 +1190,7 @@ https://la.drmlive.net/tp/sliv-pal.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png",SHEMAROO TV
 https://cdn-3.pishow.tv/live/230/master.m3u8
+#https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Shemaroo_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/shemarootv/master.m3u8
 
@@ -2149,17 +2147,15 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zclassic332-03.png",Z CLASSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://ze5.vodep39240327.workers.dev/channel/Zee Classic.m3u8
+http://103.159.180.34:5001/live/1691.m3u8
 #https://la.drmlive.net/tp/zee5/176/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/176.m3u8
-#http://192.168.1.6:8080/live.php?id=1691&key=JITENDRAUNATTI&e=.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zaction332-03.png",Z ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
-#https://ze5.vodep39240327.workers.dev/channel/Zee Action.m3u8
 #https://la.drmlive.net/tp/zee5/zeeaction/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #http://192.168.1.6:8080/live.php?id=488&key=JITENDRAUNATTI&e=.m3u8
@@ -2911,9 +2907,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #https://live.drmlive-02.workers.dev/yupptv/premium/9xm.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png",ZOOM
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
 #https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zoom_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/zoom/master.m3u8
@@ -2936,10 +2933,11 @@ https://jmp2.uk/stvp-IN1700003HF
 #https://segment.yuppcdn.net/110322/mastii/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://assets.zee5.dev/wp-content/uploads/2025/05/zing_2_332-03.png",ZING
+http://103.159.180.34:5001/live/585.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #https://la.drmlive.net/tp/zee-zing.m3u8
 #https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/Zing.m3u8
@@ -3059,6 +3057,9 @@ https://mumt03.tangotv.in/Dsly5z3HCLASSICHITS/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music",DEEWANA HD
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BOLLYRAGA
+https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
 ======================================================================================================================================
 KIDS CARTOON - കാർട്ടൂൺ 
@@ -3311,9 +3312,12 @@ https://jmp2.uk/stvp-IN3900010TD
 #EXTINF: tvg-logo="" group-title="Kids", BEANI KIDS
 #https://www.xfireflix.fun/yupptv/stream.php?id=beani-kids-tv
 
-#EXTINF: tvg-logo="" group-title="Kids", MR BEAN 
-https://jmp2.uk/stvp-IN3000010V5
+#EXTINF: tvg-logo="" group-title="Kids", MR BEAN LIVE ACTION
+https://jmp2.uk/stvp-GB4000008O5
 #https://mix.drmlive.net/mix/xiaomi-66200.m3u8
+
+#EXTINF: tvg-logo="" group-title="Kids", MR BEAN ANIMATED
+https://jmp2.uk/stvp-GB900003KR
 
 #EXTINF: tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Tom_and_jerry.png/revision/latest?cb=20190509205116" group-title="Kids", TOM & JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -3536,7 +3540,8 @@ https://viamotionhsi.netplus.ch/live/eds/dmax/browser-dash/dmax.mpd
 
 #EXTINF:-1 tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zzest332hd-03.png" group-title="Lifestyle",Z ZEST HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee-348.m3u8
+http://103.159.180.34:5001/live/2757.m3u8
+#https://la.drmlive.net/tp/zee-348.m3u8
 #https://live.drmlive-02.workers.dev/zee/348.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN26000147D_20250625T011521SQUARE.png&h=250" group-title="Lifestyle",COLORS INFINITY LITE 
@@ -3581,18 +3586,8 @@ https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zworld-332-03.png" group-title="Others",Z WORLD
 https://da6c334e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9aZWVXb3JsZF9ITFM/playlist.m3u8
 
-#EXTINF:-1 group-title="Others" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS96LtAvdcxCAt3e5k1tKXF7E2Zzxan7cnOA&usqp=CAU" ch-number="549",ASTRO LOVE NATURE 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"btySxJvoTKei8ye+r7zK5g", "kid":"Gv3K9BmL/TIAWERp/D5REA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5097/default_ott.mpd
-#https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/Love-Nature_190x80_TV-Guide.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Others",ASTRO LOVE NATURE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d1plTAYQgRrQIjKaaIhN4Q", "kid":"FovYFUaGOf5FKLS/AUHzEA" } ], "type":"temporary" }
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
+#EXTINF:-1 group-title="Others" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS96LtAvdcxCAt3e5k1tKXF7E2Zzxan7cnOA&usqp=CAU" ch-number="549",LOVE NATURE 4K
+https://jmp2.uk/stvp-USBA3400003IP
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Others",LOUPE 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
