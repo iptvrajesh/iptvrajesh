@@ -80,7 +80,8 @@ https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_i
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Zee%20Keralam%20HD.png?updatedAt=1756821211166",Z KERALAM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/129/index.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-129/index.m3u8
+#https://la.drmlive.net/tp/zee5/129/index.m3u8
 #http://mini.allinonereborn.fun/zee_paid/index.php?id=0-9-129
 #https://live.drmlive-02.workers.dev/zee/129.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
@@ -385,7 +386,7 @@ https://login.bheem.tv/bpk-tv/22389/output/index.mpd
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=699110417
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dp6BvWJ.png" group-title="Malayalam",KAIRALI ARABIA 
-https://mumt03.tangotv.in/KAIRALIARABIA/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #http://live.geoiptv.org:8880/Avinash/RN89000/179200
 #http://93.119.105.61/play/live.php?extension=ts&mac=00:1A:79:00:28:53&play_token=FPh4kuMnod&stream=443051
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=kairali-arabia
@@ -685,12 +686,16 @@ https://keys.vodep39240327.workers.dev/?id=3269.mpd
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/ztamil332hd-03.png",Z TAMIL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-http://103.159.180.34:5001/live/628.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeetamil/index.m3u8
+#http://103.159.180.34:5001/live/628.m3u8
 #https://ze5.vodep39240327.workers.dev/channel/Zee Tamil HD.m3u8
 #https://la.drmlive.net/tp/zee5/zeetamil/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeetamil.m3u8
 #http://45.148.145.57/IN_ZEETAMILHD/tracks-v1a1/mono.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetamil/default/Zeetamil.m3u8
+
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/ztamil332hd-03.png",Z TAMIL
+https://zati5.hasanhabibmottakin.workers.dev/0-9-9z5383487/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",JAYA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -751,7 +756,8 @@ https://login.bheem.tv/bpk-tv/22373/output/index.mpd
 
 #EXTINF:-1 tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/05/zthirai166hd.png" group-title="Tamil",Z THIRAI HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://la.drmlive.net/tp/zee5/224/index.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-224/index.m3u8
+#https://la.drmlive.net/tp/zee5/224/index.m3u8
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zthirai332-03.png",Z THIRAI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
@@ -1133,15 +1139,17 @@ https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zee_TV_2025.svg/revision/latest?cb=20250608214903",Z TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeetv/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed068cf84f0640ccbc7c0e395c0a272e:bb722190f2bb446391020411a7d0828b
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/main.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetv/default/main.mpd
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/ztv332hd-03.png",Z TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://zati5.hasanhabibmottakin.workers.dev/0-9-9z5383487/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
 #http://103.159.180.34:5001/live/167.m3u8
 #https://la.drmlive.net/tp/zee5/zeetvhd/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
@@ -2071,12 +2079,14 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="Sports",UNITE8 SPORTS 1 HD
-https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+#https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://la.drmlive.net/tp/zee5/zeecafehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Sports",UNITE8 SPORTS 2 HD
-https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871
+https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
+#https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg", TSN 4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -2094,11 +2104,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #https://live12.xiazhix1.top/live/85042987.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 1 HD
-https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+#https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://la.drmlive.net/tp/zee5/zeecafehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 2 HD
+https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsoBlgG2tKXPLYbJVEreO9jzC8uVPTkyJhkSCx8jHcDQ&s=10",BIOSCOPE+ 
@@ -2134,6 +2146,9 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",TELEMUNDO (SPANISH)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",SOMOY TV
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+
 
 =====================================================================================================================================
 Movies - സിനിമ 
@@ -2153,10 +2168,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/Zeecinemahd.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zcinema332-03.png",Z CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/masterSportsLover.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
 #https://ze5.vodep39240327.workers.dev/channel/Zee Cinema.m3u8
 #https://la.drmlive.net/tp/zee5/zeecinema/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeecinema.m3u8
@@ -2258,6 +2274,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#http://103.159.180.34:5001/live/185.m3u8
 #https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8
 #https://la.drmlive.net/tp/zee5/tvpictureshd/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
@@ -2385,10 +2402,8 @@ https://keys.vodep39240327.workers.dev/?id=1125.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_HD.png",STAR GOLD HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=156
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=156.mpd
-#https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
+#KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
+https://delta45tatasky.akamaized.net/out/i/1633.mpd#https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Gold_2.png" group-title="Movies",STAR GOLD 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3654,12 +3669,153 @@ TEST - പരീക്ഷണം
 =========================================================================================================================================
 
 
-#EXTINF:-1 group-title="Test" tvg-logo="",Star Gold HD Test
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f715e0e16cf4b20bc94f6f85023974b:516785ded0aee1dafae22e2874528b2a
-https://delta45tatasky.akamaized.net/out/i/1633.mpd
+#EXTINF:-1 group-title="Test" tvg-logo="",Z Cinema HD Test
+http://103.159.180.34:5001/live/165.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="",Z Test
-http://103.159.180.34:5001/live/722.m3u8
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/189/189_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/702/702_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/194/194_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/7/7_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/9/9_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/12/12_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/13/13_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/270/270_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/134/134_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/326/326_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/327/327_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/127/127_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/130/130_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/322/322_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/128/128_0.m3u8
 
 
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/320/320_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/323/323_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/321/321_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/129/129_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/150/150_0.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Test 21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+http://103.175.73.12:8080/live/149/149_0.m3u8
