@@ -204,7 +204,8 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png?width=400",ASIANET NEWS
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13737-amg13737c1-amgplt0016/c4f736a6-5bfc-11f1-bc65-2ec306e1e174/191/1024x576_4127609/index.m3u8
-https://jmp2.uk/stvp-IN800012RO
+#https://jmp2.uk/stvp-IN800012RO
+#https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Asianet_News_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/180.mpd
 #https://mix.drmlive.net/mix/xiaomi-66219.m3u8
@@ -334,7 +335,8 @@ https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
 #https://live-cf-reportertv.dailyhunt.in/master.m3u8
 #https://cdn-2.pishow.tv/live/1510/master.m3u8
 #https://segment.yuppcdn.net/050522/reporter/playlist.m3u8
-https://yuppmumfta2.vgcdn.net/230226/reporter1/chunks.m3u8
+#https://yuppmumfta2.vgcdn.net/230226/reporter1/chunks.m3u8
+http://103.159.180.34:5001/live/1408.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Reporter_TV_MOB/Fallback/index.m3u8
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=pishow-1510
 #https://live.dinesh29.com.np/stream/jiotvplus/reportertv/master.m3u8
@@ -360,7 +362,8 @@ https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Malayalam.png" group-title="Malayalam",NEWS MALAYALAM 24x7
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
 #https://live-cf-newsmalayalam24x7.dailyhunt.in/master.m3u8
-https://cdn-3.pishow.tv/live/1629/master.m3u8
+#https://cdn-3.pishow.tv/live/1629/master.m3u8
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/newsmalayalam/master.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/News_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/3184.mpd
@@ -382,7 +385,7 @@ https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0c3d8692a6a574e9a731ff7ed7ca7fe:87eed062e3b13bd639f5cba89b83ea33
 https://login.bheem.tv/bpk-tv/22389/output/index.mpd
-#https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
+#https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #https://mix.drmlive.net/mix/playboxtv.m3u8?id=699110417
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dp6BvWJ.png" group-title="Malayalam",KAIRALI ARABIA 
@@ -647,6 +650,9 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Malayalam",MEDIA VISION TV
 https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GlobeonTelevision.png" group-title="Malayalam", GLOBEON TELEVISION
+http://103.159.180.34:5001/live/3565.m3u8
 
 
 ==============================================================================================================================================
@@ -1048,6 +1054,9 @@ https://stream.ottlive.co.in/subintvtamil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/SUBIN-1775855173563.jpg" group-title="Tamil",THARUN MOVIES HD
 https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
+
+#EXTINF:-1  group-title="Tamil" tvg-logo="",UTV HD
+https://stream.ottlive.co.in/utvtamil/index.m3u8
 
 ===========================================================================================================================================
 HINDI - हिंदी
@@ -1764,8 +1773,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a93c1cbfdccd23233bac13540c693e7f:2f6ab2e6693eb847eff3c9da8f9d01fc
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/V2.0/new/tnt4.png",TNT SPORTS 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2129,6 +2138,7 @@ https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 2 HD SUNDIRECT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ef9ad824df31b59ccf642a6de56a98:85dfbeca61d2000d18dc01a7b5a38800
+https://mix.drmlive.net/mix/engUnite82.mpd
 https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",FOX HDR10 4K
@@ -2153,6 +2163,27 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",SOMOY TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",VTV 10
+https://vtv-veitnam.keralive.workers.dev/vtvgo/vtv6-manifest.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",
+https://fawatv.online/live/F2E62CEFFF6C6F88C237BD9DF4957C35/667.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",FOX SPORTS
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",BEIN SPORTS
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",BEIN SPORTS MAX 2
+https://yaciretv.live:8080/max22/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",TNT SPORTS PREMIUM
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",D SPORTS
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
 
 =====================================================================================================================================
@@ -2483,6 +2514,12 @@ https://la.drmlive.net/tp/zee-209.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
 
+#EXTINF:-1 group-title="Movies" tvg-logo="",CINEMAX 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_cinemax_2/playlist_cbcs.mpd
+
 #EXTINF:-1 group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",ASTRO SHOWCASE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
@@ -2536,6 +2573,16 @@ http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a6c2f1e9d7b4c5aa1f04d2b7e9c1f88:05e6bfa4b6805c46b772f35326b26b36
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",AXN WHITE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_axn_white/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="Movies" tvg-logo="",AXN BLACK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_axn_black/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Thrill_logo.svg/1200px-Thrill_logo.svg.png" group-title="Movies",ASTRO THRILL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2733,6 +2780,9 @@ https://mumt01.tangotv.in/O5aw8Zn3HollywoodBW/tracks-v2a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
 https://zap-live1-ott.izzigo.tv/15/out/u/dash/HBO-POP-HD/default.mpd
 
+#EXTINF: -1 group-title="Movies" tvg-logo="",FAWESOME HORROR
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5388
+
 ==================================================================================================================================
 News - വാർത്ത 
 ==================================================================================================================================
@@ -2830,9 +2880,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-312-j5jjsfhs-v1/imageContent-312-j5jjsfhs-m1.png",RUSSIA TODAY
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#https://streams2.sofast.tv/ptnr-khabriya/title-RT_News_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f0357f5-9372-4de4-85e2-cf9773440958/master.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69827-l1dh5izk-v1/imageContent-69827-l1dh5izk-m1.png",NHK WORLD JAPAN
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/e52230f79050aa333c4ac6430f40a08f0898e6ec1c43d5cb9bcb82f9573797c4/v2.m3u8
 #https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 #https://cdn-7.pishow.tv/live/455/master.m3u8
 
@@ -3453,11 +3505,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 #https://jio.drmlive.net/jio/bpk-tv/Animal_Planet_HD_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/animalplanethd/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="Knowledge",ASTRO BBC EARTH 
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="Knowledge",BBC EARTH 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uxvbJ8xf4exjfSV5mTRMww", "kid":"2/Yv8IBLxbjVI+8AnXhjEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Science.png",DISCOVERY SCIENCE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3553,8 +3605,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/travelxphd/master.m3u8
 #https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png",TRAVEL 4K 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#https://streams2.sofast.tv/ptnr-yupptv/title-4K-TRAVEL-TV-ENG_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/3d3b06ca-1ef5-4cb1-8f56-ac7b55472aac/40c15888-9c1d-4662-8ba4-35c0f16d378c/1.m3u8
+https://streams2.sofast.tv/ptnr-lgtv/title-4K-TRAVEL-TV-ENG_LG/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f92ab8c4-4897-46ad-8da0-d09d4a9bb25f/manifest.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/PUe61Ov.png",ASTRO ASIAN FOOD NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3679,3 +3730,11 @@ http://103.159.180.34:5001/live/165.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-logo="",Z Bangla Sonar Test
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Discovery Test
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Fox Sports Test
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
