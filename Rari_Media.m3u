@@ -362,8 +362,9 @@ https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Malayalam.png" group-title="Malayalam",NEWS MALAYALAM 24x7
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-malayalam-24x7/index.m3u8
 #https://live-cf-newsmalayalam24x7.dailyhunt.in/master.m3u8
-#https://cdn-3.pishow.tv/live/1629/master.m3u8
-https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
+https://cdn-3.pishow.tv/live/1629/master.m3u8
+#http://103.159.180.34:5001/live/3184.m3u8
+#https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cdb96065-b754-4c59-93c0-fe73f482439e/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/newsmalayalam/master.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/News_Malayalam_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/3184.mpd
@@ -1457,10 +1458,7 @@ https://keys.vodep39240327.workers.dev/?id=1294.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/eurosport/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",EUROSPORT HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=875
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://keys.vodep39240327.workers.dev/?id=875.mpd
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/eurosporthd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" group-title="Sports",FANCODE 24/7
@@ -1715,6 +1713,7 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=00056d5c8882917a4463d5b42ba86c31:226c39dd7d41b6f0e27cb7d8940f644f
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 #http://link.luckonline.eu/live/0c:89:10:e8:1c:d4/869/2480.ts
 #https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
 
@@ -1830,9 +1829,8 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlis
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest?cb=20180916123020" group-title="Sports",FOX CRICKET 501
-#https://m118753.protect-cdn.net/live/m1-index.m3u8
-#https://kayo-live-814bffb9b389f652.akamaized.net/out/v1/f0fa096a50d8445d8be21c233d2a8172/FSA_501_HD_SE/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest?cb=20180916123020" group-title="Sports",FOX CRICKET 501 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thepapare.com/wp-content/uploads/TP_Logo_01.png" group-title="Sports",THE PAPARE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2099,7 +2097,8 @@ https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
 #https://la.drmlive.net/tp/zee5/zeecafehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Sports",UNITE8 SPORTS 2 HD
-https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 #https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg", TSN 4 HD
@@ -2124,11 +2123,9 @@ https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
 #https://la.drmlive.net/tp/zee5/zeecafehd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 2 HD
-https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
+http://212.102.34.8:9080/AndFlixHD/video.m3u8
+#https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsoBlgG2tKXPLYbJVEreO9jzC8uVPTkyJhkSCx8jHcDQ&s=10",BIOSCOPE+ 
-#https://d1voy022wjnlk0.bioscopelive.com/out/v1/0bbe405e711143b8af5ee21b80b5b0cc/index.m3u8|x-authorization=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzJkYjE1MjJmMDU0ZDg1Yzc3NmFmZjlkNDU2NjcxODNlNmZlNWNjYWUwYjAwNWI1OTVhMTAxY2RmNDNlYmIyY2YzMTBiZDExMTZlOTQ4YjEiLCJpYXQiOjE3ODA3OTcxMzEuNTQwNDAxLCJuYmYiOjE3ODA3OTcxMzEuNTQwNDAzLCJleHAiOjE4MTIzMzMxMzEuNTM1MDMyLCJzdWIiOiIxODAwMDA4NDg5MDA2NjUzNDQiLCJzY29wZXMiOlsibWFuYWdlX3Byb2ZpbGVzIl19.a6GUyqbwLfixROwUhNTzaYrrYBgVR6FHI_40FpjZ9l7P20WHcv-7AbEz-XPYhGnb1Q9JHAKdMA9pBY1Od2UZsYeEw6f7Myjc0VK2kqqXdagwHTlIHvHwxkoTVfpagQNiJF4ffJZ_6j87aCR6PEUEuTWQwjnLjbnvBpu0cgLUr5p56sHGm0mGV_vbIFirvZHVYwxLZGjBmo-njpfZcvuQPq5sUT3n-j4VNX4sh8tsvaAJaqlXLnq-DIGTBGNu9efsHNTiMzFUk5gEOYlWnNGewcbsuDsP3QFINeUBRzjBP9bPXjHfv5tmvKfQaExPZgFpxpWpZyQ5PZnmuxvWawNMKLBGV3qWqNPeVc1Fphhac3vloTNtMK5UP7EZtDRUQoJWra1irCMYn0ao1oEzfrtinhw038aNSe9z5EmF_tCi0XnQigVJM_XLwmgWbVxsWq92iC3HU2dHcelqMNiFk9gMleKIgGVA2sDeLfNsM0pco8656R7TySgSBycVvTyyU4_G1QVafpmPp5Lcmhi4KxVBAOAhY5iy0ZLDC4jO366wy_5yguY7sVPb6JWiUATVcBsLbvIPmgM9laQEZttxLMPHpnlPwUGljip5J61E235GXAV-WStahGaagjgja7dDRFwPVzvlMzSX9S7MpyVyRejmre60x8HvXkgCLhEfEn027YM
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 1 HD SUNDIRECT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2141,13 +2138,6 @@ https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
 https://mix.drmlive.net/mix/engUnite82.mpd
 https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",FOX HDR10 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/t2l7sxqngp/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-Unite8 2 HD 50fps
-https://iptv.jio.com/livetv/data/Sansad_TV_1_HD.mpd|user-agent=Dalvik (Linux; U; Android 13; JHSC200 Build/11.2.94)
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",TRT 1 (TURKISH)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
@@ -2163,12 +2153,6 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",SOMOY TV
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",VTV 10
-https://vtv-veitnam.keralive.workers.dev/vtvgo/vtv6-manifest.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",
-https://fawatv.online/live/F2E62CEFFF6C6F88C237BD9DF4957C35/667.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",FOX SPORTS
 http://84.17.50.102/fox/index.m3u8
@@ -2852,8 +2836,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-789-j5m5m0uw-v1/imageContent-789-j5m5m0uw-m1.png",AL JAZEERA
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #https://cdn-7.pishow.tv/live/429/master.m3u8
 #https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
@@ -3431,6 +3414,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c261e6bdade947fd9c8598765267df35:51d0966cb265ba250ec5eda0ff6bc0a8
 https://delta13tatasky.akamaized.net/out/i/5615195.mpd
 
+#EXTINF: tvg-logo="" group-title="Kids",ANIMAX
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+
 ==============================================================================================================================================
 KNOWLEDGE - അറിവ് 
 ==============================================================================================================================================
@@ -3620,15 +3606,17 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="",FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Food_XP_MOB/Fallback/index.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/foodxp/master.m3u8
+https://jmp2.uk/stvp-IN3000003QJ
+#https://live.dinesh29.com.np/stream/jiotvplus/foodxp/master.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",FASHION TV
 #https://jio.drmlive.net/jio/bpk-tv/Fashion_India_MOB/Fallback/index.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/fashionindia/master.m3u8
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/fashionindia/master.m3u8
 #https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01546-ftv-fashiontv-xiaomi/playlist.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",FASHION TV 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/DMAX_v1.png" group-title="Lifestyle",ASTRO DMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3649,6 +3637,9 @@ https://jmp2.uk/stvp-IN26000147D
 
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/66674f5e1df7751fcf01ae62/66bcf02e2df833b1662d7069_INFAST.png" group-title="Lifestyle",IN FAST
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle",VILLAGE COOKING CHANNEL
+https://rpn3.bozztv.com/dvrfl07/ushba-t10/index.m3u8
 
 ==============================================================================================================================================
 COMEDY - തമാശ 
@@ -3738,3 +3729,9 @@ https://dash2.antik.sk/stream/hisi_discovery/playlist_cbcs.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="",Fox Sports Test
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Z Keralam Test
+http://iptvcasomsapi.jprdigital.in/x-media/C0559/master.m3u8
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Asianet Plus Test
+http://iptvcasomsapi.jprdigital.in/x-media/C0475/master.m3u8
