@@ -2130,44 +2130,22 @@ https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&toke
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 1 HD SUNDIRECT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55ca7b96946703b0e70d4b5a0c0a36fe:c442558af3961253a42a16c0b6f552d7
-https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
+#https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 2 HD SUNDIRECT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ef9ad824df31b59ccf642a6de56a98:85dfbeca61d2000d18dc01a7b5a38800
-https://mix.drmlive.net/mix/engUnite82.mpd
-https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd
-
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",TRT 1 (TURKISH)
-https://trt.daioncdn.net/trt-1/master.m3u8?app=web
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",ZOR TV (UZBEK) 
-https://stream8.cinerama.uz/1016/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",CAZE TV (PORTU)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",TELEMUNDO (SPANISH)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",SOMOY TV
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+#https://mix.drmlive.net/mix/engUnite82.mpd
+#https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",FOX SPORTS
 http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",BEIN SPORTS
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",ITC CANADA
+https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fitctv.ca
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",BEIN SPORTS MAX 2
-https://yaciretv.live:8080/max22/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",TNT SPORTS PREMIUM
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",D SPORTS
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",BIOSCOPE+
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
 
 
 =====================================================================================================================================
