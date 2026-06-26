@@ -2145,7 +2145,13 @@ http://84.17.50.102/fox/index.m3u8
 https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fitctv.ca
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",BIOSCOPE+
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_2.m3u8
+https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",ELTA
+https://www.rtmpcdn.com/live/elta.m3u8
+
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",CCTV 5
+https://www.rtmpcdn.com/live/cctv5.m3u8
 
 
 =====================================================================================================================================
@@ -2156,8 +2162,8 @@ Movies - സിനിമ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
-#http://103.159.180.34:5001/live/165.m3u8
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+http://103.159.180.34:5001/live/165.m3u8
 #https://ze5.vodep39240327.workers.dev/channel/Zee Cinema HD.m3u8
 #https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #https://la.drmlive.net/tp/zee-zeecinemahd.m3u8
