@@ -17,7 +17,7 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#Last Update: 29/06/2026 📅
+#Last Update: 14/06/2026 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -288,7 +288,8 @@ https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/24_nim_https/110322/channel24/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jXLbVZu.jpeg" group-title="Malayalam",BIGTV 24x7
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+http://103.159.180.34:5001/live/3567.m3u8
+#https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHzr8J6QE7Q8eMle-zOq1r7h1y1kPBblgdg&s" group-title="Malayalam",NTV HD
 https://stream.logichost.in/NTV/live/chunklist_w1420234415.m3u8
@@ -2143,7 +2144,8 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="Sports",UNITE8 SPORTS 1 HD
-https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/y835-iiaw/chunklist_i1.m3u8
+#https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
 #https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://la.drmlive.net/tp/zee5/zeecafehd/index.m3u8
@@ -2175,7 +2177,8 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #https://live12.xiazhix1.top/live/85042987.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 1 HD
-https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
+https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/y835-iiaw/chunklist_i1.m3u8
+#https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
 #https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://la.drmlive.net/tp/zee5/zeecafehd/index.m3u8
@@ -2205,11 +2208,12 @@ https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",BIOSCOPE+
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",ELTA
-https://www.rtmpcdn.com/live/elta.m3u8
+#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",2DF
+https://s6.hopslan.com/zdfX11/tracks-a1/mono.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",CCTV 5
-https://www.rtmpcdn.com/live/cctv5.m3u8
+https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
+#https://www.rtmpcdn.com/live/cctv5.m3u8
 
 #EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",CAZE TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
@@ -3309,6 +3313,7 @@ https://login.bheem.tv/bpk-tv/22096/output/index.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11161-j99h67u8-v1/imageContent-11161-j99h67u8-m1.png",CARTOON NETWORK
+#https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Cartoon_Network_Hindi_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/cartoonnetworkhindi/master.m3u8
@@ -3490,6 +3495,9 @@ https://delta13tatasky.akamaized.net/out/i/5615195.mpd
 #EXTINF: tvg-logo="" group-title="Kids",ANIMAX
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 
+#EXTINF: tvg-logo="" group-title="Kids",MINIMAX
+https://vodzong.mjunoon.tv:8087/streamtest/157-1M/chunks.m3u8
+
 ==============================================================================================================================================
 KNOWLEDGE - അറിവ് 
 ==============================================================================================================================================
@@ -3564,6 +3572,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 #http://217.20.112.199/animalplanet/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Animal_Planet_HD_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/animalplanethd/master.m3u8
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet.png",ANIMAL PLANET
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="Knowledge",BBC EARTH 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3660,8 +3671,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mp
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/Discoveryturbo2.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png",TRAVELXP HD
+http://103.159.180.34:5001/live/164.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Travel_XP_HD_MOB/Fallback/index.m3u8
-https://live.dinesh29.com.np/stream/jiotvplus/travelxphd/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/travelxphd/master.m3u8
 #https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11862-j9l2p61c-v1/imageContent-11862-j9l2p61c-m1.png",TRAVEL 4K 
