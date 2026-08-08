@@ -17,54 +17,59 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#Last Update: 14/06/2026 📅
+#Last Update: 08/08/2026 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
 ====================================================================================================================================
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png",ASIANET
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/asianet/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Asianet_hd.png/revision/latest/scale-to-width-down/1000?cb=20210520135950",ASIANET HD
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_hd_live_https/index.m3u8
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #http://217.20.112.199/asianet/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/asianethd/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png",ASIANET USA
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianet_us_https/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",ASIANET PLUS
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/asianetplus/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",ASIANET PLUS UK
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_uk_https/index.m3u8
 
@@ -154,10 +159,11 @@ https://keys.vodep39240327.workers.dev/?id=1754.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/suryamovies/master.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",ASIANET MOVIES
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/asianetmovies/master.m3u8
@@ -165,18 +171,20 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #https://jt.drmlive.net/jiotvplus/459.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest?cb=20211123053324",ASIANET MOVIES USA
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_us_https/index.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Asianet_Movies_HD.png/revision/latest?cb=20211017153130",ASIANET MOVIES HD
-#EXTVLCOPT:http-referrer=https://tulnit.com
-#EXTVLCOPT:http-origin=https://tulnit.com
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://tulnit.com;Origin=https://tulnit.com"
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_hd_live_https/index.m3u8
 
@@ -1471,7 +1479,7 @@ https://keys.vodep39240327.workers.dev/?id=461.mpd
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",SONY SPORTS TEN 1 HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009276&uid=8004188626&pass=61498d15
-#https://sl.vodep39240327.workers.dev/channel/SONY TEN 1.m3u8
+#https://sliv.tgaadi.workers.dev/ten1hd.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten1hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten1hd.m3u8
 
@@ -2161,86 +2169,11 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg", TSN 4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://rtb-images.glueapi.io/320x0/live/rtb-aneka-title.png",RTB ANEKA (ENGLISH)
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://rtb-images.glueapi.io/320x0/live/GoLiveNew.png",RTB GO LIVE (ENGLISH)
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/CCTV-5_%E4%BD%93%E8%82%B2.svg/revision/latest/scale-to-width-down/1000?cb=20230605142724",CCTV 5
-#https://live12.xiazhix1.top/live/85042987.m3u8
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 1 HD
-https://hugh.cdn.rumble.cloud/live/k1ub38pe/live-hls/y835-iiaw/chunklist_i1.m3u8
-#https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
-#https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports1-Hindi-HD&ts=1781524499&token=2fbbde18a8152281ce07cc3eb921c406629c27c6421dbb2f252033bd6656973a&exp=1784548499&Powered-by-StreamFlex=363ee5f18d5a2e999d4cdc1159cda91c2f99623a15b41357d593596e17bd2af0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.net/tp/zee5/zeecafehd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 2 HD
-http://212.102.34.8:9080/AndFlixHD/video.m3u8
-#https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
-https://artl.yowaimo.in/sflex/stream.php?id=Unite8-Sports2-HD&ts=1781525061&token=b28fdf6bc7b984ffd188cb0e61f347cd70a02e11b92fb845f57ca034ab4567de&exp=1784549061&Powered-by-StreamFlex=a87a429cd596929edf1578bd3b9dd296242401a3aead4003969b2c4a780b2871
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 1 HD SUNDIRECT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55ca7b96946703b0e70d4b5a0c0a36fe:c442558af3961253a42a16c0b6f552d7
-#https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
-
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="FIFA WC 2026",UNITE8 SPORTS 2 HD SUNDIRECT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12ef9ad824df31b59ccf642a6de56a98:85dfbeca61d2000d18dc01a7b5a38800
-#https://mix.drmlive.net/mix/engUnite82.mpd
-#https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",FOX SPORTS
-http://84.17.50.102/fox/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",ITC CANADA
-https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/206463b5cd3531892c9bf8e69735d316/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fitctv.ca
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",BIOSCOPE+
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",2DF
-https://s6.hopslan.com/zdfX11/tracks-a1/mono.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",CCTV 5
-https://live01-cn-ali.bvjicd.com/live/79361366.m3u8
-#https://www.rtmpcdn.com/live/cctv5.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",CAZE TV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="",SPORT
-http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-
-#EXTINF:-1 group-title="FIFA WC 2026" tvg-logo="https://iili.io/KYJqv0G.png",FOX SPORTS 1 HD
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/prod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p/CBS-Sports-Logo-1731106414735.png" group-title="FIFA WC 2026",CBS SPORTS
+#EXTINF:-1 tvg-logo="" group-title="Sports",KAYO KI MKC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eRFE0jZ.png" group-title="FIFA WC 2026", TSN 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte-qw.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5f27947d6ebb502691d6e93acc55f534:0641727268a42fa27ccb68c3ceea57c2
+https://live1-814bffb9b389f652.fastly.foxtelgroupcdn.net.au/out/v1/3bd8ced0e60e46069001d0e522d7bc20/index.mpd
 
 =====================================================================================================================================
 Movies - സിനിമ 
