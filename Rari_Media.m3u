@@ -3748,3 +3748,13 @@ TEST - പരീക്ഷണം
 =========================================================================================================================================
 
 
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Asianet_Movies_HD.png/revision/latest?cb=20211017153130",ASIANET MOVIES HD TEST
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+#https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+#https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
