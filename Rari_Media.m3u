@@ -71,6 +71,15 @@ https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaa
 #KODIPROP:mimetype=application/dash+xml
 https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_uk_https/index.m3u8
 
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_Plus.png",ASIANET PLUS USA
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_US_https/index.m3u8
+
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/200x200_SuryaTV_194398_010180e7-db04-4e2a-9b57-c81dfee73222.png",SURYA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56e1f5b5b72e4e45a98b6f287c265ab9:6dee8663e63cc8f8dda8478b8b2f3b71
@@ -147,6 +156,7 @@ http://27.116.22.53:5001/live/1754.m3u8
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 #https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/playlist.m3u8
 #https://jt.drmlive.net/jiotvplus/459.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Asianet_Movies_HD.png/revision/latest?cb=20211017153130",ASIANET MOVIES HD
@@ -397,6 +407,7 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Powervision_TV.png" group-title="Malayalam",POWERVISION
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:powervision.smil/playlist.m3u8
+#https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
 #https://in1.sunilprasad.com.np/yuppLive/power-vision-tv/master.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Powervision_TV_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1644.mpd
@@ -429,6 +440,7 @@ https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sd
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/35095cc1ec4f4aa5c23dca6e6887b4d69324982976dadb911ddd4a9c5e4b4e86.png" group-title="Malayalam",DIVINE  
 https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+https://bozztv.com/gfaith/gfaith-divine/index.m3u8
 
 #EXTINF:1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kannur_one.png" group-title="Malayalam",KANNUR ONE
 http://27.116.22.53:5001/live/1514.m3u8
@@ -502,10 +514,21 @@ https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb
 #https://jio.drmlive.net/jio/Real_News_Kerala/Real_News_Kerala_1200.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJWfyfM.png" group-title="Malayalam",MALABAR NEWS 
-#http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
 https://logichost.keralive.workers.dev/live/malabarnews/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yJWfyfM.png" group-title="Malayalam",MALABAR PLUS
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
 https://logichost.keralive.workers.dev/live/mplus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ssMOeaj.png" group-title="Malayalam",ONE TV
@@ -554,8 +577,14 @@ https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 http://server.applelive.in/kalikatv/kalikatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye6v4GP.png" group-title="Malayalam",SWANTHAM
-#http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
 https://logichost.keralive.workers.dev/SWANTHAM/live/index.m3u8
+#http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yF2C4Dt.png" group-title="Malayalam",WAYANAD VISION
 https://cloudsavre.in.net/hls/stream.m3u8
@@ -628,6 +657,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/mvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/GlobeonTelevision.png" group-title="Malayalam", GLOBEON TELEVISION
 http://27.116.22.53:5001/live/3565.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",KERALA GTPL HD
+http://srvvii.nellaiiptv.com:8033/app-restream/4vw22q-keralagtpltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malayalam",METRO LIVE
+https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
 
 ==============================================================================================================================================
 TAMIL - தமிழ்
@@ -3735,20 +3770,11 @@ https://logichost.keralive.workers.dev/SWANTHAM/live/index.m3u8
 #KODIPROP:mimetype=application/dash+xml
 https://runn-tv.keralive.workers.dev/runntv/stream/suptam/playlist.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="",UNITE8 SPORTS 1 HD TEST
+#EXTINF:-1 group-title="Test" tvg-logo="",ASIANET CINEMA TEST
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://colorsportscreen.com/dishtv/dish-play.php?id=14
-
-#EXTINF:-1 group-title="Test" tvg-logo="",UNITE8 SPORTS 2 HD TEST
-#EXTVLCOPT:http-referrer=https://bhoomtv.me
-#EXTVLCOPT:http-origin=https://bhoomtv.me
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
-#KODIPROP:mimetype=application/dash+xml
-https://colorsportscreen.com/dishtv/dish-play.php?id=15
+https://b4uplay.com/api/asianetcinema.php
