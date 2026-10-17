@@ -713,7 +713,7 @@ https://keys.vodep39240327.workers.dev/?id=3269.mpd
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/ztamil332hd-03.png",Z TAMIL HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
-#https://zati5.hasanhabibmottakin.workers.dev/0-9-zeetamil/index.m3u8
+https://yupp-tv.keralive.workers.dev/28072023/smil:zeetamil1.smil/playlist.m3u8
 #http://27.116.22.53:5001/live/628.m3u8
 #https://ze5.vodep39240327.workers.dev/channel/Zee Tamil HD.m3u8
 #https://la.drmlive.net/tp/zee5/zeetamil/index.m3u8
@@ -3752,23 +3752,23 @@ TEST - പരീക്ഷണം
 #KODIPROP:mimetype=application/dash+xml
 https://yupp-tv.keralive.workers.dev/28072023/smil:zeetamil1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Test" tvg-logo="",SWANTHAM TEST
+#EXTINF:-1 group-title="Test" tvg-logo="",UNITE8 SPORTS 1 HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://logichost.keralive.workers.dev/SWANTHAM/live/index.m3u8
+https://colorsportscreen.com/dishtv/dish-play.php?id=14
 
-#EXTINF:-1 group-title="Test" tvg-logo="",RUNN TV TEST
+#EXTINF:-1 group-title="Test" tvg-logo="",UNITE8 SPORTS 2 HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://runn-tv.keralive.workers.dev/runntv/stream/suptam/playlist.m3u8
+https://colorsportscreen.com/dishtv/dish-play.php?id=15
 
 #EXTINF:-1 group-title="Test" tvg-logo="",ASIANET CINEMA TEST
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
@@ -3777,4 +3777,4 @@ https://runn-tv.keralive.workers.dev/runntv/stream/suptam/playlist.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://b4uplay.com/api/asianetcinema.php
+#https://b4uplay.com/api/asianetcinema.php
