@@ -873,7 +873,8 @@ https://cdn.pishow.tv/ott/live/1253/master.m3u8
 https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/76_Tamil_channel.jpeg/revision/latest?cb=20191225165506" group-title="Tamil",7S MUSIC
-https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/tracks-v2a1/mono.m3u8
+https://mumbai-edge.smartplaytv.in/7SMusic/index.m3u8
+#https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/tracks-v2a1/mono.m3u8
 #http://udigitalott.ridsys.in/riptv/live/stream1/index.m3u8
 #http://202.164.50.194:8000/play/a026/index.m3u8
 #https://livectv3.phando.com/8050/playlist.m3u8
@@ -1083,6 +1084,7 @@ https://nhstudio-samsung.vgcdn.net/v1/019d0b69195815fc60e9135a7f0877/019d0b69658
 
 #EXTINF:-1 tvg-logo="http://casomsapi.smartmobiletv.in/uploads/channels/channel-logo-C318-1765979431.png" group-title="Tamil",SANA PLUS HD
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+#http://14.96.244.82:5001/live/3359.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/SUBIN-1775855173563.jpg" group-title="Tamil",SUBIN TV
 https://stream.ottlive.co.in/subintvtamil/index.m3u8
@@ -1251,9 +1253,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/main.mpd
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/andtv332hd-03.png",&TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/manifest.mpd
-#https://ze5.vodep39240327.workers.dev/channel/&TV HD.m3u8
+#KODIPROP:inputstream.adaptive.license_key=115d9343e1cd44ef9a727d4464052c74:d8f9f6b3f87ff0f80c6b822b866538cf
+https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
 #https://la.drmlive.net/tp/zee5/tvhd_0/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/Andtvhd.m3u8
@@ -1274,10 +1275,9 @@ https://zati5.hasanhabibmottakin.workers.dev/0-9-zeetv/index.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/ztv332hd-03.png",Z TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://zati5.hasanhabibmottakin.workers.dev/0-9-9z5383487/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=a2c366733ca64732aaa52e254435464f:0250acf67b77584f54250c2bbc9f56b9
+https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd
 #http://14.96.244.82:5001/live/167.m3u8
 #https://la.drmlive.net/tp/zee5/zeetvhd/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeetvhd.m3u8
@@ -1366,11 +1366,9 @@ https://keys.vodep39240327.workers.dev/?id=1143.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/07/anmoltv_z_166.png",Z ANMOL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4023613457774cbeb71a62c339970e63:1c3e9fce5f014542be9cd1f749181204
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/main.mpd?
-#https://ze5.vodep39240327.workers.dev/channel/Zee Anmol.m3u8
+#KODIPROP:inputstream.adaptive.license_key=ea7f1391b58146b59bb26c085d350412:4b8e8517a36b1296bba2371aab19ce7a
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol/dash/Zee_Anmol.mpd
 #https://la.drmlive.net/tp/zee5/zeeanmol/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/Zeeanmol.m3u8
@@ -2314,14 +2312,11 @@ Movies - സിനിമ
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zcinema332hd-03.png",Z CINEMA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
-http://14.96.244.82:5001/live/165.m3u8
-#https://ze5.vodep39240327.workers.dev/channel/Zee Cinema HD.m3u8
+#KODIPROP:inputstream.adaptive.license_key=a2c366733ca64732aaa52e254435464f:0250acf67b77584f54250c2bbc9f56b9
+https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd
+#http://14.96.244.82:5001/live/165.m3u8
 #https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #https://la.drmlive.net/tp/zee-zeecinemahd.m3u8
-#https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8
-#http://192.168.1.6:8080/live.php?id=165&key=JITENDRAUNATTI&e=.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/Zeecinemahd.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zcinema332hd-03.png",Z CINEMA HD APAC
@@ -2348,9 +2343,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/masterSportsLover.m3u
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zbollywood332-03.png",Z BOLLYWOOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e61523260c614746b25b9a5523fe9a39:72ddbf37f76f49acbb8e140e7279e7a1
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood/default/manifest.mpd
-#https://ze5.vodep39240327.workers.dev/channel/Zee Bollywood.m3u8
+#KODIPROP:inputstream.adaptive.license_key=795bacfb62a6475f8ae90dab34db6f35:bba4400eb2f0c47083caa602f301078f
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd
 #https://la.drmlive.net/tp/zee5/zeeclassic/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
 #http://192.168.1.6:8080/live.php?id=487&key=JITENDRAUNATTI&e=.m3u8
@@ -2365,8 +2359,8 @@ http://14.96.244.82:5001/live/1691.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zaction332-03.png",Z ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9d7a1917ee3244d198193cdd1ff1feae:3c3e8d0259f748f1830f713a769760e7
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f75496a182404a428fca4edeec1e324f:7037652ddefc44ca91f263c8fa35cb32
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
 #https://la.drmlive.net/tp/zee5/zeeaction/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
 #http://192.168.1.6:8080/live.php?id=488&key=JITENDRAUNATTI&e=.m3u8
@@ -2375,12 +2369,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/manifest.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/07/anmolcimena-new-_z_166.png",Z ANMOL CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-#KODIPROP:mimetype=application/dash+xml
-#http://103.175.73.12:8080/live/271/271_0.m3u8
+#KODIPROP:inputstream.adaptive.license_key=1e86dc3bec8c4e4fb6bb6163a518e125:228a5920ee98be6fefef1248db8cb777
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol_Cinema.mpd
 #https://la.drmlive.net/tp/zee5/zeeanmolcinema/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
 #http://192.168.1.6:8080/live.php?id=415&key=JITENDRAUNATTI&e=.m3u8
@@ -2438,10 +2428,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/andpicktures332hd-03%20(1).png",&PICTURES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=26ca37be75a54d2ca2252dea8ac3ee30:98023bd9809b72c0a27516cd683f556d
+https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictures_HD.mpd
 #http://14.96.244.82:5001/live/185.m3u8
-#https://ze5.vodep39240327.workers.dev/channel/&Pictures HD.m3u8
 #https://la.drmlive.net/tp/zee5/tvpictureshd/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/Andpictureshd.m3u8
@@ -2920,6 +2909,12 @@ https://supflm.cdn.runn.tv/runntv/stream/p_supjio/playlist.m3u8
 #EXTINF: -1 group-title="Movies" tvg-logo="",BOLLYGOLD
 https://nhstudio.vgcdn.net/v1/019c6f6ccfb71567ee931d808fa98f/019c6f7cedea1567ee931d808fa993/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://14.96.244.82:5001/jtvimage/blygld.png" group-title="Movies", NH BOLLYGOLD
+http://14.96.244.82:5001/live/3338.m3u8
+
+#EXTINF:-1 tvg-logo="http://14.96.244.82:5001/jtvimage/blyflx.png" group-title="Movies", NH BOLLYFLIX
+http://14.96.244.82:5001/live/3336.m3u8
+
 #EXTINF: -1 group-title="Movies" tvg-logo="",HORROR TV
 https://vglivessai.akamaized.net/ptnr-lg/title-HORROR-LGIndia/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2fa1e206-2bdc-47cd-8ae9-77f5b042d80b/master.m3u8
 
@@ -3128,6 +3123,7 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png" group-title="Business",YAHOO FINANCE
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#http://14.96.244.82:5001/live/3346.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNBC_v1.png" group-title="Business",ASTRO CNBC 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3158,11 +3154,16 @@ https://keys.vodep39240327.workers.dev/?id=1145.mpd
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/JC_MTVHD/JCHLS/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png",MTV INDIA
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
+#https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 #https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/MTV_MOB/Fallback/index.m3u8
-#https://live.dinesh29.com.np/stream/jiotvplus/mtv/master.m3u8
-#https://webott.viatv.com.np/v0t1/MTV.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
@@ -3171,8 +3172,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png",ZOOM
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86edec9e3b7d4042a4d4a1ca14f847ee:9def4315f0004019a3705bcb3cf30ca3
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zoom2/default/main.mpd
+#KODIPROP:inputstream.adaptive.license_key=9256c7bc8e7a4a21af4347587036b52a:9b9f02e03af15abf9a61dfcdf2347a2b
+#https://d2o8pibksxtln6.cloudfront.net/live/media/Zoom/dash/Zoom.mpd
 #https://mumbai-edge.smartplaytv.in/Zoom/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zoom_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/zoom/master.m3u8
@@ -3189,6 +3190,9 @@ https://i.mjh.nz/.r/10-mtvlife.m3u8
 #https://cdnb4u.wiseplayout.com/B4U_Music/SD504/SD504.m3u8
 https://mix.drmlive.net/mix/xiaomi-66225.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png",B4U MUSIC APAC
+https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",MASTIII
 https://jmp2.uk/stvp-IN1700003HF
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/f8e6c0d9-5e45-4cb5-837d-4c66b4a3813a/1.m3u8
@@ -3199,7 +3203,7 @@ http://14.96.244.82:5001/live/585.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0fb14eebe474a6ab74c8301d55a7224:f9f8b2e30704458b8db844a285ce32be
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 #https://la.drmlive.net/tp/zee-zing.m3u8
 #https://live.drmlive-02.workers.dev/zee/zing.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/Zing.m3u8
@@ -3297,6 +3301,15 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://yt3.googleusercontent.com/dKBpjdqRkmSJqqLUybd9iygGh1iyZgqEkqVDaYaFvrs0ZO93bbVq00L4TQH2XabJYOq1Igp1QA=s900-c-k-c0x00ffffff-no-rj",SHEEMAROO MUSIC HITS
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+#EXTVLCOPT:http-origin=https://bhoomtv.me
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+#KODIPROP:mimetype=application/dash+xml
+https://shemaroo.keralive.workers.dev/du_filmigaane/du_filmigaane_1080/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music",BOLLYWOOD HUNGAMA
 #https://jio.drmlive.net/jio/bpk-tv/Bollywood_Hungama_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/bollywoodhungama/master.m3u8
@@ -3322,6 +3335,7 @@ https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/blyrag.png" tvg-language="Hindi" group-title="Music", NH BOLLYRAGA
 https://prod-runn.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
+http://14.96.244.82:5001/live/3343.m3u8
 
 ======================================================================================================================================
 KIDS CARTOON - കാർട്ടൂൺ 
@@ -3907,18 +3921,8 @@ TEST - പരീക്ഷണം
 
 #EXTINF:-1 group-title="Test" tvg-logo="",Z KERALAM HD TEST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="":""
+#KODIPROP:inputstream.adaptive.license_key=nVDM3sTwxfmq9nbJRNTrB0GZuuY:CKmdygEIlaHLAQiIoM0BCJfylDA
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="",Z TV HD TEST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="":""
-https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd
-
-#EXTINF:-1 group-title="Test" tvg-logo="",Z CINEMA HD TEST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="":""
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="",SONY TV TEST
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
@@ -3927,4 +3931,4 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_H
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
-https://techandeat.online/sliv/stream.m3u8?id=1000009246
+#https://techandeat.online/sliv/stream.m3u8?id=1000009246
