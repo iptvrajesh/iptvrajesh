@@ -33,7 +33,7 @@ MALAYALAM - മലയാളം
 #https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Asianet-HD-2.png",ASIANET HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://img.media.jio.com/tvpimages/42/10/301975_1753198997948_l.jpg",ASIANET HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -44,7 +44,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #http://217.20.112.199/asianet/index.m3u8
 #https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Asianet-HD-2.png",ASIANET HD USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://img.media.jio.com/tvpimages/42/10/301975_1753198997948_l.jpg",ASIANET HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -53,7 +53,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianet_us_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Asianet-Plus.png",ASIANET PLUS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199068744_l.jpg",ASIANET PLUS
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -62,7 +62,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Asianet-Plus.png",ASIANET PLUS UK
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199068744_l.jpg",ASIANET PLUS UK
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -71,7 +71,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_uk_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Asianet-Plus.png",ASIANET PLUS USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199068744_l.jpg",ASIANET PLUS USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -85,7 +85,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:inputstream.adaptive.license_key=56e1f5b5b72e4e45a98b6f287c265ab9:6dee8663e63cc8f8dda8478b8b2f3b71
 https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
 
-#EXTINF:1 tvg-logo="https://sund-images.sunnxt.com/194397/200x200_SuryaTVHD_194397_4c99c17b-92d4-49be-a490-b5958067190a.png" group-title="Malayalam",SURYA TV HD
+#EXTINF:1 tvg-logo="https://img.media.jio.com/imagespublic/21/44/SuryaTVHD_1590074171072_tv.jpg" group-title="Malayalam",SURYA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
@@ -159,7 +159,7 @@ http://14.96.244.82:5001/live/1754.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e31d0e29f345f1006459676f2c3afc6a:e26ba29eeafe4fa7a94cacadfb13a8aa
 https://ev-hw-fast-mpd.starzplayarabia.com/Asianet_Cinema/dash/drm/index.mpd
     
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Asianet-Movies.png",ASIANET MOVIES
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://img.media.jio.com/tvpimages/47/31/302099_1753203208252_l.jpg",ASIANET MOVIES
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -170,7 +170,7 @@ https://ev-hw-fast-mpd.starzplayarabia.com/Asianet_Cinema/dash/drm/index.mpd
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/playlist.m3u8
 #https://jt.drmlive.net/jiotvplus/459.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Asianet-Movie-HD.png",ASIANET MOVIES HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://img.media.jio.com/tvpimages/34/22/301977_1753187222224_l.jpg",ASIANET MOVIES HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -180,7 +180,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/playlist.m
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Asianet-Movie-HD.png",ASIANET MOVIES HD USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://img.media.jio.com/tvpimages/34/22/301977_1753187222224_l.jpg",ASIANET MOVIES HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -210,7 +210,7 @@ https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_i
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Safari_TV.png",SAFARI TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png?width=400",ASIANET NEWS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png?width=1200",ASIANET NEWS
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13737-amg13737c1-amgplt0016/c4f736a6-5bfc-11f1-bc65-2ec306e1e174/191/1024x576_4127609/index.m3u8
 #https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
@@ -698,7 +698,7 @@ https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_inde
 #KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
 https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",STAR VIJAY HD
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://img.media.jio.com/tvpimages/41/51/302085_1753204418193_l.jpg",STAR VIJAY HD
 http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
 #EXTINF:-1 group-title="Tamil" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",STAR VIJAY UK
