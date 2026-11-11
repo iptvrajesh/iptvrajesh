@@ -33,7 +33,7 @@ MALAYALAM - മലയാളം
 #https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Asianet_hd.png",ASIANET HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/dfa02872f0a715b87da7407b3f02faea.png",ASIANET HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -44,7 +44,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #http://217.20.112.199/asianet/index.m3u8
 #https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET/images/LOGO_HD/image.png",ASIANET HD USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/dfa02872f0a715b87da7407b3f02faea.png",ASIANET HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -159,7 +159,7 @@ http://14.96.244.82:5001/live/1754.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e31d0e29f345f1006459676f2c3afc6a:e26ba29eeafe4fa7a94cacadfb13a8aa
 https://ev-hw-fast-mpd.starzplayarabia.com/Asianet_Cinema/dash/drm/index.mpd
     
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png",ASIANET MOVIES
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Asianet_Movies.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original",ASIANET MOVIES
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -170,7 +170,7 @@ https://ev-hw-fast-mpd.starzplayarabia.com/Asianet_Cinema/dash/drm/index.mpd
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/playlist.m3u8
 #https://jt.drmlive.net/jiotvplus/459.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Asianet_Movies_HD.png",ASIANET MOVIES HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c96e813252ed2fbf64fa0a6c0f85cd00.png",ASIANET MOVIES HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -180,7 +180,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/playlist.m
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Asianet_Movies_HD.png",ASIANET MOVIES HD USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/c96e813252ed2fbf64fa0a6c0f85cd00.png",ASIANET MOVIES HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
