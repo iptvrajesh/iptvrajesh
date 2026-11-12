@@ -33,7 +33,7 @@ MALAYALAM - മലയാളം
 #https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://chatgpt.com/s/m_6af57ccdb1b88191b803cc97a57b00e8",ASIANET HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://chatgpt.com/backend-api/estuary/public_content/enc/eyJpZCI6Im1fNmFmNTdjY2RiMWI4ODE5MWI4MDNjYzk3YTU3YjAwZTg6ZmlsZV8wMDAwMDAwMGQwYjg4MjEyOGI4MmI4YzEzZDRhM2NjMCIsImdpem1vX2lkIjpudWxsLCJ3aWQiOm51bGwsIm9pZCI6bnVsbCwic2lkIjpudWxsLCJjcyI6bnVsbCwiZm4iOm51bGwsImNkIjpudWxsLCJ0cyI6IjIwNzY5IiwicCI6InB5aSIsImNpZCI6IjEiLCJzaWciOiJmYzM1NjUzY2U1MDY3YjQ3YzEzYTQwYjM4YjVhOTkxM2QxMWRlOGM5OTIxMjk0MzUyN2I1ZDc1YzU1NmM3OGRkIiwidiI6IjAiLCJjZG4iOm51bGwsImNwIjpudWxsLCJtYSI6bnVsbH0=",ASIANET HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
