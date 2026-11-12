@@ -33,7 +33,7 @@ MALAYALAM - മലയാളം
 #https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png",ASIANET HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png?lock=1920x1080",ASIANET HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -44,7 +44,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #http://217.20.112.199/asianet/index.m3u8
 #https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png",ASIANET HD USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png?lock=1920x1080",ASIANET HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -53,7 +53,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianet_us_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png",ASIANET PLUS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png?lock=1920x1080",ASIANET PLUS
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -62,7 +62,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png",ASIANET PLUS UK
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png?lock=1920x1080",ASIANET PLUS UK
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -71,7 +71,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_uk_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png",ASIANET PLUS USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142680_ld_h15_aa.png?lock=1920x1080",ASIANET PLUS USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -97,7 +97,7 @@ https://premiumplugx.me/jee/zee5.php/0-9-129.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1641.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143065_ld_h15_aa.png",FLOWERS TV
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143065_ld_h15_aa.png?lock=1920x1080",FLOWERS TV
 http://14.96.244.82:5001/live/634.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -116,7 +116,7 @@ https://cdn.pishow.tv/ott/live/1467/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/jeevan-tv.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142632_ld_h15_aa.png",AMRITA TV
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142632_ld_h15_aa.png?lock=1920x1080",AMRITA TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #http://14.96.244.82:5001/live/723.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Amrita_TV_MOB/Fallback/index.m3u8
@@ -159,7 +159,7 @@ http://14.96.244.82:5001/live/1754.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e31d0e29f345f1006459676f2c3afc6a:e26ba29eeafe4fa7a94cacadfb13a8aa
 https://ev-hw-fast-mpd.starzplayarabia.com/Asianet_Cinema/dash/drm/index.mpd
     
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142677_ld_h15_aa.png",ASIANET MOVIES
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142677_ld_h15_aa.png?lock=1920x1080",ASIANET MOVIES
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -170,7 +170,7 @@ https://ev-hw-fast-mpd.starzplayarabia.com/Asianet_Cinema/dash/drm/index.mpd
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/playlist.m3u8
 #https://jt.drmlive.net/jiotvplus/459.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s158302_ld_h15_aa.png",ASIANET MOVIES HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s158302_ld_h15_aa.png?lock=1920x1080",ASIANET MOVIES HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -180,7 +180,7 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/playlist.m
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetmovies_live_https/index.m3u8
 #https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s158302_ld_h15_aa.png",ASIANET MOVIES HD USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s158302_ld_h15_aa.png?lock=1920x1080",ASIANET MOVIES HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -210,7 +210,7 @@ https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_i
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Safari_TV.png",SAFARI TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png",ASIANET NEWS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142679_ld_h15_aa.png?lock=1920x1080",ASIANET NEWS
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13737-amg13737c1-amgplt0016/c4f736a6-5bfc-11f1-bc65-2ec306e1e174/191/1024x576_4127609/index.m3u8
 #https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
@@ -314,7 +314,7 @@ https://cdn.pishow.tv/ott/live/1123/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/kappa-tv.m3u8
 #https://jt.drmlive.net/jiotvplus/786.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png",GOODNESS TV
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143091_ld_h15_aa.png?lock=1920x1080",GOODNESS TV
 https://mumt07.tangotv.in/zHjX9OFlGOODNESSTV/index.m3u8
 #http://14.96.244.82:5001/live/1388.m3u8
 #https://da86m1sqpm3o0.cloudfront.net/181224/smil:goodness.smil/playlist.m3u8
@@ -741,7 +741,7 @@ https://login.bheem.tv/bpk-tv/22376/output/index.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/jayatvhd/master.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Jaya_TV_HD_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png",COLORS TAMIL HD
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s158241_ld_h15_aa.png?lock=1920x1080",COLORS TAMIL HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Colors_Tamil_HD_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorstamilhd/master.m3u8
@@ -760,7 +760,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/in
 #https://jio.drmlive.net/jio/bpk-tv/Raj_TV_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/rajtv/master.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s143012_ld_h15_aa.png",D TAMIL
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s143012_ld_h15_aa.png?lock=1920x1080",D TAMIL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6cb0bcbeac25fb286fed851e41de38c:955c54f2cac8783fafccae5e5f9cdf8d
 https://login.bheem.tv/bpk-tv/22652/output/index.mpd
@@ -824,7 +824,7 @@ http://14.96.244.82:5001/live/767.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Raj_News_24x7_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/rajnews24x7/master.m3u8
 
-#EXTINF:-1 group-title="Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s142797_ld_h15_aa.png",DD TAMIL
+#EXTINF:-1 group-title="Tamil" tvg-logo="https://dtil.tmsimg.com/assets/s142797_ld_h15_aa.png?lock=1920x1080",DD TAMIL
 https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 #https://cdn.pishow.tv/ott/live/26/master.m3u8
 
@@ -1234,13 +1234,13 @@ http://217.20.112.199/sabtvhd/index.m3u8
 https://e77bef9b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfU29ueUtBTF9ITFM/playlist.m3u8
 #https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYKZL.png",&TV 
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYKZL.png?lock=1920x1080",&TV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26df86eeebb04d7fbc45c948f76e81fd:5f3a23f1a73c4c96ababce5fffe7b06b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/main.mpd
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",&TV HD
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=1920x1080",&TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=115d9343e1cd44ef9a727d4464052c74:d8f9f6b3f87ff0f80c6b822b866538cf
@@ -1249,11 +1249,11 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
 #https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/Andtvhd.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",&TV HD UK
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=1920x1080",&TV HD UK
 https://jmp2.uk/stvp-GB3700007OZ
 #https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png",&TV HD USA
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=1920x1080",&TV HD USA
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zee_TV_2025.svg/revision/latest?cb=20250608214903",Z TV 
@@ -1355,7 +1355,7 @@ https://colors.keralive.workers.dev/28072023/smil:colorsau1.smil/playlist.m3u8
 https://keys.vodep39240327.workers.dev/?id=1143.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/starutsav/master.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png",Z ANMOL
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260HWS.png?lock=1920x1080",Z ANMOL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea7f1391b58146b59bb26c085d350412:4b8e8517a36b1296bba2371aab19ce7a
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol/dash/Zee_Anmol.mpd
@@ -1363,7 +1363,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol/dash/Zee_Anmol.mpd
 #https://live.drmlive-02.workers.dev/zee/zeeanmol.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol/default/Zeeanmol.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png",COLORS RISHTEY
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png?lock=1920x1080",COLORS RISHTEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1370
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -1373,7 +1373,7 @@ https://keys.vodep39240327.workers.dev/?id=1370.mpd
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsRishtey/JCHLS/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/1370.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png",COLORS RISHTEY USA
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png?lock=1920x1080",COLORS RISHTEY USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -1382,7 +1382,7 @@ https://keys.vodep39240327.workers.dev/?id=1370.mpd
 #KODIPROP:mimetype=application/dash+xml
 https://etv.keralive.workers.dev/090823/smil:ristheyamerica.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png",COLORS RISHTEY UK
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158239_ld_h15_aa.png?lock=1920x1080",COLORS RISHTEY UK
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -1410,7 +1410,7 @@ https://keys.vodep39240327.workers.dev/?id=3071.mpd
 #https://jio.drmlive.net/jio/bpk-tv/TV_Asia_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/tvasia/master.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png",COLORS INFINITY HD
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/s158150_ld_h15_aa.png?lock=1920x1080",COLORS INFINITY HD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1432,7 +1432,7 @@ https://mumbai-edge.smartplaytv.in/DDBharathi/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYL56.png" group-title="Hindi",BIG MAGIC
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYL56.png?lock=1920x1080" group-title="Hindi",BIG MAGIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2318,7 +2318,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
 #http://192.168.1.6:8080/live.php?id=488&key=JITENDRAUNATTI&e=.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction/default/Zeeaction.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png",Z ANMOL CINEMA
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=1920x1080",Z ANMOL CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1e86dc3bec8c4e4fb6bb6163a518e125:228a5920ee98be6fefef1248db8cb777
@@ -2328,7 +2328,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol
 #http://192.168.1.6:8080/live.php?id=415&key=JITENDRAUNATTI&e=.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/Zeeanmolcinema.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png" group-title="Movies",Z ANMOL CINEMA 2
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png?lock=1920x1080" group-title="Movies",Z ANMOL CINEMA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
@@ -2367,7 +2367,7 @@ https://cdn.pishow.tv/ott/live/1460/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="Movies",GOLDMINES BOLLYWOOD
 https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png",&PICTURES
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=1920x1080",&PICTURES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dea532cabfe4f71ba20f62310e7949f:7a214a974e4f4d1d9bb66364d5f0cb92
@@ -2377,7 +2377,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #https://live.drmlive-02.workers.dev/zee/pictures.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/Andpictures.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png",&PICTURES HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=1920x1080",&PICTURES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26ca37be75a54d2ca2252dea8ac3ee30:98023bd9809b72c0a27516cd683f556d
@@ -2387,13 +2387,13 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/And_Pictures_HD/dash/And_Pictur
 #https://live.drmlive-02.workers.dev/zee/tvpictureshd.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/Andpictureshd.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png",COLORS CINEPLEX
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158146_ld_h15_aa.png?lock=1920x1080",COLORS CINEPLEX
 https://techtraveleat.in/leo/live.m3u8?id=482&format=.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Colors_Cineplex_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorscineplex/master.m3u8
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplex/JCHLS/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png",COLORS CINEPLEX HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s158147_ld_h15_aa.png?lock=1920x1080",COLORS CINEPLEX HD
 https://techtraveleat.in/leo/live.m3u8?id=1477&format=.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Colors_Cineplex_HD_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexhd/master.m3u8
@@ -2423,20 +2423,20 @@ https://techtraveleat.in/leo/live.m3u8?id=1763&format=.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexbollywood/master.m3u8
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142750_ld_h15_aa.png",COLORS CINEPLEX SUPERHITS
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142750_ld_h15_aa.png?lock=1920x1080",COLORS CINEPLEX SUPERHITS
 https://techtraveleat.in/leo/live.m3u8?id=1450&format=.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Rishtey_Cineplex_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/colorscineplexsuperhit/master.m3u8
 #http://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png",B4U MOVIES
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s140063_ld_h9_aa.png?lock=1920x1080",B4U MOVIES
 https://mix.drmlive.net/mix/xiaomi-66224.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/B4U_Movies_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/b4umovies/master.m3u8
 #https://cdn.pishow.tv/ott/live/419/master.m3u8
 #https://cdnb4u.wiseplayout.com/B4U_Movies/SD504/SD504.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png",B4U KADAK
+#EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=1920x1080",B4U KADAK
 https://mix.drmlive.net/mix/xiaomi-66226.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/B4U_Kadak_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/b4ukadak/master.m3u8
@@ -2909,7 +2909,7 @@ EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.c
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #http://217.20.112.199/indiatoday/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png",CNN NEWS18
+#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=1920x1080",CNN NEWS18
 #https://drmlive.in/voot/web/492.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/cnnnews18/index.m3u8
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/playlist.m3u8
@@ -2924,21 +2924,21 @@ https://in1.sunilprasad.com.np/yuppLive/wion/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-231-j5fxh0ag-v1/imageContent-231-j5fxh0ag-m1.png",REPUBLIC TV
 https://vg-republictvlive.akamaized.net/out/v1/vglive-sk-366023/243a5fabe7fe4c8fadf2cb7bcc0a5baf/main.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png",DD INDIA
+#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=1920x1080",DD INDIA
 https://in1.sunilprasad.com.np/yuppLive/dd-india/master.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/DD_India_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/ddindia/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/dd-india.m3u8
 #https://ytlive.iptvhub.workers.dev/stream/ddindia/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png",BBC NEWS
+#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s158142_ld_h15_aa.png?lock=1920x1080",BBC NEWS
 #https://jmp2.uk/stvp-US4000033L
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
 #http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png",AL JAZEERA
+#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=1920x1080",AL JAZEERA
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 #https://cdn.pishow.tv/ott/live/429/master.m3u8
 #https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
@@ -2974,13 +2974,13 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/1/sig/e52230f79050aa333c4ac6430f40a
 #https://cdn4.skygo.mn/live/disk1/NHK_World/HLSv3-FTA/NHK_World.m3u8
 #https://cdn.pishow.tv/ott/live/455/master.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png",CNN 
+#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=1920x1080",CNN 
 https://jmp2.uk/stvp-GBBD8000016N
 #https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/CNN_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/cnn/master.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png", ASTRO CNN HD
+#EXTINF:-1 group-title="News" tvg-logo="https://dtil.tmsimg.com/assets/s157679_ld_h15_aa.png?lock=1920x1080", ASTRO CNN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"v34bl1VcSst0VfcRsqn/Fg", "kid":"G2GKKRzs5EyYRd3fxP2bEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -3017,7 +3017,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/manifest.mpd
 #https://live.drmlive-02.workers.dev/zee/zeebusiness.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebusiness/default/Zeebusiness.m3u8
 
-#EXTINF:-1 group-title="Business" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00216VDJ.png",CNBC AWAAZ
+#EXTINF:-1 group-title="Business" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00216VDJ.png?lock=1920x1080",CNBC AWAAZ
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=3724000.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/CNBC_Awaaz_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/cnbcawaaz/master.m3u8
@@ -3025,14 +3025,14 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Aw
 #https://drmlive.in/voot/web/190.m3u8
 #https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_131636_eng=131600-video=699600.m3u8
 
-#EXTINF:-1 group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png",CNBC BAZAAR
+#EXTINF:-1 group-title="Business" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png?lock=1920x1080",CNBC BAZAAR
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/CNBC_Bazaar_NW18_MOB-audio_131636_eng=131600-video=3724000.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/CNBC_Bazaar_MNO_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/cnbcbazaar/master.m3u8
 #https://live.drmlive-02.workers.dev/jc/490.m3u8
 #https://drmlive.in/voot/web/490.m3u8
 
-#EXTINF:-1 group-title="Business" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00216VH0.png",CNBC TV18
+#EXTINF:-1 group-title="Business" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00216VH0.png?lock=1920x1080",CNBC TV18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98834_eng=98800-video=3724000.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/CNBC_Tv_18_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18/master.m3u8
@@ -3040,7 +3040,7 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV1
 #https://drmlive.in/voot/web/489.m3u8
 #https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_131636_eng=131600-video=801600.m3u8
 
-#EXTINF:-1 group-title="Business" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00215L6T.png",CNBC TV18 PRIME HD
+#EXTINF:-1 group-title="Business" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00215L6T.png?lock=1920x1080",CNBC TV18 PRIME HD
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/CNBC_Tv18_Prime_HD_MOB/Fallback/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/cnbctv18prime/master.m3u8
@@ -3113,7 +3113,7 @@ https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="",MTV LIFE
 https://i.mjh.nz/.r/10-mtvlife.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png",B4U MUSIC
+#EXTINF:-1 group-title="Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=1920x1080",B4U MUSIC
 #https://jio.drmlive.net/jio/bpk-tv/B4U_Music_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/b4umusic/master.m3u8
 #https://cdn.pishow.tv/ott/live/415/master.m3u8
@@ -3121,7 +3121,7 @@ https://i.mjh.nz/.r/10-mtvlife.m3u8
 #https://cdnb4u.wiseplayout.com/B4U_Music/SD504/SD504.m3u8
 https://mix.drmlive.net/mix/xiaomi-66225.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png",B4U MUSIC APAC
+#EXTINF:-1 group-title="Music" tvg-logo="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png?lock=1920x1080",B4U MUSIC APAC
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",MASTIII
@@ -3286,7 +3286,7 @@ https://keys.vodep39240327.workers.dev/?id=1391.mpd
 https://keys.vodep39240327.workers.dev/?id=1392.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/superhungama/master.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s159012_ld_h15_aa.png",DISNEY CHANNEL
+#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s159012_ld_h15_aa.png?lock=1920x1080",DISNEY CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1373
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
@@ -3300,26 +3300,26 @@ https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/master.m3u8
 https://keys.vodep39240327.workers.dev/?id=1374.mpd
 https://live.dinesh29.com.np/stream/jiotvplus/disneyjunior/master.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s142989_ld_h15_aa.png",DISNEY INTERNATIONAL HD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s142989_ld_h15_aa.png?lock=1920x1080",DISNEY INTERNATIONAL HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://keys.vodep39240327.workers.dev/?key=1375
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://keys.vodep39240327.workers.dev/?id=1375.mpd
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158843_ld_h15_aa.png" group-title="Kids",DISNEY CHANNEL HD 
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s158843_ld_h15_aa.png?lock=1920x1080" group-title="Kids",DISNEY CHANNEL HD 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142990_ld_h15_aa.png" group-title="Kids",DISNEY JUNIOR
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142990_ld_h15_aa.png?lock=1920x1080" group-title="Kids",DISNEY JUNIOR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
 https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pf4SxjC/knbc.png" group-title="Kids",DISNEY XD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pf4SxjC/knbc.png?lock=1920x1080" group-title="Kids",DISNEY XD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
@@ -3387,7 +3387,7 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/3033
 http://223.25.71.211:5001/live/mpd/3033
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png",DISCOVERY KIDS
+#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=1920x1080",DISCOVERY KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
@@ -3418,7 +3418,7 @@ https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-132-j5fpedbs-v4/imageContent-132-j5fpedbs-m6.png",SONY YAY!
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s143025_ld_h15_aa.png",ETV BAL BHARAT HD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s143025_ld_h15_aa.png?lock=1920x1080",ETV BAL BHARAT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://tplay-vivek.vercel.app/play.m3u8?id=1340
 
@@ -3487,7 +3487,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
 #EXTINF:-1 tvg-logo="" group-title="Kids",ZOOMOO
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s142739_ld_h15_aa.png",CHUTTI TV
+#EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s142739_ld_h15_aa.png?lock=1920x1080",CHUTTI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
 https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
@@ -3599,13 +3599,13 @@ https://jmp2.uk/stvp-IN460000585
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000011Q_20250205T004626SQUARE.png&h=250",XXTREME JOBS
 https://jmp2.uk/stvp-IN46000011Q
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s100869_ld_h15_aa.png",DISCOVERY
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s100869_ld_h15_aa.png?lock=1920x1080",DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a8cf9450c4d6484b4ac4d3c6761c0:0908be844260409cbac180bf0181da40
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.mpd
 #https://live.dinesh29.com.np/stream/jiotvplus/discovery/master.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png",DISCOVERY HD WORLD
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=1920x1080",DISCOVERY HD WORLD
 #https://jio.drmlive.net/jio/bpk-tv/Discovery_HD_World_MOB/Fallback/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/discoveryhdworld/master.m3u8
 #https://neeplay.tv/delta/discovery/api/Discovery_Channel.m3u8
@@ -3627,7 +3627,7 @@ https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/3425
 http://223.25.71.211:5001/live/mpd/3425
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png",ANIMAL PLANET HD 
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png?lock=1920x1080",ANIMAL PLANET HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
@@ -3635,7 +3635,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 #https://jio.drmlive.net/jio/bpk-tv/Animal_Planet_HD_MOB/Fallback/index.m3u8
 #https://live.dinesh29.com.np/stream/jiotvplus/animalplanethd/master.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s157574_ld_h15_aa.png",ANIMAL PLANET
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s157574_ld_h15_aa.png?lock=1920x1080",ANIMAL PLANET
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="Knowledge",BBC EARTH 
@@ -3644,7 +3644,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png",DISCOVERY SCIENCE
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=1920x1080",DISCOVERY SCIENCE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
@@ -3653,7 +3653,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.
 #https://raw.githubusercontent.com/inspirationlinks/m3u/live/Streams/DiscSci.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/Discoveryscience2.m3u8
 
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png",ASTRO ANIMAL PLANET HD
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s158140_ld_h15_aa.png?lock=1920x1080",ASTRO ANIMAL PLANET HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"TU1NncQb5D9SiklAz2bxTA", "kid":"1RmfFROgKG4Dja6PfYIAEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -3724,7 +3724,7 @@ https://in1.sunilprasad.com.np/yuppLive/ndtv-goodtimes/master.m3u8
 #https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/ndtv-goodtimes.m3u8
 
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png",DISCOVERY TURBO
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s159108_ld_h15_aa.png?lock=1920x1080",DISCOVERY TURBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
