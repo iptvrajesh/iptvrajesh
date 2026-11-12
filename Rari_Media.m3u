@@ -23,7 +23,7 @@
 MALAYALAM - മലയാളം 
 ====================================================================================================================================
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://cdn.jiostar.com/jiostar/wp-content/uploads/2024/11/Asianet.png",ASIANET
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Asianet-min.png",ASIANET
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -53,7 +53,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianet_us_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Asianet%20Plus.png",ASIANET PLUS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Asianet%20Plus-min.png",ASIANET PLUS
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -62,7 +62,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_live_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Asianet%20Plus.png",ASIANET PLUS UK
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Asianet%20Plus-min.png",ASIANET PLUS UK
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -71,7 +71,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_uk_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Asianet%20Plus.png",ASIANET PLUS USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Asianet%20Plus-min.png",ASIANET PLUS USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -85,7 +85,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:inputstream.adaptive.license_key=56e1f5b5b72e4e45a98b6f287c265ab9:6dee8663e63cc8f8dda8478b8b2f3b71
 https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
 
-#EXTINF:1 tvg-logo="https://ik.imagekit.io/a9ilvccwf/Surya%20HD.png" group-title="Malayalam",SURYA TV HD
+#EXTINF:1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0031MCS3.png?lock=1920x1080" group-title="Malayalam",SURYA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
@@ -116,7 +116,7 @@ https://cdn.pishow.tv/ott/live/1467/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/jeevan-tv.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/e8c1375787d09c2bc90f7e4ba420ea50.png",AMRITA TV
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Amrita_TV-min.png",AMRITA TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #http://14.96.244.82:5001/live/723.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Amrita_TV_MOB/Fallback/index.m3u8
@@ -210,7 +210,7 @@ https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_i
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Safari_TV.png",SAFARI TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asianet_News.png?width=1200",ASIANET NEWS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/WB_Logo_Asianet%20News.png",ASIANET NEWS
 https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
 #https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13737-amg13737c1-amgplt0016/c4f736a6-5bfc-11f1-bc65-2ec306e1e174/191/1024x576_4127609/index.m3u8
 #https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
@@ -417,7 +417,7 @@ https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #https://ythls-v3.onrender.com/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Powervision_TV.png" group-title="Malayalam",POWERVISION
+#EXTINF:-1 tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Powervision_LCN-873_264x144.png" group-title="Malayalam",POWERVISION
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:powervision.smil/playlist.m3u8
 #https://mumt07.tangotv.in/zHjX9OFlPOWERVISION/index.m3u8
 #http://14.96.244.82:5001/live/1644.m3u8
