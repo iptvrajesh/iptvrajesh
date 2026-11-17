@@ -3866,9 +3866,10 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 TEST - പരീക്ഷണം 
 =========================================================================================================================================
 
-#EXTINF:-1 group-title="Test" tvg-logo="",UNITE8 SPORTS 1 HD TEST
+
+#EXTINF:-1 group-title="Test" tvg-logo="",Z KERALAM HD TEST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5b243a993e1c420da5e82dfe0fa84e15:1fc85d272b83a9fc9ffcff465da04419
+#KODIPROP:inputstream.adaptive.license_key=e48fe91781b34ae1b33f7978211c7f54:e48c42ca7569be5f0c8e92937f138837
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="",SONY TV HD TEST
