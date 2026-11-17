@@ -17,7 +17,7 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#Last Update: 10/11/2026 📅
+#Last Update: 17/11/2026 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -91,8 +91,9 @@ https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_inde
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Zee%20Keralam%20HD.png?updatedAt=1756821211166",Z KERALAM HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-https://premiumplugx.me/jee/zee5.php/0-9-129.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e48fe91781b34ae1b33f7978211c7f54:e48c42ca7569be5f0c8e92937f138837
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
 #https://la.drmlive.net/tp/zee5/129/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1641.mpd
@@ -1243,7 +1244,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtv/default/main.mpd
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022RLRS.png?lock=1920x1080",&TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=115d9343e1cd44ef9a727d4464052c74:d8f9f6b3f87ff0f80c6b822b866538cf
+#KODIPROP:inputstream.adaptive.license_key=7f9fd9e2b49d42f1a69c4299421b8a0f:b03515c72fce5c30db029780409c5fa4
 https://d2o8pibksxtln6.cloudfront.net/live/media/And_Tv_HD/dash/And_Tv_HD.mpd
 #https://la.drmlive.net/tp/zee5/tvhd_0/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/tvhd_0.m3u8
@@ -2240,10 +2241,16 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="Sports",UNITE8 SPORTS 1 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=134124&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79a8c99921c04b88b3a0a124ba3bc4f0:1866902b9d4ffdef88cf2d72aaa90d0b
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
+#http://tv.cloudcdn.me:80/live.ts?channelId=134124&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Sports",UNITE8 SPORTS 2 HD
-http://tv.cloudcdn.me:80/live.ts?channelId=134125&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37b8d0c7caf041fb853f5d9864a01f97:45d359a86ade1ac45adb145e6b57e20a
+https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
+#http://tv.cloudcdn.me:80/live.ts?channelId=134125&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
 #EXTINF:-1 tvg-logo="https://s3.us-west-2.amazonaws.com/prod-cbssportstenantstack-citadelbucket0907d78c-qwwjcczd8p3p/CBS-Sports-Logo-1731106414735.png" group-title="Sports",CBS SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2262,14 +2269,14 @@ Movies - സിനിമ
 =====================================================================================================================================
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zcinema332hd-03.png",Z CINEMA HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2c366733ca64732aaa52e254435464f:0250acf67b77584f54250c2bbc9f56b9
-https://d2o8pibksxtln6.cloudfront.net/live/media/ZEE_TV_HD/dash/ZEE_TV_HD.mpd
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/playlist.m3u8
 #http://14.96.244.82:5001/live/165.m3u8
 #https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #https://la.drmlive.net/tp/zee-zeecinemahd.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/Zeecinemahd.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81c3e713fb9b45bcbba6b3e2df620282:a418fe71d89cf6e5e5cb104aa990fdfc
+#https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Cinema_HD/dash/Zee_Cinema_HD.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zcinema332hd-03.png",Z CINEMA HD APAC
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
@@ -2295,7 +2302,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/masterSportsLover.m3u
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zbollywood332-03.png",Z BOLLYWOOD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=795bacfb62a6475f8ae90dab34db6f35:bba4400eb2f0c47083caa602f301078f
+#KODIPROP:inputstream.adaptive.license_key=03c64d82918441b7b7449ac02d08d7c1:e7afebe7bf350fe3549af17bc728df7d
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywood.mpd
 #https://la.drmlive.net/tp/zee5/zeeclassic/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeeclassic.m3u8
@@ -2304,14 +2311,17 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Bollywood/dash/Zee_Bollywoo
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zclassic332-03.png",Z CLASSIC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-http://14.96.244.82:5001/live/1691.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b767926087c34f95ad70a68584dc2d56:efa4460a9484889eabbf9394b324c3bb
+https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Classic/dash/Zee_Classic.mpd
+#http://14.96.244.82:5001/live/1691.m3u8
 #https://la.drmlive.net/tp/zee5/176/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/176.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.zee.com/wp-content/uploads/2025/02/channel-logos/zaction332-03.png",Z ACTION
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f75496a182404a428fca4edeec1e324f:7037652ddefc44ca91f263c8fa35cb32
+#KODIPROP:inputstream.adaptive.license_key=b5c48512b47f460c81c58caa721ad645:a5ce6d4045f1e2ed72d3a8a1dfb8feb1
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
 #https://la.drmlive.net/tp/zee5/zeeaction/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeeaction.m3u8
@@ -2321,7 +2331,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Action/dash/Zee_Action.mpd
 #EXTINF:-1 group-title="Movies" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=1920x1080",Z ANMOL CINEMA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1e86dc3bec8c4e4fb6bb6163a518e125:228a5920ee98be6fefef1248db8cb777
+#KODIPROP:inputstream.adaptive.license_key=f8e52c1df0184440a95a36f34a9d3d0a:5060500c348cdd8cf29b2d76910c7792
 https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol_Cinema.mpd
 #https://la.drmlive.net/tp/zee5/zeeanmolcinema/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/zeeanmolcinema.m3u8
@@ -2330,11 +2340,9 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Anmol_Cinema/dash/Zee_Anmol
 
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260Y9L.png?lock=1920x1080" group-title="Movies",Z ANMOL CINEMA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_headers="User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36"
-#KODIPROP:mimetype=application/dash+xml
-http://103.175.73.12:8080/live/257/257_0.m3u8
-#https://ze5.vodep39240327.workers.dev/channel/Zee Anmol Cinema 2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e97877c07f484474afebbbcbf5d93ee6:0a876965e0163f5785cc1c08f690c4bf
+https://d2o8pibksxtln6.cloudfront.net/live/media/Anmol_Cinema_2/dash/Anmol_Cinema_2.mpd
 #https://la.drmlive.net/tp/zee5/bigganga/index.m3u8
 #https://live.drmlive-02.workers.dev/zee/bigganga.m3u8
 
@@ -3381,11 +3389,9 @@ https://login.bheem.tv/bpk-tv/22603/output/index.mpd
 #https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-2694-j638bugw-v1/imageContent-2694-j638bugw-m1.png",POGO MALAYALAM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://223.25.71.211:5001/live/key/3033
-http://223.25.71.211:5001/live/mpd/3033
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5012:6784567890abcfebcd23aa27e4ac2811
+https://wbd.skandha.tv/pogo/pogo.isml/.mpd
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://dtil.tmsimg.com/assets/s159011_ld_h15_aa.png?lock=1920x1080",DISCOVERY KIDS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3870,7 +3876,7 @@ TEST - പരീക്ഷണം
 #EXTINF:-1 group-title="Test" tvg-logo="",Z KERALAM HD TEST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e48fe91781b34ae1b33f7978211c7f54:e48c42ca7569be5f0c8e92937f138837
-https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
+#https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam_HD.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="",SONY TV HD TEST
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
@@ -3880,11 +3886,6 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam
 #KODIPROP:inputstream.adaptive.manifest_headers="Referer=https://bhoomtv.me;Origin=https://bhoomtv.me;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
 #KODIPROP:mimetype=application/dash+xml
 https://techandeat.online/sliv/stream.m3u8?id=1000009246
-
-#EXTINF:-1 group-title="Test" tvg-logo="",POGO TEST
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://wv.service.expressplay.com/hms/wv/rights/?ExpressPlayToken=CAAecdykKbwAJDllZjdiZWM0LTM0NmQtNDA1NC04MTBjLWU1ODgyMjEyYjBkZAAAAICo3hJ4MCwINNY9SJwAjUQOyZUtyfACWuI0E_82OdELO59qU-7QnM6eO6YvfLQuOfvBHCj4icnkZetomCWOhobMPHfJT2SBDDRa38pcg1HSwjn2Naq__SID2V5mtXTtqY6tI8FhgkcZfdNV3NVnAHqyQjEQOlP9dQN1W0ODzoYEOn0829K9P_q-f39D0ImGYa18ltvbu0026id=b2869c690c3a99da35e2871354c151d624f7e866
-https://wbd.skandha.tv/pogo/pogo.isml/.mpd
 
 #EXTINF:-1 group-title="Test" tvg-logo="",SHEMAROO KIDS TEST
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
