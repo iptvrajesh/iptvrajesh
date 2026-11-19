@@ -17,7 +17,7 @@
 #EXTM3U x-tvg-url="https://rb.gy/hspor2"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-IN.xml.gz"
 
-#Last Update: 17/11/2026 📅
+#Last Update: 19/11/2026 📅
 
 ====================================================================================================================================
 MALAYALAM - മലയാളം 
@@ -2596,11 +2596,11 @@ http://223.25.71.211:5001/live/mpd/1136
 https://la.drmlive.net/tp/zee-209.m3u8
 #https://live.drmlive-02.workers.dev/zee/209.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",ASTRO CINEMAX HD
+#EXTINF:-1 group-title="Movies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",CINEMAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
+https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
 #EXTINF:-1 group-title="Movies" tvg-logo="",CINEMAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3650,10 +3650,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="Knowledge",BBC EARTH 
+https://live-manifest.production-public.tubi.io/live/88810cb1-e91e-4f19-870b-513ffc9a39cb/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
+#https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=1920x1080",DISCOVERY SCIENCE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3677,6 +3678,9 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" group-title="Knowledge",HISTORY TV18 HD
 https://jmp2.uk/stvp-IN1600008DN
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/History_2022_v1.png" group-title="Knowledge",HISTORY CONNECT
+https://d17g0in9p18tot.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/history_connect/germane.m3u8
 
 #EXTINF:-1 group-title="Knowledge" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11779-j9kx7rk0-v3/imageContent-11779-j9kx7rk0-m4.png",SONY BBC EARTH HD
 http://14.96.244.82:5001/live/821.m3u8
@@ -3705,6 +3709,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/man
 #https://live.dinesh29.com.np/stream/jiotvplus/investigationdiscovery/master.m3u8
 #https://neeplay.tv/delta/discovery/api/Investigation_Discovery.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/Investigationdiscovery2.m3u8
+
+#EXTINF:-1 group-title="Knowledge" tvg-logo="",DOCUBOX HD
+https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
 
 ==================================================================================================================================
 LIFE STYLE  - ജീവിത രീതി
@@ -3799,6 +3806,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-xia
 
 #EXTINF:-1 tvg-logo="" group-title="Lifestyle",VILLAGE COOKING CHANNEL
 https://rpn3.bozztv.com/dvrfl07/ushba-t10/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle",DOCUBAY
+https://cc-mgr91yrk4pehy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/27ffb662-e5a9-4267-9cde-9837a27a04e4/0.m3u8
 
 ==============================================================================================================================================
 COMEDY - തമാശ 
