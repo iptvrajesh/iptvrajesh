@@ -155,7 +155,7 @@ http://14.96.244.82:5001/live/1754.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Surya_Movies_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1754.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/ev-livechannels-avod/AVODASIANETCINEMAY2025MML/AVODASIANETCINEMAY2025MML-title-logo-en.png",ASIANET CINEMA  
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Asianet%20Cinema.png",ASIANET CINEMA  
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31d0e29f345f1006459676f2c3afc6a:e26ba29eeafe4fa7a94cacadfb13a8aa
 https://ev-hw-fast-mpd.starzplayarabia.com/Asianet_Cinema/dash/drm/index.mpd
