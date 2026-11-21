@@ -1590,20 +1590,20 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626
 #https://sl.vodep39240327.workers.dev/channel/SONY TEN 2.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten2hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten2hd.m3u8
-#https://dai.google.com/linear/hls/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
+#https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",SONY SPORTS TEN 3 HD HINDI
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009278&uid=8004188626&pass=61498d15
 #https://sl.vodep39240327.workers.dev/channel/SONY TEN 3.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten3hd.m3u8
-#https://dai.google.com/linear/hls/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8 
+#https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",SONY SPORTS TEN 4 HD TAMIL
 #https://sl.vodep39240327.workers.dev/channel/SONY TEN 4.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten4hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten4hd.m3u8
-#https://dai.google.com/linear/hls/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
+#https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",SONY SPORTS TEN 5 HD
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626&pass=61498d15
@@ -1611,7 +1611,11 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626
 #https://live.drmlive-02.workers.dev/sliv/ten5hd.m3u8
 #https://la.drmlive.net/tp/sliv-ten5hd.m3u8
 #https://la.drmlive.net/tp/sliv.php?id=ten5hd
-#https://dai.google.com/linear/hls/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+#https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/general_content/PGT_1489_1.jpg",SONY LIV HD
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
+#https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://dtil.tmsimg.com/assets/s157802_ld_h15_aa.png",EUROSPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2462,26 +2466,26 @@ http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=19260&deviceSn=32DA037ED9210&
 #https://la.drmlive.net/tp/sliv-pix.m3u8
 #https://sl.vodep39240327.workers.dev/channel/SONY PIX HD.m3u8
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009258
-#https://dai.google.com/linear/hls/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Wah.png",SONY WAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/sliv-wah.m3u8
 #https://sl.vodep39240327.workers.dev/channel/SONY WAH.m3u8
-#https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/sliv-maxhd.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY MAX HD.m3u8
-#https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
 
 #EXTINF:-1 tvg-id="ts120" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_MAX2.png",SONY MAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://la.drmlive.net/tp/sliv-max2.m3u8
 https://sl.vodep39240327.workers.dev/channel/SONY MAX 2.m3u8
-#https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#https://dai.google.com/ssai/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",MNX
@@ -3895,6 +3899,9 @@ TEST - പരീക്ഷണം
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=122c84bc130940586c961bae652b3610:1153586a1a453e03402714a299964564
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5167/default_ott.mpd
+
+#EXTINF:-1 group-title="Test" tvg-logo="",TEST 2
+https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
 
 #EXTINF:-1 group-title="Test" tvg-logo="",SONY TV HD TEST
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
