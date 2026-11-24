@@ -80,12 +80,12 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #KODIPROP:mimetype=application/dash+xml
 https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/asianetplus_US_https/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://sund-images.sunnxt.com/194398/1000x1000_SunSurya_194398_f62d9cbc-0fd2-4a49-9da4-1a0fe8521aaa.png",SURYA TV
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sun_Surya_2026.png",SURYA TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56e1f5b5b72e4e45a98b6f287c265ab9:6dee8663e63cc8f8dda8478b8b2f3b71
 https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
 
-#EXTINF:1 tvg-logo="https://sund-images.sunnxt.com/195489/1000x1000_SunSuryaHDDolbyVision_195489_25e1f0b9-6029-4433-8f47-cddced981a62.png" group-title="Malayalam",SURYA TV HD
+#EXTINF:1 tvg-logo="https://sund-images.sunnxt.com/194397/1000x1000_SunSuryaHD_194397_6eed3e2f-ca8c-42d2-a039-f98a0ba6dc50.png" group-title="Malayalam",SURYA TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
@@ -136,7 +136,7 @@ https://segment.yuppcdn.net/050522/mazhavilmanorama/playlist.m3u8
 #https://cdn.pishow.tv/ott/live/1479/master.m3u8
 #https://jt.drmlive.net/jiotvplus/648.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854415477_l.jpg",MAZHAVIL MANORAMA HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Mazhavil_Manorama_HD.png",MAZHAVIL MANORAMA HD
 https://mmtv-mazhavil.vgcdn.net/vglive-sk-268476/index.m3u8
 #https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
 #https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
@@ -241,7 +241,7 @@ https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab
 #https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Mathrubhumi_News.jpg/revision/latest?cb=20240316150533",MATHRUBHUMI NEWS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/diQftzP.png",MATHRUBHUMI NEWS
 https://segment.yuppcdn.net/110322/mathrubhuminews/playlist.m3u8
 #http://14.96.244.82:5001/live/780.m3u8
 #https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/515c7a83-e80d-4234-975e-02c411df2e54/0.m3u8
@@ -362,7 +362,7 @@ https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
 #https://worker-utube.rajesh-cherukutty.workers.dev/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Media_One_2020.png/revision/latest?cb=20210307154213" group-title="Malayalam",MEDIA ONE
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MEDIA_ONE/images/LOGO_HD/image.png" group-title="Malayalam",MEDIA ONE
 https://cdn.pishow.tv/ott/live/1481/master.m3u8
 #https://streams.tangotv.in/MEDIAONETV/ORIGIN/index.m3u8
 #http://14.96.244.82:5001/live/910.m3u8
@@ -1883,10 +1883,10 @@ https://ssc-extra-2-enc.edgenextcdn.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
 https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Sports_Cricket_2020_DOG.png/revision/latest?cb=20210407130931",SKYSPORTS CRICKET
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Sports_Cricket_2020_DOG.png/revision/latest?cb=20210407130931", SKYSPORTS CRICKET
 http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="Sports",SKYSPORTS PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="Sports", SKYSPORTS PREMIER LEAGUE
 http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sports", PREMIER SPORTS 1
