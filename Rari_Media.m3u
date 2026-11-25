@@ -23,7 +23,7 @@
 MALAYALAM - മലയാളം 
 ====================================================================================================================================
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/Asianet-min.png",ASIANET
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/3/3b/Asianet_logo.png/revision/latest?cb=20251210125352",ASIANET
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -33,7 +33,7 @@ MALAYALAM - മലയാളം
 #https://as-net.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/asianet-tv.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png?lock=1920x1080",ASIANET HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/Asianet-HD-Logo-1-2.jpg",ASIANET HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -44,7 +44,7 @@ https://bhoomtv.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 #http://217.20.112.199/asianet/index.m3u8
 #https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142673_ld_h15_aa.png?lock=1920x1080",ASIANET HD USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/08/Asianet-HD-Logo-1-2.jpg",ASIANET HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 #EXTVLCOPT:http-origin=https://bhoomtv.me
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -98,7 +98,7 @@ https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Keralam_HD/dash/Zee_Keralam
 #https://jio.drmlive.net/jio/bpk-tv/Zee_Keralam_HD_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/1641.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143065_ld_h15_aa.png?lock=1920x1080",FLOWERS TV
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png",FLOWERS TV
 http://14.96.244.82:5001/live/634.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -108,7 +108,7 @@ http://14.96.244.82:5001/live/634.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/634.mpd
 
-#EXTINF:-1 tvg-logo="https://ik.imagekit.io/a9ilvccwf/Flowers%20TV%20USA.png?updatedAt=1756881267729" group-title="Malayalam",FLOWERS TV USA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Flowers%20TV%20USA.png?updatedAt=1756881267729",FLOWERS TV USA
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 
 #EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jeevan_TV.png",JEEVAN TV
@@ -117,7 +117,7 @@ https://cdn.pishow.tv/ott/live/1467/master.m3u8
 #https://live.drmlive-02.workers.dev/yupptv/fta/jeevan-tv.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Jeevan_TV_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s142632_ld_h15_aa.png?lock=1920x1080",AMRITA TV
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://i.imgur.com/WdSjlPl.png",AMRITA TV
 https://ddash74r36xqp.cloudfront.net/master.m3u8
 #http://14.96.244.82:5001/live/723.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Amrita_TV_MOB/Fallback/index.m3u8
@@ -128,7 +128,7 @@ https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Kairali_TV_MOB/Fallback/index.m3u8
 #https://jt.drmlive.net/jiotvplus/710.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Mazhavil_Manorama_2017.png/revision/latest/scale-to-width-down/1000?cb=20211123045454",MAZHAVIL MANORAMA
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Mazhavil_Manorama_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20230831122401",MAZHAVIL MANORAMA
 https://segment.yuppcdn.net/050522/mazhavilmanorama/playlist.m3u8
 #http://14.96.244.82:5001/live/648.m3u8
 #https://jio.drmlive.net/jio/bpk-tv/Mazhavil_Manorama_MOB/Fallback/index.m3u8
@@ -136,7 +136,7 @@ https://segment.yuppcdn.net/050522/mazhavilmanorama/playlist.m3u8
 #https://cdn.pishow.tv/ott/live/1479/master.m3u8
 #https://jt.drmlive.net/jiotvplus/648.mpd
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Mazhavil_Manorama_HD.png",MAZHAVIL MANORAMA HD
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://www.keralatv.in/media/2019/03/mazhavil-manorama-hd-latest-logo.png",MAZHAVIL MANORAMA HD
 https://mmtv-mazhavil.vgcdn.net/vglive-sk-268476/index.m3u8
 #https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
 #https://ddozob4sbfsmt.cloudfront.net/out/v1/51aaeddf56854312add90dfa8df07e39/index.m3u8
@@ -223,7 +223,7 @@ https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca14
 #https://mix.drmlive.net/mix/xiaomi-66219.m3u8
 #https://segment.yuppcdn.net/240122/asianetnews/playlist.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://ik.imagekit.io/a9ilvccwf/Kairali%20News.png?updatedAt=1756820275590",KAIRALI NEWS
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://dtil.tmsimg.com/assets/s143246_ld_h15_aa.png?lock=720x540",KAIRALI NEWS
 https://cdn.pishow.tv/ott/live/1469/master.m3u8
 #http://14.96.244.82:5001/live/725.m3u8
 #https://live-kairalinews.dailyhunt.in/KairaliNews/playlist.m3u8
@@ -251,7 +251,7 @@ https://segment.yuppcdn.net/110322/mathrubhuminews/playlist.m3u8
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
 #https://mathrubhumividgyor.pc.cdn.bitgravity.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/News18_Kerala1.svg/revision/latest/scale-to-width-down/1000?cb=20250215160614",NEWS18 KERALAM
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kerala.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20200410012152",NEWS18 KERALAM
 https://nw18live.cdn.jio.com/bpk-tv/News18_Kerala_NW18_MOB/output01/playlist.m3u8
 #https://jt.drmlive.net/jiotvplus/965.mpd
 #https://prod-sports-hin-fa.jiocinema.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/playlist.m3u8
@@ -284,7 +284,7 @@ https://segment.yuppcdn.net/140622/janamtv/playlist.m3u8
 #https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
 #https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live_720p/chunks.m3u8
 
-#EXTINF:-1 group-title="Malayalam" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png",TWENTY FOUR
+#EXTINF:-1 group-title="Malayalam" tvg-logo="https://sund-images.sunnxt.com/202222/1000x1000_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",TWENTY FOUR
 https://d1rc86nwwc9fag.cloudfront.net/110322/channel24dev/110322/channel24_1800/chunks.m3u8
 http://14.96.244.82:5001/live/1250.m3u8
 #https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/tracks-v2a1/mono.m3u8
@@ -370,7 +370,7 @@ https://cdn.pishow.tv/ott/live/1481/master.m3u8
 #https://jt.drmlive.net/jiotvplus/910.mpd
 #https://yupp.nayeem-parvez.workers.dev/tv.php?c=mediaone-tv
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_Malayalam.png" group-title="Malayalam",NEWS MALAYALAM 24x7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/News_Malayalam_main-logo_c.webp?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20250303083416" group-title="Malayalam",NEWS MALAYALAM 24x7
 https://vglivessai.akamaized.net/ptnr-lg/title-News_Malayalam_LGIndia/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/23b1b63f-0419-4eb7-8816-d502a77d3f50/index.m3u8
 #https://cdn.pishow.tv/ott/live/1629/master.m3u8
 #http://14.96.244.82:5001/live/3184.m3u8
@@ -1592,7 +1592,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009277&uid=8004188626
 #https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 #https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",SONY SPORTS TEN 3 HD HINDI
+#EXTINF:-1 group-title="Sports" tvg-logo="https://imagesv2.dsp1.ott.kaltura.com/Service.svc/GetImage/p/5093/entry_id/c05def097c4c4d9ca7b7d03dfb54b7d2/version/0/width/1600/height/900",SONY SPORTS TEN 3 HD HINDI
 https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009278&uid=8004188626&pass=61498d15
 #https://sl.vodep39240327.workers.dev/channel/SONY TEN 3.m3u8
 #https://live.drmlive-02.workers.dev/sliv/ten3hd.m3u8
@@ -1613,7 +1613,7 @@ https://sonyliv.joker-verse.workers.dev/master.m3u8?id=1000009275&uid=8004188626
 #https://la.drmlive.net/tp/sliv.php?id=ten5hd
 #https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/general_content/PGT_1489_1.jpg",SONY LIV HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/SonyLIV_2020.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled&_=20250612061919",SONY LIV HD
 https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
 #https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8
 
@@ -1886,7 +1886,7 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Sky_Sports_Cricket_2020_DOG.png/revision/latest?cb=20210407130931", SKYSPORTS CRICKET
 http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", group-title="Sports", SKYSPORTS PREMIER LEAGUE
+#EXTINF:-1 group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", SKYSPORTS PREMIER LEAGUE
 http://tv.cloudcdn.me:80/live.ts?channelId=286&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Sports", PREMIER SPORTS 1
@@ -1991,7 +1991,7 @@ https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlis
 #KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 #https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg/revision/latest?cb=20180916123020" group-title="Sports",FOX CRICKET 501 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/FoxCricket_2018.svg" group-title="Sports",FOX CRICKET 501 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thepapare.com/wp-content/uploads/TP_Logo_01.png" group-title="Sports",THE PAPARE
@@ -2250,13 +2250,13 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 #KODIPROP:inputstream.adaptive.license_key=1e23e51b09a67b83813c17049870bcd4:c3d6288e378b0dc55320fd0e6fd2e55f
 https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife1/DASH/CricLife1.mpd
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="Sports",UNITE8 SPORTS 1 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/27/Unite8_Sports_1_%282026%29.webp/revision/latest?cb=20260816022117" group-title="Sports",UNITE8 SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79a8c99921c04b88b3a0a124ba3bc4f0:1866902b9d4ffdef88cf2d72aaa90d0b
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd
 #http://tv.cloudcdn.me:80/live.ts?channelId=134124&uid=19260&deviceSn=32DA037ED9210&deviceMac=00:1A:79:F2:0F:96
 
-#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1349,h_759,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="Sports",UNITE8 SPORTS 2 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/4/47/Unite8_Sports_2_%282026%29.webp/revision/latest?cb=20260816022418" group-title="Sports",UNITE8 SPORTS 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b8d0c7caf041fb853f5d9864a01f97:45d359a86ade1ac45adb145e6b57e20a
 https://d2o8pibksxtln6.cloudfront.net/live/media/Unite8_Sports_2_HD/dash/Unite8_Sports_2_HD.mpd
@@ -3559,7 +3559,7 @@ https://jmp2.uk/stvp-GB4000008O5
 #EXTINF: tvg-logo="" group-title="Kids", MR BEAN ANIMATED
 https://jmp2.uk/stvp-GB900003KR
 
-#EXTINF: tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Tom_and_jerry.png/revision/latest?cb=20190509205116" group-title="Kids", TOM & JERRY
+#EXTINF: tvg-logo="https://logos-world.net/wp-content/uploads/2024/10/Tom-and-Jerry-Logo-500x281.png" group-title="Kids", TOM & JERRY
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
 #EXTINF: tvg-logo="" group-title="Kids", OGGY & COCKROACHES
